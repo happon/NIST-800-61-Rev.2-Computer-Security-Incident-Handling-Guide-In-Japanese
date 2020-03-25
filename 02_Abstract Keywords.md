@@ -16,7 +16,7 @@ The guidelines can be followed independently of particular hardware platforms, o
 
 
 ### Keywords
-computer security incident;
+computer security incident;  
 コンピュータセキュリティインシデント  
 
 incident handling;  
