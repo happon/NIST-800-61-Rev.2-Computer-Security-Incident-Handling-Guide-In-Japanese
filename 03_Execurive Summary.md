@@ -51,5 +51,48 @@ Understanding threats and identifying modern attacks in their early stages is ke
 Implementing the following requirements and recommendations should facilitate efficient and effective incident response for Federal departments and agencies.   
 以下の要件と推奨事項を実施することで、連邦省庁の効率的かつ効果的なインシデント対応が促進されるはずです。  
 
+<br/>
 
+#### Organizations must create, provision, and operate a formal incident response capability.   
+#### 組織は、正式なインシデント対応能力を作成し、提供し、運用する必要があります。  
+
+#### Federal law requires Federal agencies to report incidents to the United States Computer Emergency Readiness Team (US-CERT) office within the Department of Homeland Security (DHS).   
+#### 連邦法では、連邦政府機関は、インシデントを国土安全保障省（DHS）内の米国コンピュータ緊急事態対応チーム（US-CERT）に報告することが義務付けられています。  
+
+<br/>
+
+The Federal Information Security Management Act (FISMA) requires Federal agencies to establish incident response capabilities.  
+連邦情報セキュリティ管理法（FISMA）は、連邦政府機関にインシデント対応能力の確立を求めています。  
+
+Each Federal civilian agency must designate a primary and secondary point of contact (POC) with US-CERT and report all incidents consistent with the agency’s incident response policy.  
+各連邦民間機関は、US-CERT との一次および二次連絡窓口（POC）を指定し、その機関のインシデント対応方針に沿ってすべてのインシデントを報告しなければなりません。  
+
+Each agency is responsible for determining how to fulfill these requirements.  
+各機関は、これらの要件をどのように満たすかを決定する責任があります。  
+
+<br/>
+
+Establishing an incident response capability should include the following actions:  
+インシデント対応能力を確立するには、以下のアクションを含むべきです。   
+
+ Creating an incident response policy and plan  
+ インシデント対応方針と計画の作成  
+
+ Developing procedures for performing incident handling and reporting  
+ インシデント対応と報告を行うための手順書の作成  
+
+ Setting guidelines for communicating with outside parties regarding incidents  
+ インシデントに関する外部とのコミュニケーションのためのガイドラインの設定  
+
+ Selecting a team structure and staffing model  
+ チーム体制とスタッフィング（人員配置）モデルの選択  
+
+ Establishing relationships and lines of communication between the incident response team and other groups, both internal (e.g., legal department) and external (e.g., law enforcement agencies)  
+ 内部（法務部など）と外部（法執行機関など）の両方のインシデント対応チームと他のグループとの間の関係とコミュニケーションラインの確立  
+
+ Determining what services the incident response team should provide  
+ インシデント対応チームが提供すべきサービスの決定  
+
+ Staffing and training the incident response team.   
+ インシデント対応チームの人員配置と訓練  
 
