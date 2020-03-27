@@ -96,3 +96,25 @@ Establishing an incident response capability should include the following action
  Staffing and training the incident response team.   
  インシデント対応チームの人員配置と訓練  
 
+<br/>
+
+### Organizations should reduce the frequency of incidents by effectively securing networks, systems, and applications. 
+### 組織は、ネットワーク、システム、およびアプリケーションを効果的に保護することで、インシデントの頻度を減らす必要があります。  
+
+Preventing problems is often less costly and more effective than reacting to them after they occur.  
+問題の発生を防ぐことは、問題が発生した後に対応するよりもコストがかからず、効果的であることが多いです。  
+
+Thus, incident prevention is an important complement to an incident response capability.  
+したがって、インシデント予防は、インシデント対応能力を補完する重要な役割を果たします。  
+
+If security controls are insufficient, high volumes of incidents may occur.  
+セキュリティ対策が不十分な場合、大量のインシデントが発生する可能性があります。  
+
+This could overwhelm the resources and capacity for response, which would result in delayed or incomplete recovery and possibly more extensive damage and longer periods of service and data unavailability.  
+これは、対応のためのリソースと能力を圧倒する可能性があり、その結果、復旧が遅れたり、不完全になったりして、被害が拡大したり、サービスやデータが利用できない期間が長くなったりする可能性があります。  
+
+Incident handling can be performed more effectively if organizations complement their incident response capability with adequate resources to actively maintain the security of networks, systems, and applications.  
+インシデント対応は、ネットワーク、システム、およびアプリケーションのセキュリティを積極的に維持するために、組織がインシデント対応能力を十分なリソースで補完することで、より効果的に実施することができます。  
+
+This includes training IT staff on complying with the organization’s security standards and making users aware of policies and procedures regarding appropriate use of networks, systems, and applications.  
+これには、組織のセキュリティ基準を遵守するための IT スタッフのトレーニングや、ネットワーク、システム、およびアプリケーションの適切な使用に関するポリシーや手順をユーザーに認識させることが含まれます。  
