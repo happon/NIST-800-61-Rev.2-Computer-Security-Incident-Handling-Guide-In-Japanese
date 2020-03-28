@@ -1,4 +1,4 @@
-### Executive Summary「エグゼクティブ・サマリー」
+## Executive Summary「エグゼクティブ・サマリー」
 
 Computer security incident response has become an important component of information technology (IT) programs.  
 コンピュータセキュリティのインシデント対応は、情報技術（IT）プログラムの重要な要素となっています。  
@@ -53,11 +53,11 @@ Implementing the following requirements and recommendations should facilitate ef
 
 <br/>
 
-#### Organizations must create, provision, and operate a formal incident response capability.   
-#### 組織は、正式なインシデント対応能力を作成し、提供し、運用する必要があります。  
+### Organizations must create, provision, and operate a formal incident response capability.   
+### 組織は、正式なインシデント対応能力を作成し、提供し、運用する必要があります。  
 
-#### Federal law requires Federal agencies to report incidents to the United States Computer Emergency Readiness Team (US-CERT) office within the Department of Homeland Security (DHS).   
-#### 連邦法では、連邦政府機関は、インシデントを国土安全保障省（DHS）内の米国コンピュータ緊急事態対応チーム（US-CERT）に報告することが義務付けられています。  
+### Federal law requires Federal agencies to report incidents to the United States Computer Emergency Readiness Team (US-CERT) office within the Department of Homeland Security (DHS).   
+### 連邦法では、連邦政府機関は、インシデントを国土安全保障省（DHS）内の米国コンピュータ緊急事態対応チーム（US-CERT）に報告することが義務付けられています。  
 
 <br/>
 
@@ -118,3 +118,52 @@ Incident handling can be performed more effectively if organizations complement 
 
 This includes training IT staff on complying with the organization’s security standards and making users aware of policies and procedures regarding appropriate use of networks, systems, and applications.  
 これには、組織のセキュリティ基準を遵守するための IT スタッフのトレーニングや、ネットワーク、システム、およびアプリケーションの適切な使用に関するポリシーや手順をユーザーに認識させることが含まれます。  
+
+<br/>
+
+### Organizations should document their guidelines for interactions with other organizations regarding incidents.  
+### 組織は、インシデントに関する他の組織との相互作用に関するガイドラインを文書化すべきです。  
+
+During incident handling, the organization will need to communicate with outside parties, such as other incident response teams, law enforcement, the media, vendors, and victim organizations.  
+インシデント対応中、組織は、他のインシデント対応チーム、法執行機関、メディア、ベンダー、被害者組織などの外部関係者とコミュニケーションをとる必要があります。  
+
+Because these communications often need to occur quickly, organizations should predetermine communication guidelines so that only the appropriate information is shared with the right parties.  
+これらのコミュニケーションは、しばしば迅速に行われる必要があるため、組織は、適切な情報のみが適切な関係者と共有されるように、コミュニケーションのガイドラインを事前に決定しておくべきです。  
+<br/>
+
+### Organizations should be generally prepared to handle any incident but should focus on being prepared to handle incidents that use common attack vectors.  
+### 組織は、一般的にあらゆるインシデントに対応できるように準備しておくべきであるが、一般的な攻撃手段を使用するインシデントに 対処できるように準備しておくことに重点を置くべきです。
+
+Incidents can occur in countless ways, so it is infeasible to develop step-by-step instructions for handling every incident.  
+インシデントは無数の方法で発生する可能性があるため、すべてのインシデントを処理するための手順ひとつひとつの指示書を作成することは不可能です。  
+
+This publication defines several types of incidents, based on common attack vectors; these categories are not intended to provide definitive classification for incidents, but rather to be used as a basis for defining more specific handling procedures.  
+本書では、一般的な攻撃手段に基づいて、いくつかのタイプのインシデントを定義しています。これらの分類は、インシデントを決定的に分類することを意図したものではなく、より具体的な処理手順を定義するための基礎として使用することを意図したものです。 
+
+
+Different types of incidents merit different response strategies.  
+異なるタイプのインシデントには、異なる対応戦略が必要です。  
+
+The attack vectors are:   
+主な攻撃手段  
+
+ External/Removable Media: An attack executed from removable media (e.g., flash drive, CD) or a peripheral device.  
+外部/リムーバブル メディア):リムーバブルメディア (フラッシュドライブ、CD など) または周辺機器から実行される攻撃。  
+
+ Attrition: An attack that employs brute force methods to compromise, degrade, or destroy systems, networks, or services.  
+破壊：システム、ネットワーク、またはサービスを侵害、劣化、または破壊するために、ブルートフォース方式を使用する攻撃。  
+
+ Web: An attack executed from a website or web-based application.  
+Web：Web サイトまたは Web ベースのアプリケーションから実行される攻撃。  
+
+ Email: An attack executed via an email message or attachment.  
+電子メール：電子メールメッセージまたは添付ファイルを介して実行される攻撃。 
+
+ Improper Usage: Any incident resulting from violation of an organization’s acceptable usage policies by an authorized user, excluding the above categories.  
+不適切な使用：認可されたユーザーが組織の許容される利用ポリシーに違反した結果、上記のカテゴリーを除くすべてのインシデント。  
+
+ Loss or Theft of Equipment: The loss or theft of a computing device or media used by the organization, such as a laptop or smartphone.   
+機器の紛失または盗難：ラップトップやスマートフォンなど、組織で使用されているコンピューティングデバイスやメディアの紛失や盗難。  
+
+ Other: An attack that does not fit into any of the other categories.  
+その他：他のどのカテゴリーにも当てはまらない攻撃。  
