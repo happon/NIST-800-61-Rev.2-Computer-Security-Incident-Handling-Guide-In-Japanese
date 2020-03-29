@@ -54,10 +54,10 @@ Implementing the following requirements and recommendations should facilitate ef
 <br/>
 
 ### Organizations must create, provision, and operate a formal incident response capability.   
-### 組織は、正式なインシデント対応能力を作成し、提供し、運用する必要があります。  
+### 組織は、正式なインシデント対応能力を作成し、提供し、運用する必要がある。  
 
 ### Federal law requires Federal agencies to report incidents to the United States Computer Emergency Readiness Team (US-CERT) office within the Department of Homeland Security (DHS).   
-### 連邦法では、連邦政府機関は、インシデントを国土安全保障省（DHS）内の米国コンピュータ緊急事態対応チーム（US-CERT）に報告することが義務付けられています。  
+### 連邦法では、連邦政府機関は、インシデントを国土安全保障省（DHS）内の米国コンピュータ緊急事態対応チーム（US-CERT）に報告することが義務付けられている。  
 
 <br/>
 
@@ -99,7 +99,7 @@ Establishing an incident response capability should include the following action
 <br/>
 
 ### Organizations should reduce the frequency of incidents by effectively securing networks, systems, and applications. 
-### 組織は、ネットワーク、システム、およびアプリケーションを効果的に保護することで、インシデントの頻度を減らす必要があります。  
+### 組織は、ネットワーク、システム、およびアプリケーションを効果的に保護することで、インシデントの頻度を減らす必要がある  
 
 Preventing problems is often less costly and more effective than reacting to them after they occur.  
 問題の発生を防ぐことは、問題が発生した後に対応するよりもコストがかからず、効果的であることが多いです。  
@@ -122,7 +122,7 @@ This includes training IT staff on complying with the organization’s security 
 <br/>
 
 ### Organizations should document their guidelines for interactions with other organizations regarding incidents.  
-### 組織は、インシデントに関する他の組織との相互作用に関するガイドラインを文書化すべきです。  
+### 組織は、インシデントに関する他の組織との相互作用に関するガイドラインを文書化すべき  
 
 During incident handling, the organization will need to communicate with outside parties, such as other incident response teams, law enforcement, the media, vendors, and victim organizations.  
 インシデント対応中、組織は、他のインシデント対応チーム、法執行機関、メディア、ベンダー、被害者組織などの外部関係者とコミュニケーションをとる必要があります。  
@@ -132,7 +132,7 @@ Because these communications often need to occur quickly, organizations should p
 <br/>
 
 ### Organizations should be generally prepared to handle any incident but should focus on being prepared to handle incidents that use common attack vectors.  
-### 組織は、一般的にあらゆるインシデントに対応できるように準備しておくべきであるが、一般的な攻撃手段を使用するインシデントに 対処できるように準備しておくことに重点を置くべきです。
+### 組織は、一般的にあらゆるインシデントに対応できるように準備しておくべきであるが、一般的な攻撃手段を使用するインシデントに対処できるように準備しておくことに重点を置くべき  
 
 Incidents can occur in countless ways, so it is infeasible to develop step-by-step instructions for handling every incident.  
 インシデントは無数の方法で発生する可能性があるため、すべてのインシデントを処理するための手順ひとつひとつの指示書を作成することは不可能です。  
@@ -167,3 +167,55 @@ Web：Web サイトまたは Web ベースのアプリケーションから実�
 
  Other: An attack that does not fit into any of the other categories.  
 その他：他のどのカテゴリーにも当てはまらない攻撃。  
+
+<br/>
+
+### Organizations should emphasize the importance of incident detection and analysis throughout the organization.  
+### 組織は、組織全体でインシデントの検出と分析の重要性を強調すべき
+
+
+In an organization, millions of possible signs of incidents may occur each day, recorded mainly by logging and computer security software.  
+組織では、インシデントの可能性のある兆候が毎日何百万件も発生する可能性があり、主にロギングやコンピュータ・セキュリティ・ソフトウェアによって記録されています。  
+
+Automation is needed to perform an initial analysis of the data and select events of interest for human review.  
+データの初期分析を行い、人間がレビューするために関心のあるイベントを選択するためには、自動化が必要です。  
+
+Event correlation software can be of great value in automating the analysis process.  
+イベント相関ソフトウェアは、分析プロセスを自動化する上で大きな価値があります。  
+
+However, the effectiveness of the process depends on the quality of the data that goes into it.  
+しかし、そのプロセスの有効性は、そこに入るデータの質に依存します。
+
+Organizations should establish logging standards and procedures to ensure that adequate information is collected by logs and security software and that the data is reviewed regularly.  
+組織は、ログとセキュリティソフトウェアによって適切な情報が収集され、データが定期的にレビューされることを保証するために、ログの基準と手順を確立する必要があります。  
+
+<br/>
+
+### Organizations should create written guidelines for prioritizing incidents.  
+### 組織は、インシデントに優先順位をつけるための文書化されたガイドラインを作成すべき  
+
+Prioritizing the handling of individual incidents is a critical decision point in the incident response process.  
+個々のインシデントの処理に優先順位をつけることは、インシデント対応プロセスにおける重要な意思決定ポイントです。 
+
+Effective information sharing can help an organization identify situations that are of greater severity and demand immediate attention.   
+効果的な情報共有は、組織がより深刻度が高く、緊急の注意を必要とする状況を特定するのに役立ちます。  
+
+Incidents should be prioritized based on the relevant factors, such as the functional impact of the incident (e.g., current and likely future negative impact to business functions), the information impact of the incident (e.g., effect on the confidentiality, integrity, and availability of the organization’s information), and the recoverability from the incident (e.g., the time and types of resources that must be spent on recovering from the incident).   
+インシデントは、インシデントの機能的な影響（ビジネス機能への現在および将来の悪影響の可能性など）、インシデントの情報への影響（組織の情報の機密性、完全性、および可用性への影響など）、およびインシデントからの回復可能性（インシデントからの回復に費やさなければならない時間と種類のリソースなど）などの関連する要因に基づいて優先順位をつけるべきです。  
+
+<br/>
+
+### Organizations should use the lessons learned process to gain value from incidents. 
+### 組織は、インシデントから価値を得るために、レッスン・ラーニング・プロセスを利用すべき
+
+After a major incident has been handled, the organization should hold a lessons learned meeting to review the effectiveness of the incident handling process and identify necessary improvements to existing security controls and practices.  
+重大なインシデントが処理された後、組織は、インシデント処理プロセスの有効性をレビューし、既存のセキュリ ティ対策と実践に必要な改善点を特定するために、レッスン・ラーニング・ミーティングを実施します。   
+
+Lessons learned meetings can also be held periodically for lesser incidents as time and resources permit.  
+また、時間とリソースが許す限り、軽微なインシデントについても、教訓会議を定期的に実施することができます。 
+
+The information accumulated from all lessons learned meetings should be used to identify and correct systemic weaknesses and deficiencies in policies and procedures.  
+すべての教訓会議から蓄積された情報は、方針や手順のシステム的な弱点や不備を特定し、修正するために使用されるべきです。 
+
+Follow-up reports generated for each resolved incident can be important not only for evidentiary purposes but also for reference in handling future incidents and in training new team members.   
+解決された各インシデントについて作成されたフォローアップ報告書は、証拠としての目的だけでなく、今後のインシデントへの対応や新チームメンバーの訓練の参考にも重要です。  
