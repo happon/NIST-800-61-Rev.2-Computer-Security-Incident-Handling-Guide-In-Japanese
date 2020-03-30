@@ -1,4 +1,4 @@
-## 1. Introduction「序章」
+# 1. Introduction「序章」
 
 ### 1.1 Authority「権限」
 
