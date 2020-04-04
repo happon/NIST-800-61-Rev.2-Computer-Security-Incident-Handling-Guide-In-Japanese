@@ -25,27 +25,28 @@ Chief among these are the following:
 これらの中でも特に重要なものは以下の通りです。  
 
 ■ OMB’s Circular No. A-130, Appendix III,3 released in 2000, which directs Federal agencies to “ensure that there is a capability to provide help to users when a security incident occurs in the system and to share information concerning common vulnerabilities and threats.  
-
+2000 年に発表された OMB の通達 Circular No.A-130, Appendix III,3 は、連邦政府機関に対し、「システムにセキュリティインシデントが発生した場合にユーザーにヘルプを提供し、共通の脆弱性や脅威に関する情報を共有する能力があることを確保する」よう指示しています。  
 
 This capability shall share information with other organizations … and should assist the agency in pursuing appropriate legal action, consistent with Department of Justice guidance.”  
-
+この能力は、他の組織と情報を共有し、司法省のガイダンスに沿って、適切な法的措置を追求する際に機関を支援すべきです。  
 
 ■ FISMA (from 2002),4 which requires agencies to have “procedures for detecting, reporting, and responding to security incidents” and establishes a centralized Federal information security incident center, in part to:  
-
+ FISMA（2002 年制定）4 は、「セキュリティインシデントの検出、報告、および対応のための手順」を持つことを機関に要求し、連邦情報セキュリティインシデントセンターを集中的に設置することを目的としています。以下はその一部です。    
 
 – “Provide timely technical assistance to operators of agency information systems … including guidance on detecting and handling information security incidents …  
-
+- 機関の情報システムの運用者にタイムリーな技術支援を提供する...情報セキュリティインシデントの検出と処理に関するガイダンスを含む...  
 
 – Compile and analyze information about incidents that threaten information security …  
-
+- 情報セキュリティを脅かすインシデントに関する情報を集計し、分析する。  
 
 – Inform operators of agency information systems about current and potential information security threats, and vulnerabilities … .”  
-
+- 現在および潜在的な情報セキュリティの脅威と脆弱性について、機関の情報システムのオペレータに情報を提供する ...."  
 
 ■ Federal Information Processing Standards (FIPS) 200, Minimum Security Requirements for Federal Information and Information Systems5, March 2006, which specifies minimum security requirements for Federal information and information systems, including incident response.  
-
+連邦情報処理標準（FIPS）200、Minimum Security Requirements for Federal Information and Information Systems5、2006年3月、インシデント対応を含む連邦情報および情報システムの最低セキュリティ要件を規定しています。  
 
 The specific requirements are defined in NIST Special Publication (SP) 800-53, Recommended Security Controls for Federal Information Systems and Organizations.  
+具体的な要件は、NIST Special Publication (SP) 800-53, Recommended Security Controls for Federal Information Systems and Organizationsに定義されています。  
 
-
-■ OMB Memorandum M-07-16, Safeguarding Against and Responding to the Breach of Personally Identifiable Information6, May 2007, which provides guidance on reporting security incidents that involve PII.
+■ OMB Memorandum M-07-16, Safeguarding Against and Responding to the Breach of Personally Identifiable Information6, May 2007, which provides guidance on reporting security incidents that involve PII.  
+OMB Memorandum M-07-16, Safeguarding Against and Responding to the Breach of Personally Identifiable Information6, May 2007, この資料は、個人情報に関わるセキュリティインシデントの報告に関するガイダンスを提供しています。  
