@@ -1,5 +1,5 @@
-### Policy Elements
-### 方針の要素  
+### 2.3.1 Policy Elements
+### 2.3.1 方針の要素  
 
 Policy governing incident response is highly individualized to the organization.  
 インシデント対応を管理するポリシーは、組織ごとに非常に個性があります。  
