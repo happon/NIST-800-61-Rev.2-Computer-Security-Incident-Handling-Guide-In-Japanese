@@ -25,8 +25,10 @@ The team should document all contacts and communications with outside parties fo
 The following sections provide guidelines on communicating with several types of outside parties, as depicted in Figure 2-1.  
 以下のセクションでは、図 2-1 に示すように、いくつかのタイプの外部当事者との通信に関するガイドラインを示します。  
 
+<img src="https://github.com/happon/figureRepository/blob/master/figure2-1communications%20with%20outside%20parties.png" alt="図21" title="図2-1" width="480" height="480">
+
 The double-headed arrows indicate that either party may initiate communications.  
 二重頭の矢印は、いずれかの当事者がコミュニケーションを開始できることを示しています。  
 
 See Section 4 for additional information on communicating with outside parties, and see Section 2.4 for a discussion of communications involving incident response outsourcers.  
-外部当事者との通信に関する追加情報についてはセクション4を、インシデント対応アウトソーサ ーが関与する通信についてはセクション2.4を参照のしてください。
+外部当事者との通信に関する追加情報についてはセクション4を、インシデント対応アウトソース業者が関与するコミュニケーションについてはセクション2.4を参照してください。
