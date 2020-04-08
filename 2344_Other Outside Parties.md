@@ -11,16 +11,16 @@ It is likely that others are experiencing similar issues, and the trusted introd
 他の組織も同様の問題を経験している可能性が高く、信頼された紹介者は、そのようなパターンが特定され、考慮に入れることができます。  
 
 ■ **Organization’s ISP.** An organization may need assistance from its ISP in blocking a major networkbased attack or tracing its origin.  
-■ **組織の ISP。**組織は、主要なネットワークベースの攻撃をブロックしたり、その発生源を追跡したりする際に、その ISP からの支援を必要とする場合があります。   
+■ **組織の ISP** 組織は、主要なネットワークベースの攻撃をブロックしたり、その発生源を追跡したりする際に、その ISP からの支援を必要とする場合があります。   
 
 ■ **Owners of Attacking Addresses.** If attacks are originating from an external organization’s IP address space, incident handlers may want to talk to the designated security contacts for the organization to alert them to the activity or to ask them to collect evidence.  
-■ **攻撃アドレスの所有者。**攻撃が外部組織のIPアドレス空間から発生している場合、インシデントハンドラーは、組織の指定されたセキュリ ティコンタクトに話をして、その活動に注意を喚起したり、証拠を収集するように依頼したりすることをお勧めします。  
+■ **攻撃アドレスの所有者** 攻撃が外部組織のIPアドレス空間から発生している場合、インシデントハンドラーは、組織の指定されたセキュリ ティコンタクトに話をして、その活動に注意を喚起したり、証拠を収集するように依頼したりすることをお勧めします。  
 
 It is highly recommended to coordinate such communications with US-CERT or an ISAC. 
 US-CERT または ISACとの調整ようなコミュニケーションをすることを強く推奨します。  
 
 ■ **Software Vendors.** Incident handlers may want to speak to a software vendor about suspicious activity.  
-■ **ソフトウェアベンダ。**インシデント・ハンドラーは、疑わしい活動についてソフトウェア・ベンダーと話をしたいと思う可能性があります。  
+■ **ソフトウェアベンダ** インシデント・ハンドラーは、疑わしい活動についてソフトウェア・ベンダーと話をしたいと思う可能性があります。  
 
 This contact could include questions regarding the significance of certain log entries or known false positives for certain intrusion detection signatures, where minimal information regarding the incident may need to be revealed.  
 このコンタクトには、インシデントに関する最小限の情報を明らかにする必要がある場合には、特定のログエントリの重要性に関する質問や、特定の侵入検知シグネチャに対する既知の偽陽性に関する質問が含まれる可能性があります。  
