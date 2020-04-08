@@ -10,20 +10,17 @@ When reaching out to these external parties, an organization may want to work th
 It is likely that others are experiencing similar issues, and the trusted introducer can ensure that any such patterns are identified and taken into consideration.  
 他の組織も同様の問題を経験している可能性が高く、信頼された紹介者は、そのようなパターンが特定され、考慮に入れることができます。  
 
-■ Organization’s ISP. An organization may need assistance from its ISP in blocking a major networkbased attack or tracing its origin.  
-■ 組織の ISP。  
-組織は、主要なネットワークベースの攻撃をブロックしたり、その発生源を追跡したりする際に、その ISP からの支援を必要とする場合があります。   
+■ **Organization’s ISP.** An organization may need assistance from its ISP in blocking a major networkbased attack or tracing its origin.  
+■ **組織の ISP。**組織は、主要なネットワークベースの攻撃をブロックしたり、その発生源を追跡したりする際に、その ISP からの支援を必要とする場合があります。   
 
-■ Owners of Attacking Addresses. If attacks are originating from an external organization’s IP address space, incident handlers may want to talk to the designated security contacts for the organization to alert them to the activity or to ask them to collect evidence.  
-■ 攻撃アドレスの所有者。  
-攻撃が外部組織のIPアドレス空間から発生している場合、インシデントハンドラーは、組織の指定されたセキュリ ティコンタクトに話をして、その活動に注意を喚起したり、証拠を収集するように依頼したりすることをお勧めします。  
+■ **Owners of Attacking Addresses.** If attacks are originating from an external organization’s IP address space, incident handlers may want to talk to the designated security contacts for the organization to alert them to the activity or to ask them to collect evidence.  
+■ **攻撃アドレスの所有者。**攻撃が外部組織のIPアドレス空間から発生している場合、インシデントハンドラーは、組織の指定されたセキュリ ティコンタクトに話をして、その活動に注意を喚起したり、証拠を収集するように依頼したりすることをお勧めします。  
 
 It is highly recommended to coordinate such communications with US-CERT or an ISAC. 
 US-CERT または ISACとの調整ようなコミュニケーションをすることを強く推奨します。  
 
-■ Software Vendors. Incident handlers may want to speak to a software vendor about suspicious activity.  
-■ ソフトウェアベンダ。 
-インシデント・ハンドラーは、疑わしい活動についてソフトウェア・ベンダーと話をしたいと思う可能性があります。  
+■ **Software Vendors.** Incident handlers may want to speak to a software vendor about suspicious activity.  
+■ **ソフトウェアベンダ。**インシデント・ハンドラーは、疑わしい活動についてソフトウェア・ベンダーと話をしたいと思う可能性があります。  
 
 This contact could include questions regarding the significance of certain log entries or known false positives for certain intrusion detection signatures, where minimal information regarding the incident may need to be revealed.  
 このコンタクトには、インシデントに関する最小限の情報を明らかにする必要がある場合には、特定のログエントリの重要性に関する質問や、特定の侵入検知シグネチャに対する既知の偽陽性に関する質問が含まれる可能性があります。  
@@ -34,16 +31,14 @@ More information may need to be provided in some cases—for example, if a serve
 Software vendors may also provide information on known threats (e.g., new attacks) to help organizations understand the current threat environment.
 また、ソフトウェアベンダは、組織が現在の脅威環境を理解するのに役立つように、既知の脅威（例：新たな攻撃）に関する情報を提供する場合もあります。  
 
-■ Other Incident Response Teams. An organization may experience an incident that is similar to ones handled by other teams; proactively sharing information can facilitate more effective and efficient incident handling (e.g., providing advance warning, increasing preparedness, developing situational awareness).  
-■ 他のインシデント対応チーム。 
-情報を積極的に共有することで、より効果的かつ効率的なインシデント対応を促進することができます（例：事前警告の提供、準備態勢の強化、状況認識の向上）。  
+■ **Other Incident Response Teams.** An organization may experience an incident that is similar to ones handled by other teams; proactively sharing information can facilitate more effective and efficient incident handling (e.g., providing advance warning, increasing preparedness, developing situational awareness).  
+■ **他のインシデント対応チーム**情報を積極的に共有することで、より効果的かつ効率的なインシデント対応を促進することができます（例：事前警告の提供、準備態勢の強化、状況認識の向上）。  
 
 Groups such as the Forum of Incident Response and Security Teams (FIRST), the Government Forum of Incident Response and Security Teams (GFIRST), and the Anti-Phishing Working Group (APWG) are not incident response teams, but they promote information sharing among incident response teams.  
 FIRST（Forum of Incident Response and Security Teams）、GFIRST（Government Forum of Incident Response and Security Teams）、APWG（Anti-Phishing Working Group）などのグループは、インシデント対応チームではないが、インシデント対応チーム間の情報共有を推進しています。  
 
-■ Affected External Parties. An incident may affect external parties directly—for example, an outside organization may contact the organization and claim that one of the organization’s users is attackin it.  
-■ 影響を受ける外部関係者。  
-インシデントは、外部の関係者に直接影響を与えることがあります。例えば、外部の組織が組織に連絡を取り、組織のユーザーの1人が攻撃を受けていると主張することがあります。  
+■ **Affected External Parties.** An incident may affect external parties directly—for example, an outside organization may contact the organization and claim that one of the organization’s users is attackin it.  
+■ **影響を受ける外部関係者。**インシデントは、外部の関係者に直接影響を与えることがあります。例えば、外部の組織が組織に連絡を取り、組織のユーザーの1人が攻撃を受けていると主張することがあります。  
 
 Another way in which external parties may be affected is if an attacker gains access to sensitive information regarding them, such as credit card information.  
 外部関係者が影響を受けるもう一つの方法は、攻撃者がクレジットカード情報など、外部関係者に関する機密情報にアクセスできるようになった場合です。  
