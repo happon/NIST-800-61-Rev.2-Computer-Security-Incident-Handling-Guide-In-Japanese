@@ -88,102 +88,103 @@ However, technical staff members within the organization usually have much bette
 しかし、組織内の技術スタッフは、通常、外部委託企業よりも組織の環境についての知識が豊富であるため、組織固有の行動やターゲットの重要性に関連した誤検知を特定する上で有益である可能性があります。  
 
 Section 2.4.3 contains additional information on recommended team member skills.  
-2.4.3 節には、推奨されるチームメンバーのスキルに関する追加情報が記載されている。  
+2.4.3 節には、推奨されるチームメンバーのスキルに関する追加情報が記載されています。  
 
 When considering outsourcing, organizations should keep these issues in mind:  
 アウトソーシングを検討する際には、これらの問題を念頭に置いておくべきです。  
 
 ■ **Current and Future Quality of Work.**  
-
+■ **現在の仕事の質と将来の仕事の質**  
 
 Organizations should consider not only the current quality (breadth and depth) of the outsourcer’s work, but also efforts to ensure the quality of future work— for example, minimizing turnover and burnout and providing a solid training program for new employees.  
-
+現在の仕事の質（幅と深さ）だけでなく、今後の仕事の質を確保するための取り組み（離職率や燃え尽きの防止、新人教育の充実など）を考えるべきです。  
 
 Organizations should think about how they could objectively assess the quality of the outsourcer’s work.   
-
+委託先の仕事の質を客観的に評価するためにはどうすればよいかを考えるべきです。  
 
 ■ **Division of Responsibilities.**  
-
+■ **責任の分担**  
 
 Organizations are often unwilling to give an outsourcer authority to make operational decisions for the environment (e.g., disconnecting a web server).  
-
+組織はしばしば、環境の運用上の決定権をアウトソーサーに与えたがらないことがあります（例：ウェブサーバーの切断）。  
 
 It is important to document the appropriate actions for these decision points.  
-
+このような決定事項に対して適切なアクションを文書化することが重要です。  
 
 For example, one partially outsourced model addresses this issue by having the outsourcer provide incident data to the organization’s internal team, along with recommendations for further handling the incident.  
-
+例えば、ある部分的にアウトソースされたモデルでは、外部委託企業がインシデントデータを組織の内部チームに提供し、さらにインシデントを処理するための推奨事項を提供することで、この問題に対処します。  
 
 The internal team ultimately makes the operational decisions, with the outsourcer continuing to provide support as needed.  
-
+最終的には社内チームが運用上の意思決定を行い、外部委託企業は必要に応じてサポートを継続します。  
 
 ■ **Sensitive Information Revealed to the Contractor.**  
-
+■ **外部委託企業への機密情報の提供**  
 
 Dividing incident response responsibilities and restricting access to sensitive information can limit this.  
-
+インシデント対応の責任を分担し、機密情報へのアクセスを制限することで、これを制限することができます。  
 
 For example, a contractor may determine what user ID was used in an incident (e.g., ID 123456) but not know what person is associated with the user ID.  
-
+例えば、請負業者は、インシデントで使用されたユーザーID（例：ID 123456）を把握しても、そのユーザーIDに関連する人物がわからない場合があります。  
 
 Employees can then take over the investigation.  
-
+その場合、従業員が調査を引き継ぐことができます。  
 
 Non-disclosure agreements (NDAs) are one possible option for protecting the disclosure of sensitive information.  
-
+機密保持契約（NDA）は、機密情報の開示を保護するための1つの可能なオプションです。  
 
 ■ **Lack of Organization-Specific Knowledge.**  
-
+■ **組織固有の知識の不足**  
 
 Accurate analysis and prioritization of incidents are dependent on specific knowledge of the organization’s environment.  
-
+インシデントの正確な分析と優先順位付けは、組織の環境に関する特定の知識に依存します。  
 
 The organization should provide the outsourcer regularly updated documents that define what incidents it is concerned about, which resources are critical, and what the level of response should be under various sets of circumstances.  
-
+組織は、どのようなインシデントが懸念されているか、どのリソースが重要であるか、および様々な状況下での対応レベルはどのようなものであるべきかを定義した、定期的に更新された文書を外部委託企業に提供すべきです。  
 
 The organization should also report all changes and updates made to its IT infrastructure, network configuration, and systems.  
-
+また、組織は、ITインフラ、ネットワーク構成、およびシステムに加えられた全ての変更と更新を報告しなければなりません。  
 
 Otherwise, the contractor has to make a best guess as to how each incident should be handled, inevitably leading to mishandled incidents and frustration on both sides.  
-
+そうしないと、請負業者は、各インシデントがどのように処理されるべきか、最善の推測をしなければならず、必然的に誤ったインシデントや双方のフラストレーションにつながってしまいます。  
 
 Lack of organization-specific knowledge can also be a problem when incident response is not outsourced if communications are weak among teams or if the organization simply does not collect the necessary information.  
-
+また、チーム間のコミュニケーションが希薄であったり、組織が必要な情報を収集していない場合、インシデント対応を外部に委託していない場合には、組織固有の知識の欠如が問題となることもあります。  
 
 ■ **Lack of Correlation.**  
-
+■ **相関性の欠如**  
 
 Correlation among multiple data sources is very important.  
-
+複数のデータソース間の相関関係は非常に重要です。  
 
 If the intrusion detection system records an attempted attack against a web server, but the outsourcer has no access to the server’s logs, it may be unable to determine whether the attack was successful.  
-
+侵入検知システムがウェブサーバへの攻撃未遂を記録していても、外部委託企業がサーバのログにアクセスできない場合、攻撃が成功したかどうかを判断できない可能性があります。  
 
 To be efficient, the outsourcer will require administrative privileges to critical systems and security device logs remotely over a secure channel.  
-
+効率的な運用を行うためには、外部委託企業は、重要なシステムやセキュリティ機器のログに対して、安全なチャネルを介してリモートで管理者権限を要求することになります。  
 
 This will increase administration costs, introduce additional access entry points, and increase the risk of unauthorized disclosure of sensitive information.  
-
+これにより、管理コストが増加し、追加のアクセスエントリーポイントが導入され、機密情報が不正に開示されるリスクが高まります。  
 
 ■ **Handling Incidents at Multiple Locations.**  
-
+■ **複数の場所でのインシデントへの対応**   
 
 Effective incident response work often requires a physical presence at the organization’s facilities.  
-
+効果的なインシデント対応作業のためには、組織の施設に物理的に常駐する必要があります。  
 
 If the outsourcer is offsite, consider where the outsourcer is located, how quickly it can have an incident response team at any facility, and how much this will cost.  
-
+外部委託企業が離れた場所にある場合は、外部委託企業がどこにあるか、どの施設でもインシデント対応チームをどのくらいの速さで配置できるか、およびそのためのコストはいくらかを検討してください。　　
 
 Consider onsite visits; perhaps there are certain facilities or areas where the outsourcer should not be permitted to work.  
 
 
 ■ **Maintaining Incident Response Skills In-House.**  
-
+■ **インシデント対応のスキルを社内で維持**  
 
 Organizations that completely outsource incident response should strive to maintain basic incident response skills in-house.  
-
+インシデント対応を完全に外部委託している組織は、インシデント対応の基本的なスキルを社内で維持するように努めるべきです。  
 
 Situations may arise in which the outsourcer is unavailable, so the organization should be prepared to perform its own incident handling.  
 
 
-The organization’s technical staff must also be able to understand the significance, technical implications, and impact of the outsourcer’s recommendations. 
+The organization’s technical staff must also be able to understand the significance, technical implications, and impact of the outsourcer’s recommendations.  
+また、組織の技術スタッフは、外部委託企業の提案の意義、技術的な意味合い、影響力を理解していなければなりません。  
