@@ -175,7 +175,7 @@ If the outsourcer is offsite, consider where the outsourcer is located, how quic
 外部委託企業が離れた場所にある場合は、外部委託企業がどこにあるか、どの施設でもインシデント対応チームをどのくらいの速さで配置できるか、およびそのためのコストはいくらかを検討してください。　　
 
 Consider onsite visits; perhaps there are certain facilities or areas where the outsourcer should not be permitted to work.  
-
+施設やエリアによっては、外部委託企業に仕事をさせてはいけないところもあるかもしれませんので、現地視察を検討してみてはいかがでしょうか。  
 
 ■ **Maintaining Incident Response Skills In-House.**  
 ■ **インシデント対応のスキルを社内で維持**  
@@ -184,7 +184,7 @@ Organizations that completely outsource incident response should strive to maint
 インシデント対応を完全に外部委託している組織は、インシデント対応の基本的なスキルを社内で維持するように努めるべきです。  
 
 Situations may arise in which the outsourcer is unavailable, so the organization should be prepared to perform its own incident handling.  
-
+外部委託企業が利用できない状況が発生する可能性があるので、組織は独自のインシデント処理を行う準備をしておくべきです。  
 
 The organization’s technical staff must also be able to understand the significance, technical implications, and impact of the outsourcer’s recommendations.  
 また、組織の技術スタッフは、外部委託企業の提案の意義、技術的な意味合い、影響力を理解していなければなりません。  
