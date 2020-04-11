@@ -23,7 +23,7 @@ Many organizations prefer to appoint one incident response team member as the pr
 多くの組織は、法執行機関との主要な POC として、1 人のインシデント対応チームメンバーを任命することが多いです。   
 
 This person should be familiar with the reporting procedures for all relevant law enforcement agencies and well prepared to recommend which agency, if any, should be contacted.  
-この人物は、すべての関連する法執行機関の報告手順に精通しており、もしあれば、どの機関に連絡すべきかを勧告できるように十分な準備をしておくべきです。  
+この人物は、すべての関連する法執行機関の報告手順に精通しており、もしあれば、どの機関に連絡すべきかをアドバイザリできるように十分な準備をしておくべきです。  
 
 Note that the organization typically should not contact multiple agencies because doing so might result in jurisdictional conflicts.  
 組織は通常、複数の機関に連絡すべきではないことに注意してください。  

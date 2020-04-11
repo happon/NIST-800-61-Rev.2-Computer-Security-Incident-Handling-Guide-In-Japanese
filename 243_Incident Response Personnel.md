@@ -99,7 +99,7 @@ Every team member should also have good communication skills.
 また、すべてのチームメンバーは、優れたコミュニケーションスキルを持つべきです。  
 
 Speaking skills are important because the team will interact with a wide variety of people, and writing skills are important when team members are preparing advisories and procedures.  
-チームは様々な人々と交流するので、スピーキングスキルは重要であり、チームメンバーが勧告や手順書を作成する際には、ライティングスキルもまた重要です。  
+チームは様々な人々と交流するので、スピーキングスキルは重要であり、チームメンバーがアドバイザリや手順書を作成する際には、ライティングスキルもまた重要です。  
 
 Although not everyone within a team needs to have strong writing and speaking skills, at least a few people within every team should possess them so the team can represent itself well in front of others.  
 チーム内のすべての人が強力なライティングスキルとスピーキングスキルを持つ必要はありませんが、チームが他の人の前で自分自身をうまく表現できるように、すべてのチーム内の少なくとも数人がこれらのスキルを持っている必要があります。  
