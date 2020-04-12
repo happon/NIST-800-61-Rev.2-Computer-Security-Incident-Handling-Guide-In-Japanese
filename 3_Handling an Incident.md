@@ -30,3 +30,5 @@ This section describes the major phases of the incident response process—prepa
 
 Figure 3-1 illustrates the incident response life cycle.  
 図 3-1 は、インシデント対応のライフサイクルを示しています。 
+
+<img src="https://github.com/happon/figureRepository/blob/master/figure3-1.jpg" alt="図3-1" title="図3-1" width="480" height="480">
