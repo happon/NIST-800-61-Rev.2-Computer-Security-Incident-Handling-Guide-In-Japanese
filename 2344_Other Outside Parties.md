@@ -56,7 +56,7 @@ OMB Memorandum M-07-16, Safeguarding Against and Responding to the Breach of Per
 OMB Memorandum M-07-16, Safeguarding Against and Responding to the Breach of Personally Identifiable Information (PII)は、連邦政府機関が個人を特定できる情報（PII）の侵害通知ポリシーを策定し、実施することを要求しています。  
 
 Incident handlers should understand how their incident handling actions should differ when a PII breach is suspected to have occurred, such as notifying additional parties or notifying parties within a shorter timeframe.  
-インシデント・ハンドラーは、PII 違反が発生したと疑われる場合、追加の当事者に通知したり、より短い時間枠内で当事者に通知したりするなど、インシデント処理の行動がどのように異なるべきかを理解すべきです。  
+インシデント・ハンドラーは、PII 違反が発生したと疑われる場合、追加の当事者に通知したり、より短い時間枠内で当事者に通知したりするなど、インシデントハンドリングの行動がどのように異なるべきかを理解すべきです。  
 
 Specific recommendations for PII breach notification policies are presented in OMB Memorandum M-07-16.  
 PII侵害通知ポリシーに関する具体的な推奨事項は、OMB Memorandum M-07-16に記載されています。  

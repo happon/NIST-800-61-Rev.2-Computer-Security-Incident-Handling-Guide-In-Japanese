@@ -2,7 +2,7 @@
 ### 2.3.4.1 メディア
 
 The incident handling team should establish media communications procedures that comply with the organization’s policies on media interaction and information disclosure.※7  
-インシデント処理チームは、メディアとの相互作用および情報開示に関する組織の方針に準拠したメディアコミュニケーション手順を確立すべきです。  
+インシデントハンドリングチームは、メディアとの相互作用および情報開示に関する組織の方針に準拠したメディアコミュニケーション手順を確立すべきです。  
 
 ※７
 For example, an organization may want members of its public affairs office and legal department to participate in all incident discussions with the media.  

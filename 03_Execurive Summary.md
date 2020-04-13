@@ -75,26 +75,26 @@ Each agency is responsible for determining how to fulfill these requirements.
 Establishing an incident response capability should include the following actions:  
 インシデント対応能力を確立するには、以下のアクションを含むべきです。   
 
- Creating an incident response policy and plan  
- インシデント対応方針と計画の作成  
+■ Creating an incident response policy and plan  
+■ インシデント対応方針と計画の作成  
 
- Developing procedures for performing incident handling and reporting  
- インシデント対応と報告を行うための手順書の作成  
+■ Developing procedures for performing incident handling and reporting  
+■ インシデント対応と報告を行うための手順書の作成  
 
- Setting guidelines for communicating with outside parties regarding incidents  
- インシデントに関する外部とのコミュニケーションのためのガイドラインの設定  
+■ Setting guidelines for communicating with outside parties regarding incidents  
+■ インシデントに関する外部とのコミュニケーションのためのガイドラインの設定  
 
- Selecting a team structure and staffing model  
- チーム体制とスタッフィング（人員配置）モデルの選択  
+■ Selecting a team structure and staffing model  
+■ チーム体制とスタッフィング（人員配置）モデルの選択  
 
- Establishing relationships and lines of communication between the incident response team and other groups, both internal (e.g., legal department) and external (e.g., law enforcement agencies)  
- 内部（法務部など）と外部（法執行機関など）の両方のインシデント対応チームと他のグループとの間の関係とコミュニケーションラインの確立  
+■ Establishing relationships and lines of communication between the incident response team and other groups, both internal (e.g., legal department) and external (e.g., law enforcement agencies)  
+■ 内部（法務部など）と外部（法執行機関など）の両方のインシデント対応チームと他のグループとの間の関係とコミュニケーションラインの確立  
 
- Determining what services the incident response team should provide  
- インシデント対応チームが提供すべきサービスの決定  
+■ Determining what services the incident response team should provide  
+■ インシデント対応チームが提供すべきサービスの決定  
 
- Staffing and training the incident response team.   
- インシデント対応チームの人員配置と訓練  
+■ Staffing and training the incident response team.   
+■ インシデント対応チームの人員配置と訓練  
 
 <br/>
 
@@ -147,25 +147,25 @@ Different types of incidents merit different response strategies.
 The attack vectors are:   
 主な攻撃手段  
 
- External/Removable Media: An attack executed from removable media (e.g., flash drive, CD) or a peripheral device.  
+■ External/Removable Media: An attack executed from removable media (e.g., flash drive, CD) or a peripheral device.  
 外部/リムーバブル メディア):リムーバブルメディア (フラッシュドライブ、CD など) または周辺機器から実行される攻撃。  
 
- Attrition: An attack that employs brute force methods to compromise, degrade, or destroy systems, networks, or services.  
+■ Attrition: An attack that employs brute force methods to compromise, degrade, or destroy systems, networks, or services.  
 破壊：システム、ネットワーク、またはサービスを侵害、劣化、または破壊するために、ブルートフォース方式を使用する攻撃。  
 
- Web: An attack executed from a website or web-based application.  
+■ Web: An attack executed from a website or web-based application.  
 Web：Web サイトまたは Web ベースのアプリケーションから実行される攻撃。  
 
- Email: An attack executed via an email message or attachment.  
+■ Email: An attack executed via an email message or attachment.  
 電子メール：電子メールメッセージまたは添付ファイルを介して実行される攻撃。 
 
- Improper Usage: Any incident resulting from violation of an organization’s acceptable usage policies by an authorized user, excluding the above categories.  
+■ Improper Usage: Any incident resulting from violation of an organization’s acceptable usage policies by an authorized user, excluding the above categories.  
 不適切な使用：認可されたユーザーが組織の許容される利用ポリシーに違反した結果、上記のカテゴリーを除くすべてのインシデント。  
 
- Loss or Theft of Equipment: The loss or theft of a computing device or media used by the organization, such as a laptop or smartphone.   
+■ Loss or Theft of Equipment: The loss or theft of a computing device or media used by the organization, such as a laptop or smartphone.   
 機器の紛失または盗難：ラップトップやスマートフォンなど、組織で使用されているコンピューティングデバイスやメディアの紛失や盗難。  
 
- Other: An attack that does not fit into any of the other categories.  
+■ Other: An attack that does not fit into any of the other categories.  
 その他：他のどのカテゴリーにも当てはまらない攻撃。  
 
 <br/>
@@ -209,7 +209,7 @@ Incidents should be prioritized based on the relevant factors, such as the funct
 ### 組織は、インシデントから価値を得るために、レッスン・ラーニング・プロセスを利用すべき
 
 After a major incident has been handled, the organization should hold a lessons learned meeting to review the effectiveness of the incident handling process and identify necessary improvements to existing security controls and practices.  
-重大なインシデントが処理された後、組織は、インシデント処理プロセスの有効性をレビューし、既存のセキュリ ティ対策と実践に必要な改善点を特定するために、レッスン・ラーニング・ミーティングを実施します。   
+重大なインシデントが処理された後、組織は、インシデントハンドリングプロセスの有効性をレビューし、既存のセキュリ ティ対策と実践に必要な改善点を特定するために、レッスン・ラーニング・ミーティングを実施します。   
 
 Lessons learned meetings can also be held periodically for lesser incidents as time and resources permit.  
 また、時間とリソースが許す限り、軽微なインシデントについても、教訓会議を定期的に実施することができます。 

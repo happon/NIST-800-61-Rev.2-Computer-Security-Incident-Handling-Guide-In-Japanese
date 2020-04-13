@@ -18,16 +18,16 @@ A computer security incident is a violation or imminent threat of violation※1 
 Examples of incidents※2 are:  
 インシデントの例  
 
- An attacker commands a botnet to send high volumes of connection requests to a web server, causing it to crash.  
+■ An attacker commands a botnet to send high volumes of connection requests to a web server, causing it to crash.  
 攻撃者がボットネットに命令して、大量の接続要求をウェブサーバに送信し、クラッシュさせる。  
 
- Users are tricked into opening a “quarterly report” sent via email that is actually malware; running the tool has infected their computers and established connections with an external host.  
+■ Users are tricked into opening a “quarterly report” sent via email that is actually malware; running the tool has infected their computers and established connections with an external host.  
 ユーザが騙されて電子メールで送られてくる「四半期報告書」を開くと、実際にはマルウェアであり、ツールを実行することでコンピュータが感染し、外部ホストとの接続が確立されてしまう。  
 
- An attacker obtains sensitive data and threatens that the details will be released publicly if the organization does not pay a designated sum of money.  
+■ An attacker obtains sensitive data and threatens that the details will be released publicly if the organization does not pay a designated sum of money.  
 攻撃者が機密データを入手し、組織が指定された金額を支払わなければ詳細が公開されると脅す。  
 
- A user provides or exposes sensitive information to others through peer-to-peer file sharing services.  
+■ A user provides or exposes sensitive information to others through peer-to-peer file sharing services.  
 ユーザーが、ピアツーピアのファイル共有サービスを通じて、機密情報を提供したり、他人に公開したりする。 
 
 <br/>

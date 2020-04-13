@@ -82,7 +82,7 @@ This should include sending staff to conferences and encouraging or otherwise in
 ■ 上級技術スタッフが経験の浅いスタッフがインシデント対応を学べるように、組織内教育プログラムを作成します。 
 
 ■ Develop incident handling scenarios and have the team members discuss how they would handle them.  
-■ インシデント処理のシナリオを作成し、チームメンバーにどのように対処するかを議論させます。  
+■ インシデントハンドリングのシナリオを作成し、チームメンバーにどのように対処するかを議論させます。  
 
 Appendix A contains a set of scenarios and a list of questions to be used during scenario discussions.  
 付録Aには、シナリオのセットと、シナリオの議論中に使用する質問のリストが含まれています。  
