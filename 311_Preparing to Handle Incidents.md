@@ -36,14 +36,14 @@ information may include phone numbers, email addresses, public encryption keys (
 ■ 時間外のサポートや現場でのコミュニケーションのために、チームメンバーが携帯する**スマートフォン**
 
 ■ **Encryption software** to be used for communications among team members, within the organization and with external parties; for Federal agencies, software must use a FIPS-validated encryption algorithm  
-■ **暗号化ソフトウェア**は、チームメンバー間、組織内、および外部の関係者との通信に使用されるもので、連邦政府機関の場合、ソフトウェアはFIPS認証済みの暗号化アルゴリズムを使用する必要があります。
+■ **暗号化ソフトウェア**は、チームメンバー間、組織内、および外部の関係者との通信に使用されるもので、連邦政府機関の場合、ソフトウェアはFIPS140-2認証済みの暗号化アルゴリズムを使用する必要があります。
 
 ■ **War room** for central communication and coordination; if a permanent war room is not necessary or practical, the team should create a procedure for procuring a temporary war room when needed  
 ■ 連絡調整のための**作戦室**。常設の作戦室が必要ない場合や現実的でない場合は、チームは必要に応じて一時的な戦闘室を調達するための手順を作成すべきです。 
 
 ■ **Secure storage facility** for securing  
 ■ evidence and other sensitive materials  
-証拠品などの機密性の高いものを確保するための**安全な保管施設**  
+証拠品などの機密性の高いものを確保するための**安全な保管手段**  
 
 #### Incident Analysis Hardware and Software:  
 #### インシデント分析のハードウェアとソフトウェア
@@ -72,36 +72,71 @@ information may include phone numbers, email addresses, public encryption keys (
 ■ ディスクイメージを解析する**デジタルフォレンジックソフトウェア**
 
 ■ **Removable media** with trusted versions of programs to be used to gather evidence from systems  
-■ システムから証拠を収集するために使用される信頼できるバージョンのプログラムのリムーバブルメディア
+■ 信頼のおけるバージョンのプログラムを入れておき、システムから証拠を集める際に使用する**リムーバブルメディア**
 
 ■ **Evidence gathering accessories,** including hard-bound notebooks, digital cameras, audio recorders, chain of custody forms, evidence storage bags and tags, and evidence tape, to preserve evidence for possible legal actions  
-■ **証拠収集アクセサリー**：法的措置のための証拠を維持するためのハードカバーのノート、デジタルカメラ、オーディオレコーダー、証拠保全記録、証拠保管袋とタグおよび証拠テープを含む
+■ **証拠収集アクセサリー**：法的行動の可能性に備えて証拠を残しておくための、堅表紙のノート、デジタルカメラ、オーディオレコーダ、証拠・記録の保管フォーム、証拠保管バッグとタグ、証拠テープなど。
 
 #### Incident Analysis Resources:  
+#### インシデント分析リソース
 
-■ Port lists, including commonly used ports and Trojan horse ports  
+■ **Port lists,** including commonly used ports and Trojan horse ports  
+■ 一般に使用されるポートとトロイの木馬のポートの**ポートリスト**
 
+■ **Documentation** for OSs, applications, protocols, and intrusion detection and antivirus products  
+■ OS、アプリケーション、プロトコル、侵入検知とアンチウイルスシグネチャなどの**ドキュメント**
 
-■ Documentation for OSs, applications, protocols, and intrusion detection and antivirus products  
-
-
-■ Network diagrams and lists of critical assets, such as database servers  
-
+■ **Network diagrams and lists of critical assets**, such as database servers  
+■ **ネットワーク図と重要な資産の一覧**  
+例）データベースサーバー
 
 ■ Current baselines of expected network, system, and application activity  
+■ 期待されるネットワーク、システム、アプリケーションの活動の現在の**基準**  
 
 ■ Cryptographic hashes of critical files22 to speed incident analysis, verification, and eradication  
+■ インシデントの分析、検証、および撲滅を迅速に行うための重要ファイルの**暗号化ハッシュ**
 
 #### Incident Mitigation Software:  
+#### インシデント軽減ソフトウェア  
 
 ■ Access to images of clean OS and application installations for restoration and recovery purposes  
+復元やリカバリーのためのクリーンなOSやアプリケーションのインストールイメージへのアクセス
+
+<br/>
+
+Many incident response teams create a jump kit, which is a portable case that contains materials that may be needed during an investigation.  
+多くのインシデント対応チームは、調査中に必要となる可能性のある資材が入った携帯用ケースであるジャンプキットを作成しています。
+
+The jump kit should be ready to go at all times.   
+ジャンプキットは、いつでも持ち運べるようにしておく必要があります。
+
+Jump kits contain many of the same items listed in the bulleted lists above. 
+ジャンプキットには、上記の箇条書きのリストに記載されているものと同じものが多く含まれています。
+
+For example, each jump kit typically includes a laptop, loaded with appropriate software (e.g., packet sniffers, digital forensics).  
+例えば、各ジャンプキットには通常、適切なソフトウェア（例：パケットスニッファー、デジタルフォレンジック）を搭載したノートパソコンが含まれています。 
+
+Other important materials include backup devices, blank media, and basic networking equipment and cables.  
+その他の重要な材料には、バックアップデバイス、ブランクメディア、および基本的なネットワーク機器とケーブルが含まれています。
+
+Because the purpose of having a jump kit is to facilitate faster responses, the team should avoid borrowing items from the jump kit.  
+ジャンプキットを持つ目的は、迅速な対応を容易にすることですので、チームはジャンプキットからのアイテムの借用を避けるべきです。 
 
 
+Each incident handler should have access to at least two computing devices (e.g., laptops).  
+各インシデント担当者は、少なくとも2台のコンピューティングデバイス（ノートパソコンなど）にアクセスできるようにしておくべきです。
 
-Many incident response teams create a jump kit, which is a portable case that contains materials that may be needed during an investigation. The jump kit should be ready to go at all times. Jump kits contain many of the same items listed in the bulleted lists above. For example, each jump kit typically includes a laptop, loaded with appropriate software (e.g., packet sniffers, digital forensics). Other important materials include backup devices, blank media, and basic networking equipment and cables. Because the purpose of having a jump kit is to facilitate faster responses, the team should avoid borrowing items from the jump kit.  
+One, such as the one from the jump kit, should be used to perform packet sniffing, malware analysis, and all other actions that risk contaminating the laptop that performs them.  
+1台は、ジャンプキットからのものなど、パケットスニッフィング、マルウェア解析、およびそれらを実行するノートパソコンを汚染する危険性のあるその他のすべてのアクションを実行するために使用してください。 
 
+This laptop should be scrubbed and all software reinstalled before it is used for another incident.  
+このノートパソコンは、別のインシデントに使用する前に、スクラブし、すべてのソフトウェアを再インストールする必要があります。 
 
-Each incident handler should have access to at least two computing devices (e.g., laptops). One, such as the one from the jump kit, should be used to perform packet sniffing, malware analysis, and all other actions that risk contaminating the laptop that performs them. This laptop should be scrubbed and all software reinstalled before it is used for another incident. Note that because this laptop is special purpose, it is likely to use software other than the standard enterprise tools and configurations, and whenever possible the incident handlers should be allowed to specify basic technical requirements for these specialpurpose investigative laptops. In addition to an investigative laptop, each incident handler should also have a standard laptop, smart phone, or other computing device for writing reports, reading email, and performing other duties unrelated to the hands-on incident analysis.  
+Note that because this laptop is special purpose, it is likely to use software other than the standard enterprise tools and configurations, and whenever possible the incident handlers should be allowed to specify basic technical requirements for these specialpurpose investigative laptops.  
+このノートパソコンは特別な目的のため、標準的なエンタープライズツールや設定以外のソフトウェアを使用する可能性が高いことに注意してください。 
 
+In addition to an investigative laptop, each incident handler should also have a standard laptop, smart phone, or other computing device for writing reports, reading email, and performing other duties unrelated to the hands-on incident analysis.  
+調査用ノートパソコンに加えて、各インシデントハンドラーは、報告書を書いたり、電子メールを読んだり、実地でのインシデント分析とは無関係の他の業務を行ったりするために、標準的なノートパソコン、スマートフォン、または他のコンピューティングデバイスを持っているべきです。 
 
-Exercises involving simulated incidents can also be very useful for preparing staff for incident handling; see NIST SP 800-84 for more information on exercises23 and Appendix A for sample exercise scenarios. 
+Exercises involving simulated incidents can also be very useful for preparing staff for incident handling; see NIST SP 800-84 for more information on exercises23 and Appendix A for sample exercise scenarios.  
+模擬インシデントを含む演習も、インシデントハンドリングのためのスタッフの準備に非常に有用です。
