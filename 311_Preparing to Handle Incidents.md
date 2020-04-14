@@ -14,34 +14,83 @@ An organization should have multiple (separate and different) communication and 
 組織は、1つのメカニズムが故障した場合に備えて、複数の（別々の、異なる）通信および調整メカニズムを持つべきです。 
 
 #### Incident Handler Communications and Facilities:  
+#### インシデントハンドラーの通信と設備について  
 
-■ Contact information for team members and others within and outside the organization (primary and backup contacts), such as law enforcement and other incident response teams; information may include phone numbers, email addresses, public encryption keys (in accordance with the encryption software described below), and instructions for verifying the contact’s identity 
-■ On-call information for other teams within the organization, including escalation information 
-■ Incident reporting mechanisms, such as phone numbers, email addresses, online forms, and secure instant messaging systems that users can use to report suspected incidents; at least one mechanism should permit people to report incidents anonymously 
-■ Issue tracking system for tracking incident information, status, etc. 
-■ Smartphones to be carried by team members for off-hour support and onsite communications 
-■ Encryption software to be used for communications among team members, within the organization and with external parties; for Federal agencies, software must use a FIPS-validated encryption algorithm20 
-■ War room for central communication and coordination; if a permanent war room is not necessary or practical, the team should create a procedure for procuring a temporary war room when needed 
-■ Secure storage facility for securing evidence and other sensitive materials  
+■ **Contact information** for team members and others within and outside the organization (primary and backup contacts), such as law enforcement and other incident response teams;  
+■ チームメンバー、および法執行機関やその他のインシデント対応チームなど、組織内外のその他の人（プライマリーコンタクトおよびバックアップコンタクト）の**連絡先情報**
+
+information may include phone numbers, email addresses, public encryption keys (in accordance with the encryption software described below), and instructions for verifying the contact’s identity  
+電話番号、電子メールアドレス、公開暗号化キー（以下に説明する暗号化ソフトウェアに準拠）、および連絡先の身元を確認するための指示などが含まれます。 
+
+
+■ **On-call information** for other teams within the organization, including escalation information  
+エスカレーション情報を含む組織内の他チームの**オンコール情報**
+
+■ **Incident reporting mechanisms,** such as phone numbers, email addresses, online forms, and secure instant messaging systems that users can use to report suspected incidents; at least one mechanism should permit people to report incidents anonymously   
+■ 電話番号、電子メールアドレス、オンラインフォーム、ユーザーが疑わしいインシデントを報告するために使用できる安全なインスタントメッセージングシステムなどの**インシデント報告メカニズム**。
+
+■ **Issue tracking system** for tracking incident information, status, etc.  
+インシデント情報やステータスなどを追跡するための、**問題追跡システム**
+
+■ **Smartphones** to be carried by team members for off-hour support and onsite communications  
+■ 時間外のサポートや現場でのコミュニケーションのために、チームメンバーが携帯する**スマートフォン**
+
+■ **Encryption software** to be used for communications among team members, within the organization and with external parties; for Federal agencies, software must use a FIPS-validated encryption algorithm  
+■ **暗号化ソフトウェア**は、チームメンバー間、組織内、および外部の関係者との通信に使用されるもので、連邦政府機関の場合、ソフトウェアはFIPS認証済みの暗号化アルゴリズムを使用する必要があります。
+
+■ **War room** for central communication and coordination; if a permanent war room is not necessary or practical, the team should create a procedure for procuring a temporary war room when needed  
+■ 連絡調整のための**作戦室**。常設の作戦室が必要ない場合や現実的でない場合は、チームは必要に応じて一時的な戦闘室を調達するための手順を作成すべきです。 
+
+■ **Secure storage facility** for securing  
+■ evidence and other sensitive materials  
+証拠品などの機密性の高いものを確保するための**安全な保管施設**  
 
 #### Incident Analysis Hardware and Software:  
+#### インシデント分析のハードウェアとソフトウェア
 
-■ Digital forensic workstations21 and/or backup devices to create disk images, preserve log files, and save other relevant incident data 
-■ Laptops for activities such as analyzing data, sniffing packets, and writing reports 
-■ Spare workstations, servers, and networking equipment, or the virtualized equivalents, which may be used for many purposes, such as restoring backups and trying out malware 
-■ Blank removable media 
-■ Portable printer to print copies of log files and other evidence from non-networked systems 
-■ Packet sniffers and protocol analyzers to capture and analyze network traffic 
-■ Digital forensic software to analyze disk images 
-■ Removable media with trusted versions of programs to be used to gather evidence from systems 
-■ Evidence gathering accessories, including hard-bound notebooks, digital cameras, audio recorders, chain of custody forms, evidence storage bags and tags, and evidence tape, to preserve evidence for possible legal actions  
+■ **Digital forensic workstations21 and/or backup** devices to create disk images, preserve log files, and save other relevant incident data  
+■ ディスクイメージを作成し、ログファイルを保存し、その他の関連するインシデントデータを保存するための**デジタル・フォレンジック・ ワークステーション※１ および/またはバックアップ装置**  
+※１ A digital forensic workstation is specially designed to assist incident handlers in acquiring and analyzing data.These workstations typically contain a set of removable hard drives that can be used for evidence storage. 
+デジタル・フォレンジック・ワークステーションは、インシデント・ハンドラーがデータを取得して分析するのを支援するために特別に設計されています。これらのワークステーションには、通常、証拠保管に使用できるリムーバブルハードドライブのセットが含まれています。  
+
+■ **Laptops** for activities such as analyzing data, sniffing packets, and writing reports  
+■ データ分析、パケットの盗聴、レポート作成などの活動に使用する**ノートパソコン**
+
+■ **Spare workstations, servers, and networking equipment,** or the virtualized equivalents, which may be used for many purposes, such as restoring backups and trying out malware  
+■ **ワークステーション、サーバ、ネットワーク機器**、または仮想化されたものをスペアとして、バックアップの復元やマルウェアの試用など、様々な目的で使用することができます。 
+
+■ **Blank removable media**  
+■ **空のリムーバブルディスク**
+
+■ **Portable printer** to print copies of log files and other evidence from non-networked systems  
+■ ネットワークに接続されていないシステムからログファイルなどの証拠品のコピーを印刷するための**携帯型プリンタ**
+
+■ **Packet sniffers and protocol analyzers** to capture and analyze network traffic  
+■ ネットワークトラフィックをキャプチャして分析するための**パケットスニファーとプロトコルアナライザ**
+
+■ **Digital forensic software** to analyze disk images  
+■ ディスクイメージを解析する**デジタルフォレンジックソフトウェア**
+
+■ **Removable media** with trusted versions of programs to be used to gather evidence from systems  
+■ システムから証拠を収集するために使用される信頼できるバージョンのプログラムのリムーバブルメディア
+
+■ **Evidence gathering accessories,** including hard-bound notebooks, digital cameras, audio recorders, chain of custody forms, evidence storage bags and tags, and evidence tape, to preserve evidence for possible legal actions  
+■ **証拠収集アクセサリー**：法的措置のための証拠を維持するためのハードカバーのノート、デジタルカメラ、オーディオレコーダー、証拠保全記録、証拠保管袋とタグおよび証拠テープを含む
 
 #### Incident Analysis Resources:  
 
-■ Port lists, including commonly used ports and Trojan horse ports 
-■ Documentation for OSs, applications, protocols, and intrusion detection and antivirus products 
-■ Network diagrams and lists of critical assets, such as database servers 
-■ Current baselines of expected network, system, and application activity ■ Cryptographic hashes of critical files22 to speed incident analysis, verification, and eradication  
+■ Port lists, including commonly used ports and Trojan horse ports  
+
+
+■ Documentation for OSs, applications, protocols, and intrusion detection and antivirus products  
+
+
+■ Network diagrams and lists of critical assets, such as database servers  
+
+
+■ Current baselines of expected network, system, and application activity  
+
+■ Cryptographic hashes of critical files22 to speed incident analysis, verification, and eradication  
 
 #### Incident Mitigation Software:  
 
