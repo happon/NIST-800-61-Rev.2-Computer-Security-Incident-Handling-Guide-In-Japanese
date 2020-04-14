@@ -122,6 +122,7 @@ Other important materials include backup devices, blank media, and basic network
 Because the purpose of having a jump kit is to facilitate faster responses, the team should avoid borrowing items from the jump kit.  
 ジャンプキットを持つ目的は、迅速な対応を容易にすることですので、チームはジャンプキットからのアイテムの借用を避けるべきです。 
 
+<br/>
 
 Each incident handler should have access to at least two computing devices (e.g., laptops).  
 各インシデント担当者は、少なくとも2台のコンピューティングデバイス（ノートパソコンなど）にアクセスできるようにしておくべきです。
@@ -137,6 +138,8 @@ Note that because this laptop is special purpose, it is likely to use software o
 
 In addition to an investigative laptop, each incident handler should also have a standard laptop, smart phone, or other computing device for writing reports, reading email, and performing other duties unrelated to the hands-on incident analysis.  
 調査用ノートパソコンに加えて、各インシデントハンドラーは、報告書を書いたり、電子メールを読んだり、実地でのインシデント分析とは無関係の他の業務を行ったりするために、標準的なノートパソコン、スマートフォン、または他のコンピューティングデバイスを持っているべきです。 
+
+<br/>
 
 Exercises involving simulated incidents can also be very useful for preparing staff for incident handling; see NIST SP 800-84 for more information on exercises23 and Appendix A for sample exercise scenarios.  
 模擬インシデントを含む演習も、インシデントハンドリングのためのスタッフの準備に非常に有用です。
