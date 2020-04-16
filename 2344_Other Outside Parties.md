@@ -1,5 +1,5 @@
 ### 2.3.4.4 Other Outside Parties
-### 2.3.4.4 その他の社外第三者団体（サードパーティー）
+### 2.3.4.4 その他の社外サードパーティ団体（サードパーティー）
 
 An organization may want to discuss incidents with other groups, including those listed below.  
 組織は、以下に列挙されているグループを含む他のグループとインシデントについて話し合うことを希望する場合があります。  
