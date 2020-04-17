@@ -61,45 +61,52 @@ Without a well-trained and capable staff, incident detection and analysis will b
 十分な訓練を受けた有能なスタッフがいなければ、インシデントの検出と分析は非効率的に行われ、コストのかかるミスを犯すことになります。  
 
 The incident response team should work quickly to analyze and validate each incident, following a predefined process and documenting each step taken.  
-
+インシデント対応チームは、事前に定義されたプロセスに従って、各インシデントの分析と検証を迅速に行 い、各ステップを文書化する必要があります。 
 
 When the team believes that an incident has occurred, the team should rapidly perform an initial analysis to determine the incident’s scope, such as which networks, systems, or applications are affected;  
-
+インシデントが発生したとチームが判断した場合、チームは迅速に初期解析を行い、どのネットワーク、システム、またはアプリケーションが影響を受けるのかなど、インシデントの範囲を決定する必要があります。 
 
 who or what originated the incident; and how the incident is occurring (e.g., what tools or attack methods are being used, what vulnerabilities are being exploited).  
-
+インシデントが発生したのは誰なのか、何が原因なのか、インシデントがどのように発生しているのか（どのようなツールや攻撃方法が使用されているのか、どのような脆弱性が悪用されているのかなど）。
 
 The initial analysis should provide enough information for the team to prioritize subsequent activities, such as containment of the incident and deeper analysis of the effects of the incident.  
-
+初期解析は、インシデントの封じ込めやより深いインシデントの影響分析など、チームがその後の活動に優先順位をつけるのに十分な情報を提供しなければなりません。 
 
 Performing the initial analysis and validation is challenging.  
-
+初期解析と検証を行うことは困難です。 
 
 The following are recommendations for making incident analysis easier and more effective:  
+以下は、インシデント分析をより簡単で効果的なものにするための推奨事項です。
 
- Understand Normal Behaviors.  
+■ **Understand Normal Behaviors.**  
+■ **正常な動作を理解する**  
 
 Incident response team members should study networks, systems, and applications to understand what their normal behavior is so that abnormal behavior can be recognized more easily.  
+インシデント対応チームのメンバーは、ネットワーク、システム、およびアプリケーションを研究し、異常な動作をより簡単に認識できるように、その正常な動作を理解する必要があります。   
 
 No incident handler will have a comprehensive knowledge of all behavior throughout the environment, but handlers should know which experts could fill in the gaps.  
-
+インシデントハンドラは、環境全体のすべての行動について包括的な知識を持っているわけではありませんが、どの専門家がそのギャップを埋めることができるかを知っておく必要があります。 
 
 One way to gain this knowledge is through reviewing log entries and security alerts.  
-
+この知識を得るための一つの方法は、ログエントリとセキュリティアラートを確認することです。 
 
 This may be tedious if filtering is not used to condense the logs to a reasonable size.  
-
+これは、ログを適切なサイズに凝縮するためのフィルタリングが使用されていない場合、退屈な作業になるかもしれません。 
 
 As handlers become more familiar with the logs and alerts, they should be able to focus on unexplained entries, which are usually more important to investigate.  
-
+ハンドラーがログやアラートに慣れてくると、原因不明のエントリに焦点を当てることができるようになり、通常は調査することがより重要になります。 
 
 Conducting frequent log reviews should keep the knowledge fresh, and the analyst should be able to notice trends and changes over time.  
-
+頻繁にログのレビューを行うことで、知識を新鮮なものに保つことができ、分析者は時間の経過とともに傾向や変化に気づくことができるようになります。 
 
 The reviews also give the analyst an indication of the reliability of each source.  
+また、レビューにより、各ソースの信頼度の指標も得ることができる。
 
+（以下はrev.1日本語オリジナル）
+ログをレビューし、興味のあるエントリーを調査することは、事件を処理する準備にもなる。事件の処理では、これらのスキルが必要になる。　　
+（ここまで）  
 
- Create a Log Retention Policy.  
+■ **Create a Log Retention Policy.**  
 
 
 Information regarding an incident may be recorded in several places, such as firewall, IDPS, and application logs.  
@@ -114,7 +121,7 @@ Another reason for retaining logs is that incidents may not be discovered until 
 The length of time to maintain log data is dependent on several factors, including the organization’s data retention policies and the volume of data. See NIST SP 800-92, Guide to Computer Security Log Management for additional recommendations related to logging.34  
 
 
- Perform Event Correlation.  
+■ **Perform Event Correlation.  
 
 
 Evidence of an incident may be captured in several logs that each contain different types of data—a firewall log may have the source IP address that was used, whereas an application log may contain a username.  
@@ -129,7 +136,7 @@ The analyst may need to examine the host’s logs to determine that information.
 Correlating events among multiple indicator sources can be invaluable in validating whether a particular incident occurred.  
 
 
- Keep All Host Clocks Synchronized.  
+■ **Keep All Host Clocks Synchronized.  
 
 
 Protocols such as the Network Time Protocol (NTP) synchronize clocks among hosts.35  
@@ -141,7 +148,7 @@ Event correlation will be more complicated if the devices reporting events have 
 From an evidentiary standpoint, it is preferable to have consistent timestamps in logs—for example, to have three logs that show an attack occurred at 12:07:01 a.m., rather than logs that list the attack as occurring at 12:07:01, 12:10:35, and 11:07:06.  
 
 
- Maintain and Use a Knowledge Base of Information.  
+■ **Maintain and Use a Knowledge Base of Information.  
 
 
 The knowledge base should include information that handlers need for referencing quickly during incident analysis.  
@@ -153,7 +160,7 @@ Although it is possible to build a knowledge base with a complex structure, a si
 The knowledge base should also contain a variety of information, including explanations of the significance and validity of precursors and indicators, such as IDPS alerts, operating system log entries, and application error codes.  
 
 
- Use Internet Search Engines for Research.  
+■ **Use Internet Search Engines for Research.  
 
 
 Internet search engines can help analysts find information on unusual activity.  
@@ -168,7 +175,7 @@ Performing a search on the terms “TCP,” “port,” and “22912” may retu
 Note that separate workstations should be used for research to minimize the risk to the organization from conducting these searches.  
 
 
- Run Packet Sniffers to Collect Additional Data.  
+■ **Run Packet Sniffers to Collect Additional Data.  
 
 
 Sometimes the indicators do not record enough detail to permit the handler to understand what is occurring.  
@@ -183,7 +190,7 @@ Configuring the sniffer to record traffic that matches specified criteria should
 Because of privacy concerns, some organizations may require incident handlers to request and receive permission before using packet sniffers.  
 
 
- Filter the Data.  
+■ **Filter the Data.  
 
 
 There is simply not enough time to review and analyze all the indicators;  
@@ -198,7 +205,7 @@ Another filtering strategy is to show only the categories of indicators that are
 however, this approach carries substantial risk because new malicious activity may not fall into one of the chosen indicator categories.  
 
 
- Seek Assistance from Others.  
+■ **Seek Assistance from Others.  
 
 
 Occasionally, the team will be unable to determine the full cause and nature of an incident.  
