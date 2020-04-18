@@ -107,49 +107,49 @@ The reviews also give the analyst an indication of the reliability of each sourc
 （ここまで）  
 
 ■ **Create a Log Retention Policy.**  
-
+■ **ログ保持ポリシーの作成**
 
 Information regarding an incident may be recorded in several places, such as firewall, IDPS, and application logs.  
-
+インシデントに関する情報は、ファイアウォール、IDPS、アプリケーション ログなど、いくつかの場所に記録される可能性があります。
 
 Creating and implementing a log retention policy that specifies how long log data should be maintained may be extremely helpful in analysis because older log entries may show reconnaissance activity or previous instances of similar attacks.  
-
+ログデータの保持期間を指定したログ保持ポリシーを実装すると、古いログエントリには、偵察活動や以前に同様の攻撃が行われたことが示されている可能性があるため、分析に非常に役立つ可能性があります。 
 
 Another reason for retaining logs is that incidents may not be discovered until days, weeks, or even months later.  
-
+ログを保持するもう一つの理由は、数日後、数週間後、あるいは数ヶ月後にならないとインシデントが発見されない可能性があることです。 
 
 The length of time to maintain log data is dependent on several factors, including the organization’s data retention policies and the volume of data. See NIST SP 800-92, Guide to Computer Security Log Management for additional recommendations related to logging.34  
+ログデータの保持期間は、組織のデータ保持ポリシーやデータ量など、いくつかの要因に依存します。ログに関する追加の推奨事項については、NIST SP 800-92「Guide to Computer Security Log Management」を参照してください。
 
-
-■ **Perform Event Correlation.  
+■ **Perform Event Correlation.**  
 
 
 Evidence of an incident may be captured in several logs that each contain different types of data—a firewall log may have the source IP address that was used, whereas an application log may contain a username.  
-
+インシデントの証拠は、異なるタイプのデータを含む複数のログに記録されることがあります。ファイアウォールログには使用されたソースIPアドレスが記録され、アプリケーションログにはユーザー名が記録されることがあります。
 
 A network IDPS may detect that an attack was launched against a particular host, but it may not know if the attack was successful.  
-
+ネットワーク IDPS は、特定のホストに対して攻撃が開始されたことを検出することができますが、攻撃の成否はわかりません。 
 
 The analyst may need to examine the host’s logs to determine that information.  
-
+アナリストは、その情報を判断するためにホストのログを調べる必要があるかもしれません。
 
 Correlating events among multiple indicator sources can be invaluable in validating whether a particular incident occurred.  
+複数の兆候ソース間のイベントを相関させることは、特定のインシデントが発生したかどうかを検証する上で非常に重要です。
 
-
-■ **Keep All Host Clocks Synchronized.  
+■ **Keep All Host Clocks Synchronized.**  
+■ **すべてのホストのクロックを同期**
 
 
 Protocols such as the Network Time Protocol (NTP) synchronize clocks among hosts.35  
-
+NTP（Network Time Protocol）などのプロトコルは、ホスト間のクロックを同期させます。 
 
 Event correlation will be more complicated if the devices reporting events have inconsistent clock settings.  
-
+イベントを報告するデバイスのクロック設定が一貫していない場合、イベントの相関関係はより複雑になります。 
 
 From an evidentiary standpoint, it is preferable to have consistent timestamps in logs—for example, to have three logs that show an attack occurred at 12:07:01 a.m., rather than logs that list the attack as occurring at 12:07:01, 12:10:35, and 11:07:06.  
+例えば、攻撃が12:07:01、12:10:35、11:07:06に発生したことを示すログよりも、証拠という観点から、攻撃が12:07:01に発生したことを示す3つのログを持つ（一貫したタイムスタンプがある）方が望ましいです。 
 
-
-■ **Maintain and Use a Knowledge Base of Information.  
-
+■ **Maintain and Use a Knowledge Base of Information.**  
 
 The knowledge base should include information that handlers need for referencing quickly during incident analysis.  
 
@@ -160,8 +160,8 @@ Although it is possible to build a knowledge base with a complex structure, a si
 The knowledge base should also contain a variety of information, including explanations of the significance and validity of precursors and indicators, such as IDPS alerts, operating system log entries, and application error codes.  
 
 
-■ **Use Internet Search Engines for Research.  
-
+■ **Use Internet Search Engines for Research.**  
+■ **イベントの相関関係処理の実施**
 
 Internet search engines can help analysts find information on unusual activity.  
 
