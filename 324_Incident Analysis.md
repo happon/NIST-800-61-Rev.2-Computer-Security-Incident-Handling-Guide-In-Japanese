@@ -150,68 +150,73 @@ From an evidentiary standpoint, it is preferable to have consistent timestamps i
 例えば、攻撃が12:07:01、12:10:35、11:07:06に発生したことを示すログよりも、証拠という観点から、攻撃が12:07:01に発生したことを示す3つのログを持つ（一貫したタイムスタンプがある）方が望ましいです。 
 
 ■ **Maintain and Use a Knowledge Base of Information.**  
+■ **情報のナレッジベースの維持・使用**  
 
 The knowledge base should include information that handlers need for referencing quickly during incident analysis.  
-
+ナレッジベースには、ハンドラーがインシデント分析時に素早く参照するために必要な情報が含まれている必要があります。 
 
 Although it is possible to build a knowledge base with a complex structure, a simple approach can be effective. Text documents, spreadsheets, and relatively simple databases provide effective, flexible, and searchable mechanisms for sharing data among team members.  
-
+複雑な構造のナレッジベースを構築することも可能ですが、シンプルなアプローチが効果的です。。テキスト文書、スプレッドシート、比較的シンプルなデータベースは、チームメンバー間でデータを共有するために効果的かつ柔軟性があり、検索可能なメカニズムを提供します。 
 
 The knowledge base should also contain a variety of information, including explanations of the significance and validity of precursors and indicators, such as IDPS alerts, operating system log entries, and application error codes.  
-
+また、ナレッジベースには、IDPSアラート、オペレーティングシステムのログエントリ、アプリケーションのエラーコードなどの前兆や兆候の重要性や妥当性の説明など、さまざまな情報が含まれていることが望ましいです。 
 
 ■ **Use Internet Search Engines for Research.**  
 ■ **イベントの相関関係処理の実施**
 
 Internet search engines can help analysts find information on unusual activity.  
-
+インターネット検索エンジンは、アナリストが、異常なアクティビティに関する情報を見つけるのに役立ちます。 
 
 For example, an analyst may see some unusual connection attempts targeting TCP port 22912.  
-
+例えば、TCP ポート 22912 をターゲットにした異常な接続の試みをアナリストが目にすることがあります。
 
 Performing a search on the terms “TCP,” “port,” and “22912” may return some hits that contain logs of similar activity or even an explanation of the significance of the port number.  
-
+「TCP」、「port」、および「22912」という用語で検索すると、類似のアクティビティのログや、ポート番号の重要性についての説明を含むいくつかのヒットが返ってくることがあります。 
 
 Note that separate workstations should be used for research to minimize the risk to the organization from conducting these searches.  
+これらの検索を行うことによる組織へのリスクを最小限に抑えるために、調査には別のワークステーションを使用すべきであることに注意してください。 
 
-
-■ **Run Packet Sniffers to Collect Additional Data.  
-
+■ **Run Packet Sniffers to Collect Additional Data.**  
+■ **パケットスニファを実行して追加データを収集**
 
 Sometimes the indicators do not record enough detail to permit the handler to understand what is occurring.  
-
+インジケータは、ハンドラが何が起こっているのかを理解するのに十分な詳細を記録していないことがあります。
 
 If an incident is occurring over a network, the fastest way to collect the necessary data may be to have a packet sniffer capture network traffic.  
-
+インシデントがネットワーク上で発生している場合、必要なデータを収集する最速の方法は、パケットスニッファーにネットワークトラフィックをキャプチャさせることかもしれません。 
 
 Configuring the sniffer to record traffic that matches specified criteria should keep the volume of data manageable and minimize the inadvertent capture of other information.  
-
+指定された基準に一致するトラフィックを記録するようにスニッファーを設定することで、データ量を管理可能な状態に保ち、他の情報を不用意に取得することを最小限に抑えることができます。 
 
 Because of privacy concerns, some organizations may require incident handlers to request and receive permission before using packet sniffers.  
+プライバシーの問題があるため、組織によっては、パケットスニッファーを使用する前にインシデントハンドラに要求して許可を得ることが必要とする場合があります。
 
-
-■ **Filter the Data.  
-
+■ **Filter the Data.**  
+■ **データのフィルタリング**
 
 There is simply not enough time to review and analyze all the indicators;  
+すべての兆候を確認して分析するには、シンプルに十分な時間はありません。
 
+at minimum the most suspicious activity should be investigated.  
+最低限、最も疑わしい活動を調査する必要があります。
 
-at minimum the most suspicious activity should be investigated. One effective strategy is to filter out categories of indicators that tend to be insignificant.  
-
+One effective strategy is to filter out categories of indicators that tend to be insignificant.  
+効果的な戦略の1つは、取るに足らない兆候のカテゴリーをフィルタリングすることです。 
 
 Another filtering strategy is to show only the categories of indicators that are of the highest significance;  
-
+もう一つのフィルタリング戦略は、最も重要度の高い兆候のカテゴリーのみを表示することです。
 
 however, this approach carries substantial risk because new malicious activity may not fall into one of the chosen indicator categories.  
+しかしこの方法では、新たな悪意のある活動が、選択した兆候カテゴリのいずれかも該当しない可能性があるため、大きなリスクを伴います。
 
-
-■ **Seek Assistance from Others.  
-
+■ **Seek Assistance from Others.**  
+■ **他社の支援を求める**
 
 Occasionally, the team will be unable to determine the full cause and nature of an incident.  
-
+時として、チームはインシデントの完全な原因と性質を判断できないことがあります。 
 
 If the team lacks sufficient information to contain and eradicate the incident, then it should consult with internal resources (e.g., information security staff) and external resources (e.g., US-CERT, other CSIRTs, contractors with incident response expertise).  
+チームがインシデントを封じ込め、根絶するための十分な情報が不足している場合は、内部のリソース（情報セキュリティスタッフなど）や外部のリソース（US-CERT、他のCSIRT、インシデント対応の専門知識を持つ請負業者など）に相談する必要があります。
 
-
-It is important to accurately determine the cause of each incident so that it can be fully contained and the exploited vulnerabilities can be mitigated to prevent similar incidents from occurring.
+It is important to accurately determine the cause of each incident so that it can be fully contained and the exploited vulnerabilities can be mitigated to prevent similar incidents from occurring.  
+各インシデントの原因を正確に判断して、インシデントを完全に封じ込め、悪用された脆弱性を緩和して、同様のインシデントが発生しないようにすることが重要です。
