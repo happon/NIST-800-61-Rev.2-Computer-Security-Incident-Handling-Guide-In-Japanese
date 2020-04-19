@@ -30,8 +30,10 @@ one person can record and log events while the other person performs the technic
 Section 3.3.2 presents more information about evidence.※39   
 セクション 3.3.3.2 には、証拠についてのより詳しい情報が示されています。※39
 
-The incident response team should maintain records about the status of incidents, along with other pertinent information.40  
-インシデント対応チームは、その他の関連情報とともに、インシデントの状況に関する記録を保持すべきです。  
+<br/>
+
+The incident response team should maintain records about the status of incidents, along with other pertinent information.※40  
+インシデント対応チームは、その他の関連情報とともに、インシデントの状況に関する記録を保持すべきです。※40  
  
 Using an application or a database, such as an issue tracking system, helps ensure that incidents are handled and resolved in a timely manner.  
 問題追跡システムなどのアプリケーションやデータベースを使用することは、インシデントが適時に処理され、解決するのに役立ちます。
@@ -69,8 +71,8 @@ The issue tracking system should contain information on the following:
 ■ Comments from incident handlers  
 ■ インシデントハンドラからのコメント 
 
-■ Next steps to be taken (e.g., rebuild the host, upgrade an application).41  
-■ 次の措置（例：ホストの再構築、アプリケーションのアップグレード）
+■ Next steps to be taken (e.g., rebuild the host, upgrade an application).※41  
+■ 次の措置（例：ホストの再構築、アプリケーションのアップグレード）※41
 
 The incident response team should safeguard incident data and restrict access to it because it often contains sensitive information  
 インシデント対応チームは、インシデントデータを保護し、インシデントデータへのアクセスを制限する必要があります。 
@@ -101,3 +103,10 @@ Consider the admissibility of evidence collected with a device before using it. 
 NIST SP 800-86, Guide to Integrating Forensic Techniques Into Incident Response, provides detailed information on establishing a forensic capability, including the development of policies and procedures.  
 NIST SP 800-86「インシデント対応にフォレンジック技術を統合するためのガイド」では、ポリシーと手順の策定を含むフォレンジック能力の確立に関する詳細な情報を提供しています。
 
+※40  
+Appendix B contains a suggested list of data elements to collect when incidents are reported. Also, the CERT®/CC document State of the Practice of Computer Security Incident Response Teams (CSIRTs) provides several sample incident reporting forms. The document is available at http://www.cert.org/archive/pdf/03tr001.pdf.  
+付録 B には、インシデントが報告される際に収集すべきデータ要素の推奨リストが記載されています。また、CERT®/CC 文書「コンピュータ・セキュリティ・インシデント対応チーム（CSIRTs）の実践状況」には、いくつかのインシデント報告書式のサンプルが記載されています。この文書は、http://www.cert.org/archive/pdf/03tr001.pdf で入手可能です。
+
+※41  
+The Trans-European Research and Education Networking Association (TERENA) has developed RFC 3067, TERENA's Incident Object Description and Exchange Format Requirements (http://www.ietf.org/rfc/rfc3067.txt). The document provides recommendations for what information should be collected for each incident. The IETF Extended Incident Handling (inch) Working Group (http://www.cert.org/ietf/inch/inch.html) created an RFC that expands on TERENA’s work—RFC 5070, Incident Object Description Exchange Format (http://www.ietf.org/rfc/rfc5070.txt).  
+Trans-European Research and Education Networking Association (TERENA)は、RFC 3067、TERENA's Incident Object Description and Exchange Format Requirements (http://www.ietf.org/rfc/rfc3067.txt)を開発しました。この文書は、各インシデントに対してどのような情報を収集すべきかについての推奨事項を提供しています。IETF Extended Incident Handling (inch) Working Group (http://www.cert.org/ietf/inch/inch.html)は、TERENAの作業を拡張したRFC 5070, Incident Object Description Exchange Format (http://www.ietf.org/rfc/rfc5070.txt)を作成しました。 
