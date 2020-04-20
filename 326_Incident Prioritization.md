@@ -63,7 +63,7 @@ Combining the functional impact to the organization’s systems and the impact t
 <br/>
 
 The recoverability from the incident determines the possible responses that the team may take when handling the incident.  
-インシデントからの回復の可能性は、インシデントに対処する際にチームが取り得る対応を決定します。
+インシデントからの復旧性は、インシデントに対処する際にチームが取り得る対応を決定します。
 
 An incident with a high functional impact and low effort to recover from is an ideal candidate for immediate action from the team.  
 機能的な影響が大きく、復旧にかかる労力が少ないインシデントは、チームが即座に対応するための理想的な候補となります。 
@@ -120,9 +120,34 @@ Table 3-3. Information Impact Categories
 <br/>
 
 Table 3-4 shows examples of recoverability effort categories that reflect the level of and type of resources required to recover from the incident.  
-表 3-4 は、インシデントからの復旧に必要なリソースのレベルと種類を反映した復旧可能性の努力カテゴリの例を示しています。  
+表 3-4 は、インシデントからの復旧に必要なリソースのレベルと種類を反映した復旧作業カテゴリの例を示しています。  
 
 Table 3-4. Recoverability Effort Categories  
-復旧可能性の努力カテゴリ
+復旧作業カテゴリ
 |category<br/>カテゴリー|Definition 定義|
 |-|-|
+|Regular<br/>通常|Time to recovery is predictable with existing resources <br/>復旧までの時間は、既存のリソースで予測可能|
+|Supplemented<br/>補完|Time to recovery is predictable with additional resource<br/>リソースを追加することで回復までの時間が予測可能|
+|Extended<br/>拡張|Time to recovery is unpredictable; additional resources and outside help are needed <br/>回復までの時間が予測できないため、追加のリソースと外部からの支援が必要|
+|Not Recoverable<br/>回復不可能|Recovery from the incident is not possible (e.g., sensitive data exfiltrated and posted publicly); launch investigation.<br/>インシデントからの復旧が不可能（例：機密データが流出して公開された）。調査の開始|  
+
+Organizations should also establish an escalation process for those instances when the team does not respond to an incident within the designated time.  
+また、組織は、チームが指定された時間内にインシデントに対応しない場合のために、エスカレーションプロセスを確立すべきです。
+
+This can happen for many reasons: for example, cell phones may fail or people may have personal emergencies.  
+これは様々な理由で起こりえます。例えば、携帯電話が故障したり、個人的な緊急事態が発生した場合などである。 
+
+The escalation process should state how long a person should wait for a response and what to do if no response occurs.  
+エスカレーション・プロセスでは、回答が得られるまでの時間と、回答が得られなかった場合の対処法を説明する必要があります。 
+
+Generally, the first step is to duplicate the initial contact.  
+一般的に、最初のステップは、同じ携帯電話番号にかけ直すなど、最初の連絡を繰り返すことです。
+
+After waiting for a brief time—perhaps 15 minutes—the caller should escalate the incident to a higher level, such as the incident response team manager.  
+短い時間（おそらく15分）待った後、通報者は、インシデント対応チームのマネージャーなど、より高いレベルにインシデントをエスカレーションする必要があります。
+
+If that person does not respond within a certain time, then the incident should be escalated again to a higher level of management.  
+その担当者が一定時間内に応答しない場合は、インシデントをより高いレベルの管理者に再度エスカレーションする必要があります。
+
+This process should be repeated until someone responds.  
+誰かが応答するまで、このプロセスを繰り返すべきです。
