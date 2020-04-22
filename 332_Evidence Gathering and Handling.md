@@ -17,16 +17,16 @@ In addition, evidence should be accounted for at all times; whenever evidence is
 A detailed log should be kept for all evidence, including the following:  
 以下を含むすべての証拠について、詳細な記録を残すべきです。 
 
- Identifying information (e.g., the location, serial number, model number, hostname, media access control (MAC) addresses, and IP addresses of a computer)   
+■ Identifying information (e.g., the location, serial number, model number, hostname, media access control (MAC) addresses, and IP addresses of a computer)   
 ■ 識別情報（例：場所、シリアル番号、モデル番号、ホスト名、メディアアクセス制御（MAC）アドレス、コン ピュータのIPアドレスなど 
 
- Name, title, and phone number of each individual who collected or handled the evidence during the investigation  
+■ Name, title, and phone number of each individual who collected or handled the evidence during the investigation  
 ■ 調査中に証拠を収集した、または取り扱った各個人の氏名、肩書き、電話番号
 
- Time and date (including time zone) of each occurrence of evidence handling  
+■ Time and date (including time zone) of each occurrence of evidence handling  
 ■ 証拠処理の各発生日時（時間帯を含む  
 
- Locations where the evidence was stored.  
+■ Locations where the evidence was stored.  
 ■ 証拠が保管されていた場所
 
 Collecting evidence from computing resources presents some challenges.  
