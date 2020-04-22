@@ -57,7 +57,7 @@ information may include phone numbers, email addresses, public encryption keys (
 ■ データ分析、パケットの盗聴、レポート作成などの活動に使用する**ノートパソコン**
 
 ■ **Spare workstations, servers, and networking equipment,** or the virtualized equivalents, which may be used for many purposes, such as restoring backups and trying out malware  
-■ **ワークステーション、サーバ、ネットワーク機器**、または仮想化されたものをスペアとして、バックアップの復元やマルウェアの試用など、様々な目的で使用することができます。 
+■ **ワークステーション、サーバ、ネットワーク機器**、または仮想化されたものをスペアとして、バックアップの復元やマルウェアの試用など、様々な目的で使用できます。 
 
 ■ **Blank removable media**  
 ■ **空のリムーバブルディスク**
@@ -75,7 +75,7 @@ information may include phone numbers, email addresses, public encryption keys (
 ■ 信頼のおけるバージョンのプログラムを入れておき、システムから証拠を集める際に使用する**リムーバブルメディア**
 
 ■ **Evidence gathering accessories,** including hard-bound notebooks, digital cameras, audio recorders, chain of custody forms, evidence storage bags and tags, and evidence tape, to preserve evidence for possible legal actions  
-■ **証拠収集アクセサリー**：法的行動の可能性に備えて証拠を残しておくための、堅表紙のノート、デジタルカメラ、オーディオレコーダ、証拠・記録の保管フォーム、証拠保管バッグとタグ、証拠テープなど。
+■ **証拠収集アクセサリー**：法的行動の可能性に備えて証拠を残しておくための、堅表紙のノート、デジタルカメラ、オーディオレコーダー、書類・証拠の受け渡し記録フォーム、証拠保管バッグとタグ、証拠テープなど。
 
 #### Incident Analysis Resources:  
 #### インシデント分析リソース

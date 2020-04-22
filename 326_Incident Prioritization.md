@@ -17,10 +17,10 @@ Incidents targeting IT systems typically impact the business functionality that 
 IT システムを標的としたインシデントは、通常、それらのシステムが提供するビジネス機能に影響を与え、その結果、それらのシステムのユーザに何らかのネガティブな影響を与えます。 
 
 Incident handlers should consider how the incident will impact the existing functionality of the affected systems.  
-インシデント・ハンドラは、インシデントが影響を受けるシステムの既存の機能にどのような影響を与えるかを考慮する必要があります。
+インシデント・ハンドラーは、インシデントが影響を受けるシステムの既存の機能にどのような影響を与えるかを考慮する必要があります。
 
 Incident handlers should consider not only the current functional impact of the incident, but also the likely future functional impact of the incident if it is not immediately contained.  
-インシデント・ハンドラは、インシデントの現在の機能的な影響だけでなく、インシデントがすぐに収束しない場合には、インシデントの将来的な機能的な影響も考慮する必要があります。 
+インシデント・ハンドラーは、インシデントの現在の機能的な影響だけでなく、インシデントがすぐに収束しない場合には、インシデントの将来的な機能的な影響も考慮する必要があります。 
 
 ■ Information Impact of the Incident.  
 ■ インシデントによる情報への影響

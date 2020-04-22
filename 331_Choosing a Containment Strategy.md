@@ -75,7 +75,7 @@ For example, a compromised host may run a malicious process that pings another h
 例えば、侵害されたホストが悪意のあるプロセスを実行して、他のホストに定期的にpingを打つことがあります。 
 
 When the incident handler attempts to contain the incident by disconnecting the compromised host from the network, the subsequent pings will fail.  
-インシデントハンドラが侵害されたホストをネットワークから切断することでインシデントを封じ込めようとすると、その後のpingは失敗します。 
+インシデントハンドラーが侵害されたホストをネットワークから切断することでインシデントを封じ込めようとすると、その後のpingは失敗します。 
 
 As a result of the failure, the malicious process may overwrite or encrypt all the data on the host’s hard drive.  
 失敗の結果、悪意のあるプロセスがホストのハードドライブ上のすべてのデータを上書きしたり、暗号化したりする可能性があります。 

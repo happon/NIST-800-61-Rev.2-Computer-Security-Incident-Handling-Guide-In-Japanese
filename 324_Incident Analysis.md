@@ -52,7 +52,7 @@ In incident handling, detection may be the most difficult task.
 インシデントハンドリングでは、検出が最も困難な作業かもしれません。   
 
 Incident handlers are responsible for analyzing ambiguous, contradictory, and incomplete symptoms to determine what has happened.  
-インシデントハンドラは、何が起こったのかを判断するために、曖昧で、矛盾した、不完全な症状を分析する責任があります。  
+インシデントハンドラーは、何が起こったのかを判断するために、曖昧で、矛盾した、不完全な症状を分析する責任があります。  
 
 Although technical solutions exist that can make detection easier, the best remedy is to build a team of highly experienced and proficient staff members who can analyze the precursors and indicators effectively and efficiently and take appropriate actions.  
 検出を容易にする技術的な解決策は存在しますが、最良の解決策は、前兆や兆候を効果的かつ効率的に分析し、適切な行動をとることができる、経験豊富で熟練したスタッフのチームを構築することです。  
@@ -85,7 +85,7 @@ Incident response team members should study networks, systems, and applications 
 インシデント対応チームのメンバーは、ネットワーク、システム、およびアプリケーションを研究し、異常な動作をより簡単に認識できるように、その正常な動作を理解する必要があります。   
 
 No incident handler will have a comprehensive knowledge of all behavior throughout the environment, but handlers should know which experts could fill in the gaps.  
-インシデントハンドラは、環境全体のすべての行動について包括的な知識を持っているわけではありませんが、どの専門家がそのギャップを埋めることができるかを知っておく必要があります。 
+インシデントハンドラーは、環境全体のすべての行動について包括的な知識を持っているわけではありませんが、どの専門家がそのギャップを埋めることができるかを知っておく必要があります。 
 
 One way to gain this knowledge is through reviewing log entries and security alerts.  
 この知識を得るための一つの方法は、ログエントリとセキュリティアラートを確認することです。 
@@ -180,7 +180,7 @@ Note that separate workstations should be used for research to minimize the risk
 ■ **パケットスニファを実行して追加データを収集**
 
 Sometimes the indicators do not record enough detail to permit the handler to understand what is occurring.  
-インジケータは、ハンドラが何が起こっているのかを理解するのに十分な詳細を記録していないことがあります。
+インジケータは、ハンドラーが何が起こっているのかを理解するのに十分な詳細を記録していないことがあります。
 
 If an incident is occurring over a network, the fastest way to collect the necessary data may be to have a packet sniffer capture network traffic.  
 インシデントがネットワーク上で発生している場合、必要なデータを収集する最速の方法は、パケットスニッファーにネットワークトラフィックをキャプチャさせることかもしれません。 
@@ -189,7 +189,7 @@ Configuring the sniffer to record traffic that matches specified criteria should
 指定された基準に一致するトラフィックを記録するようにスニッファーを設定することで、データ量を管理可能な状態に保ち、他の情報を不用意に取得することを最小限に抑えることができます。 
 
 Because of privacy concerns, some organizations may require incident handlers to request and receive permission before using packet sniffers.  
-プライバシーの問題があるため、組織によっては、パケットスニッファーを使用する前にインシデントハンドラに要求して許可を得ることが必要とする場合があります。
+プライバシーの問題があるため、組織によっては、パケットスニッファーを使用する前にインシデントハンドラーに要求して許可を得ることが必要とする場合があります。
 
 ■ **Filter the Data.**  
 ■ **データのフィルタリング**

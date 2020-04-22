@@ -16,7 +16,7 @@ Every step taken from the time the incident was detected to its final resolution
 インシデントが検出されてから最終的な解決に至るまでのすべてのステップは、文書化され、タイムスタンプが付けられていなければなりません。
 
 Every document regarding the incident should be dated and signed by the incident handler.  
-またそれらの全ての文書には、日付が付けられ、インシデントハンドラによって署名されなければなりません。
+またそれらの全ての文書には、日付が付けられ、インシデントハンドラーによって署名されなければなりません。
 
 Information of this nature can also be used as evidence in a court of law if legal prosecution is pursued.  
 このような性質の情報は、法的起訴が追求された場合、法廷で証拠として使用することもできます。
@@ -54,10 +54,10 @@ The issue tracking system should contain information on the following:
 ■ このインシデントに関連するその他のインシデント  
 
 ■ Actions taken by all incident handlers on this incident  
-■ このインシデントに関して、すべてのインシデント・ハンドラがとった行動  
+■ このインシデントに関して、すべてのインシデント・ハンドラーがとった行動  
 
 ■ Chain of custody, if applicable  
-■ 書類受け渡し記録の管理（該当する場合
+■ 書類・証拠受け渡し記録（該当する場合
 
 ■ Impact assessments related to the incident  
 ■ インシデントに関連した影響評価
@@ -69,7 +69,7 @@ The issue tracking system should contain information on the following:
 ■ インシデント調査で集めた証拠の一覧表
 
 ■ Comments from incident handlers  
-■ インシデントハンドラからのコメント 
+■ インシデントハンドラーからのコメント 
 
 ■ Next steps to be taken (e.g., rebuild the host, upgrade an application).※41  
 ■ 次の措置（例：ホストの再構築、アプリケーションのアップグレード）※41
