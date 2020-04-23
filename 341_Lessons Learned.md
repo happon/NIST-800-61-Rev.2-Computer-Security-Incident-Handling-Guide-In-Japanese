@@ -104,4 +104,8 @@ This estimate may become the basis for subsequent prosecution activity by entiti
 この推定値は、米国司法長官室のような組織によるその後の起訴活動の基礎となる可能性があります。   
 
 Follow-up reports should be kept for a period of time as specified in record retention policies.45  
-フォローアップ報告書は、記録保持方針に規定されているように、一定期間保存されるべきです45。  
+フォローアップ報告書は、記録保持方針に規定されているように、一定期間保存されるべきです※。  
+
+※
+General Records Schedule (GRS) 24, Information Technology Operations and Management Records, specifies that “computer security incident handling, reporting and follow-up records” should be destroyed “3 years after all necessary follow-up actions have been completed.” GRS 24 is available from the National Archives and Records Administration at http://www.archives.gov/records-mgmt/grs/grs24.html.  
+一般記録スケジュール（GRS）24「情報技術の運用管理記録」では、"コンピュータセキュリティインシデントの処理、報告、およびフォローアップ記録 "は、"必要なすべてのフォローアップ措置が完了してから3年後に破棄されるべきである "と規定されています。GRS 24 は、国立公文書館記録局（http://www.archives.gov/records-mgmt/grs/grs24.html）から入手可能です。
