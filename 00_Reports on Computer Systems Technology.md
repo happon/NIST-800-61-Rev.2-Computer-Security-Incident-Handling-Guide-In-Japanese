@@ -1,4 +1,6 @@
-### Reports on Computer Systems Technology：「コンピュータシステム技術に関するレポート」
+### Reports on Computer Systems Technology
+### コンピュータシステム技術に関するレポート
+
 The Information Technology Laboratory (ITL) at the National Institute of Standards and Technology(NIST) promotes the U.S. economy and public welfare by providing technical leadership for the Nation’s
 measurement and standards infrastructure. 
 米国国立標準技術研究所（NIST）の情報技術研究所（ITL）は、国家の測定および標準に関する基盤において技術的リーダーシップを提供することにより、米国の経済と公共福祉に貢献している。
