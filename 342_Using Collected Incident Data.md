@@ -46,104 +46,111 @@ Organizations should decide what incident data to collect based on reporting req
 Possible metrics for incident-related data include:  
 インシデント関連データの測定基準としては、以下のようなものが考えられます。   
 
- Number of Incidents Handled.46  
-
+■ Number of Incidents Handled.46  
+■ 対応したインシデントの数  
 
  Handling more incidents is not necessarily better—for example, the number of incidents handled may decrease because of better network and host security controls, not because of negligence by the incident response team.  
- 
+ 例えば、対応したインシデント数は、インシデント対応チームの過失ではなく、ネットワークやホストのセキュリ ティ管理が改善されたために減少する場合があります。  
  
  The number of incidents handled is best taken as a measure of the relative amount of work that the incident response team had to perform, not as a measure of the quality of the team, unless it is considered in the context of other measures that collectively give an indication of work quality.  
- 
+ 処理されたインシデント数は、インシデント対応チームが実行しなければならなかった作業の相対的な量を測るものであって、チームの品質を測るものではないと考えるのが最善です。  
  
  It is more effective to produce separate incident counts for each incident category.  
- 
+ 各インシデントカテゴリごとに別々のインシデントカウントを作成する方がより効果的です。  
  
  Subcategories also can be used to provide more information.  
- 
+ また、より多くの情報を提供するためにサブカテゴリーを使用することもできます。
  
  For example, a growing number of incidents performed by insiders could prompt stronger policy provisions concerning background investigations for personnel and misuse of computing resources and stronger security controls on internal networks (e.g., deploying intrusion detection software to more internal networks and hosts).   
+ 例えば、インサイダーによって実行されるインシデントの数が増加していることから、人員の身元調査やコンピューティングリソースの不正使用に関するポリシーの規定を強化したり、内部ネットワークのセキュリティ管理を強化したりすることができます（例えば、より多くの内部ネットワークやホストに侵入検知ソフトウェアを配備するなど）。  
 
-
- Time Per Incident.  
- 
+■ Time Per Incident.  
+■ インシデントあたりの時間
  
  For each incident, time can be measured in several ways:  
+ 各インシデントについて、時間はいくつかの方法で測定することができます。  
  
+ - Total amount of labor spent working on the incident  
+ - インシデントの作業に費やされた労働力の総量  
  
- – Total amount of labor spent working on the incident  
- 
- 
- – Elapsed time from the beginning of the incident to incident discovery, to the initial impact assessment, and to each stage of the incident handling process (e.g., containment, recovery)  
+ - Elapsed time from the beginning of the incident to incident discovery, to the initial impact assessment, and to each stage of the incident handling process (e.g., containment, recovery)  
+ - インシデントの開始からインシデントの発見、最初の影響評価、およびインシデント処理プロセスの各段階（封じ込め、回復など）までの経過時間  
 
-
- – How long it took the incident response team to respond to the initial report of the incident  
+ - How long it took the incident response team to respond to the initial report of the incident  
+ - インシデント対応チームがインシデントの初動報告に対応するまでに要した時間  
  
- 
- – How long it took to report the incident to management and, if necessary, appropriate external entities (e.g., US-CERT).  
+ - How long it took to report the incident to management and, if necessary, appropriate external entities (e.g., US-CERT).  
+ - 管理者への報告、および必要に応じて適切な外部団体（US-CERT など）への報告にどのくらいの期間を要したか。  
 
-
- Objective Assessment of Each Incident.  
-
+■ Objective Assessment of Each Incident.  
+■ 各インシデントの客観的な評価  
 
  The response to an incident that has been resolved can be analyzed to determine how effective it was.  
-
+ 解決したインシデントへの対応を分析することで、それがどれだけ効果的であったかを判断することができます。  
 
  The following are examples of performing an objective assessment of an incident:  
+ 以下は、インシデントの客観的な評価を行う例です。  
+
+ - Reviewing logs, forms, reports, and other incident documentation for adherence to established incident response policies and procedures  
+ - 確立されたインシデント対応方針および手順に準拠しているかどうか、ログ、記録用紙、報告書、およびその他のインシデント文書をレビューする。  
+ 
+ - Identifying which precursors and indicators of the incident were recorded to determine how effectively the incident was logged and identified  
+ - インシデントのどの前兆と兆候が記録されたかを特定し、インシデントがどれだけ効果的に記録され、特定されたかを判断する。  
+ 
+ - Determining if the incident caused damage before it was detected  
+ - インシデントが発覚する前に被害が発生したかどうかの判断  
+ 
+ - Determining if the actual cause of the incident was identified, and identifying the vector of attack, the vulnerabilities exploited, and the characteristics of the targeted or victimized systems, networks, and applications  
+ - インシデントの実際の原因が特定されたかどうかを判断し、攻撃の方向性、悪用された脆弱性、標的または被害を受けたシステム、ネットワーク、およびアプリケーションの特徴を特定する。  
+ 
+ - Determining if the incident is a recurrence of a previous incident  
+ - インシデントが以前のインシデントの再発であるかどうかの判断  
+ 
+ - Calculating the estimated monetary damage from the incident (e.g., information and critical business processes negatively affected by the incident)  
+ - インシデントによる推定金銭的損害の計算（インシデントによって悪影響を受けた情報や重要なビジネスプロセスなど）  
+
+ - Measuring the difference between the initial impact assessment and the final impact assessment (see Section 3.2.6)  
+ - 最初の影響評価と最終的な影響評価との差の測定（3.2.6項参照
+ 
+ - Identifying which measures, if any, could have prevented the incident.  
+ - どのような対策があれば、事故を防ぐことができたかを特定すること。  
 
 
- – Reviewing logs, forms, reports, and other incident documentation for adherence to established incident response policies and procedures  
- 
- 
- – Identifying which precursors and indicators of the incident were recorded to determine how effectively the incident was logged and identified  
- 
- 
- – Determining if the incident caused damage before it was detected  
- 
- 
- – Determining if the actual cause of the incident was identified, and identifying the vector of attack, the vulnerabilities exploited, and the characteristics of the targeted or victimized systems, networks, and applications  
- 
- 
- – Determining if the incident is a recurrence of a previous incident  
- 
- 
- – Calculating the estimated monetary damage from the incident (e.g., information and critical business processes negatively affected by the incident)  
-
-
- – Measuring the difference between the initial impact assessment and the final impact assessment (see Section 3.2.6)  
- 
- 
- – Identifying which measures, if any, could have prevented the incident.  
-
-
- Subjective Assessment of Each Incident.  
-
+■ Subjective Assessment of Each Incident.  
+■ 各インシデントの主観的評価  
 
  Incident response team members may be asked to assess their own performance, as well as that of other team members and of the entire team.  
- 
+ インシデント対応チームのメンバーは、自分のパフォーマンスだけでなく、他のチームメンバーやチーム全体のパフォーマンスの評価を求められることがあります。  
  
  Another valuable source of input is the owner of a resource that was attacked, in order to determine if the owner thinks the incident was handled efficiently and if the outcome was satisfactory.  
+ もう一つの貴重な情報源は、攻撃を受けたリソースの所有者であり、その所有者がインシデントが効率的に処理されたと考えているかどうか、またその結果が満足のいくものであったかどうかを判断するためである。  
 
+<br/>
 
 Besides using these metrics to measure the team’s success, organizations may also find it useful to periodically audit their incident response programs.  
+チームの成功を測定するためにこれらの測定基準を使用するだけでなく、組織は定期的にインシデント対応プログラムを監査することも有用であると考えられます。  
+
+Audits will identify problems and deficiencies that can then be corrected.  
+監査は、問題や欠陥を特定し、それを修正することができます。  
+
+At a minimum, an incident response audit should evaluate the following items against applicable regulations, policies, and generally accepted practices:  
+最低限、インシデント対応監査では、以下の項目を適用される規則、方針、および一般に認められた慣行に照らして評価する必要があります。  
 
 
-Audits will identify problems and deficiencies that can then be corrected. At a minimum, an incident response audit should evaluate the following items against applicable regulations, policies, and generally accepted practices:  
+■ Incident response policies, plans, and procedures  
+■ インシデント対応の方針、計画、および手順
 
+■ Tools and resources  
+■ ツールとリソース
 
+■ Team model and structure  
+■ チームモデルと構造
 
- Incident response policies, plans, and procedures  
+■ Incident handler training and education  
+■ インシデントハンドラーの訓練と教育
 
+■ Incident documentation and reports  
+■ インシデント文書と報告書
 
- Tools and resources  
-
-
- Team model and structure  
-
-
- Incident handler training and education  
-
-
- Incident documentation and reports  
-
-
- The measures of success discussed earlier in this section.  
+■ The measures of success discussed earlier in this section.  
+■ このセクションで先に説明した成功の尺度
