@@ -18,7 +18,7 @@ Table 3-5. Incident Handling Checklist
 
 | |Action 行動|check|
 |-|-|-|
-| |Detection and Analysis<br/>検知と解析|
+| |Detection and Analysis<br/>検知と分析|
 |1.&emsp;&nbsp;|Determine whether an incident has occurred<br/>インシデントが発生したかどうかを判断する|
 |&emsp;1.1|&emsp;&emsp;Analyze the precursors and indicators<br/>&emsp;&emsp;前兆と兆候を分析する|
 |&emsp;1.2|&emsp;&emsp; Look for correlating information<br/>&emsp;&emsp;関連する情報を探す|
@@ -32,7 +32,7 @@ Table 3-5. Incident Handling Checklist
 |6.&emsp;&emsp;|Eradicate the incident <br/>事件の根絶|
 |&emsp;6.1|&emsp;&emsp; Identify and mitigate all vulnerabilities that were exploited <br/> &emsp;&emsp;悪用されたすべての脆弱性を特定し、軽減する|
 |&emsp;6.2|&emsp;&emsp; Remove malware, inappropriate materials, and other components<br/>&emsp;&emsp;マルウェアや不適切な素材などを除去する|
-|&emsp;6.3|&emsp;&emsp; If more affected hosts are discovered (e.g., new malware infections), repeat  the Detection and Analysis steps (1.1, 1.2) to identify all other affected hosts, then  contain (5) and eradicate (6) the incident for them<br/> &emsp;&emsp;より多くの影響を受けるホストが発見された場合(新しいマルウェア感染など)、検出と解析のステップ(1.1, 1.2)を繰り返して、他の影響を受けるすべてのホストを特定し、(5)のインシデントを封じ込め、(6)のインシデントを根絶してください。|
+|&emsp;6.3|&emsp;&emsp; If more affected hosts are discovered (e.g., new malware infections), repeat  the Detection and Analysis steps (1.1, 1.2) to identify all other affected hosts, then  contain (5) and eradicate (6) the incident for them<br/> &emsp;&emsp;より多くの影響を受けるホストが発見された場合(新しいマルウェア感染など)、検出と分析のステップ(1.1, 1.2)を繰り返して、他の影響を受けるすべてのホストを特定し、(5)のインシデントを封じ込め、(6)のインシデントを根絶してください。|
 |7.&emsp;&emsp;|Recover from the incident<br/>インシデントからの復旧|
 |&emsp;7.1|&emsp;&emsp;Return affected systems to an operationally ready state<br/>&emsp;&emsp;影響を受けたシステムを動作可能な状態に戻す |
 |&emsp;7.2|&emsp;&emsp;Confirm that the affected systems are functioning normally <br/>&emsp;&emsp;影響を受けたシステムが正常に機能していることを確認する|

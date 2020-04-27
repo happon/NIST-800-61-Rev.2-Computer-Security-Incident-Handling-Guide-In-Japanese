@@ -64,16 +64,16 @@ The incident response team should work quickly to analyze and validate each inci
 インシデント対応チームは、事前に定義されたプロセスに従って、各インシデントの分析と検証を迅速に行 い、各ステップを文書化する必要があります。 
 
 When the team believes that an incident has occurred, the team should rapidly perform an initial analysis to determine the incident’s scope, such as which networks, systems, or applications are affected;  
-インシデントが発生したとチームが判断した場合、チームは迅速に初期解析を行い、どのネットワーク、システム、またはアプリケーションが影響を受けるのかなど、インシデントの範囲を決定する必要があります。 
+インシデントが発生したとチームが判断した場合、チームは迅速に初期分析を行い、どのネットワーク、システム、またはアプリケーションが影響を受けるのかなど、インシデントの範囲を決定する必要があります。 
 
 who or what originated the incident; and how the incident is occurring (e.g., what tools or attack methods are being used, what vulnerabilities are being exploited).  
 インシデントが発生したのは誰なのか、何が原因なのか、インシデントがどのように発生しているのか（どのようなツールや攻撃方法が使用されているのか、どのような脆弱性が悪用されているのかなど）。
 
 The initial analysis should provide enough information for the team to prioritize subsequent activities, such as containment of the incident and deeper analysis of the effects of the incident.  
-初期解析は、インシデントの封じ込めやより深いインシデントの影響分析など、チームがその後の活動に優先順位をつけるのに十分な情報を提供しなければなりません。 
+初期分析は、インシデントの封じ込めやより深いインシデントの影響分析など、チームがその後の活動に優先順位をつけるのに十分な情報を提供しなければなりません。 
 
 Performing the initial analysis and validation is challenging.  
-初期解析と検証を行うことは困難です。 
+初期分析と検証を行うことは困難です。 
 
 The following are recommendations for making incident analysis easier and more effective:  
 以下は、インシデント分析をより簡単で効果的なものにするための推奨事項です。
