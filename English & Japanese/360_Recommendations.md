@@ -80,43 +80,43 @@ The key recommendations presented in this section for handling incidents are sum
  ハンドラーは、典型的なデータに精通し、異常なエントリを調査してより多くの知識を得ることができます。 
 
  Create a log retention policy.  
-
+■ **ログ保持ポリシーを作成する**
 
  Information regarding an incident may be recorded in several places.  
- 
+ インシデントに関する情報は、いくつかの場所に記録される可能性があります。
  
  Creating and implementing a log retention policy that specifies how long log data should be maintained may be extremely helpful in analysis because older log entries may show reconnaissance activity or previous instances of similar attacks.  
-
+ ログデータをどのくらいの期間維持するかを指定するログ保持ポリシーを作成して実装すると、古いログエントリには、偵察活動や類似の攻撃の以前のインスタンスが示されている可能性があるため、分析に非常に役立つ場合があります。
 
  Perform event correlation.  
-
+■ **イベントの相関関係を実行する**
 
  Evidence of an incident may be captured in several logs.  
- 
+ インシデントの証拠が複数のログに記録されている場合があります。
  
  Correlating events among multiple sources can be invaluable in collecting all the available information for an incident and validating whether the incident occurred.  
-
+ 複数のソース間でイベントを相関させることは、インシデントのために利用可能なすべての情報を収集し、インシデントが発生したかどうかを検証する上で非常に重要です。
 
  Keep all host clocks synchronized.  
-
+■ **すべてのホストクロックを同期させる**
 
  If the devices reporting events have inconsistent clock settings, event correlation will be more complicated.  
-
+ イベントを報告するデバイスのクロック設定が一貫していない場合、イベントの相関関係はより複雑になります。
 
  Clock discrepancies may also cause issues from an evidentiary standpoint.  
-
+ クロックの不一致は、証拠の観点からも問題を引き起こす可能性があります。
 
  Maintain and use a knowledge base of information.  
-
+■ **情報のナレッジデータベースを維持し、使用する**
 
  Handlers need to reference information quickly during incident analysis;  
-
+ ハンドラーは、インシデント分析中に情報を素早く参照する必要があります。
 
  a centralized knowledge base provides a consistent, maintainable source of information.  
-
+ 一元化されたナレッジデータベースは、一貫性があり、維持可能な情報源を提供します。
 
  The knowledge base should include general information, such as data on precursors and indicators of previous incidents.  
-
+ ナレッジデータベースには、過去のインシデントの前兆や兆候に関するデータなどの一般的な情報が含まれている必要があります。
 
  Start recording all information as soon as the team suspects that an incident has occurred.  
 
