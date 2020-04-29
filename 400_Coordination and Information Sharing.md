@@ -8,7 +8,7 @@ Organizations should ensure that they effectively coordinate portions of their i
 組織は、インシデント対応活動の一部を適切なパートナーと効果的に調整するようにしなければなりません。 
 
 The most important aspect of incident response coordination is information sharing, where different organizations share threat, attack, and vulnerability information with each other so that each organization’s knowledge benefits the other.  
-インシデント対応の調整の最も重要な側面は、情報共有であり、異なる組織が脅威、攻撃、および脆弱性の情報を相互に共有することで、各組織の知識が他の組織に利益をもたらすようにします。
+インシデント対応における連携の最も重要な側面は情報共有であり、異なる組織が脅威、攻撃、および脆弱性の情報を相互に共有することで、各組織の知識が他の組織に利益をもたらすようにします。
 
 Incident information sharing is frequently mutually beneficial because the same threats and attacks often affect multiple organizations simultaneously. 
 インシデント情報の共有は、同じ脅威や攻撃が複数の組織に同時に影響を与えることが多いため、相互に利益をもたらすことが多いです。
@@ -41,10 +41,10 @@ In this case, the organization may be able to leverage a trusted information sha
 <br/>
 
 This section of the document highlights coordination and information sharing.  
-このセクションでは、調整と情報共有に焦点を当てます。 
+このセクションでは、連携と情報共有に焦点を当てます。 
 
 Section 4.1 presents an overview of incident response coordination and focuses on the need for cross-organization coordination to supplement organization incident response processes.  
-4.1 節では、インシデント対応の調整の概要を示し、組織のインシデント対応プロセスを補完するための組織横断的な調整の必要性に焦点を当てています。
+4.1 節では、インシデント対応の連携の概要を示し、組織のインシデント対応プロセスを補完するための組織横断的な調整の必要性に焦点を当てています。
 
 Section 4.2 discusses techniques for information sharing across organizations, and Section 4.3 examines how to restrict what information is shared or not shared with other organizations.  
 第 4.2 節では、組織間で情報を共有するための技術について議論し、第 4.3 節では、どのような情報を他の組織と共有するか、あるいは共有しないかをどのように制限するかを検討しています。
