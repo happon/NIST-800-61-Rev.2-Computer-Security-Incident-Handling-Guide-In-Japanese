@@ -27,7 +27,7 @@ Similarly, an organization may use external indicator data to detect an ongoing 
 Organizations may also benefit from sharing their internal indicator data with external organizations.  
 組織は、内部兆候データを外部組織と共有することでも利益を得られます。 
 
-For example, if they share technical information pertaining to an incident they are experiencing, a partner organization may respond with a suggested remediation strategy for handling that incident.  
+For example, if they share technical information pertaining to an incident they are experiencing, a partner organization may vrespond with a suggested remediation strategy for handling that incident.  
 例えば、組織が経験しているインシデントに関連する技術情報を共有した場合、パートナー組織は、そのインシデントに対処するための改善策を提案して対応することができます。 
 
 <br/>
@@ -41,7 +41,7 @@ however, there may be both security and liability reasons why an organization wo
 External indicators, such as the general characteristics of attacks and the identity of attacking hosts, are usually safe to share with others.  
 攻撃の一般的な特徴や攻撃するホストの身元などの外部指標は、通常、他の人と共有しても安全です。
 
-Organizations should consider which types of technical information should or should not be shared with various parties, and then endeavor to share as much of the appropriate information as possible with other organizations. 
+Organizations should consider which types of technical information should or should not be shared with various parties, and then endeavor to share as much of the appropriate information as possible with other organizations.  
 組織は、どのような種類の技術情報を様々な関係者と共有すべきか、あるいは共有すべきでないかを検討し、適切な情報を可能な限り他の組織と共有するように努めなければならりません。
 
 <br/>
@@ -60,5 +60,5 @@ In some cases, this external data will generate false positives within the recei
 Organizations participating in incident information sharing should have staff skilled in taking technical indicator information from sharing communities and disseminating that information throughout the enterprise, preferably in an automated way.  
 インシデント情報の共有に参加している組織は、共有コミュニティから技術的兆候情報を取得し、その情報を企業全体に、できれば自動化された方法で発信することに長けたスタッフを持つべきです。 
 
-Organizations should also attempt to ensure that they only share an indicator for which they have a relatively high level of confidence that it signifies an actual incident. 
+Organizations should also attempt to ensure that they only share an indicator for which they have a relatively high level of confidence that it signifies an actual incident.  
 また、組織は、実際のインシデントを意味すると比較的高いレベルで確信できる兆候のみを共有するように努めるべきです。
