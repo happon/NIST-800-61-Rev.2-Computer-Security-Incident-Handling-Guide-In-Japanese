@@ -5,7 +5,7 @@ Incident handling scenarios provide an inexpensive and effective way to build in
 インシデントハンドリングシナリオは、そのスキルの構築とプロセスの潜在的な問題点を特定するための軽易で効果的な方法を提供します。 
 
 The incident response team or team members are presented with a scenario and a list of related questions.  
-インシデント対応チームまたはチームメンバーには、シナリオと関連する質問のリストが提示されます。 
+インシデントハンドリングチームまたはチームメンバーには、シナリオと関連する質問のリストが提示されます。 
 
 The team then discusses each question and determines the most likely answer.  
 その後、チームはそれぞれの質問について議論し、最も可能性の高い回答を決定します。 
@@ -26,7 +26,7 @@ After the questions are scenarios, each of which is followed by additional incid
 質問の後にはシナリオがあり、それぞれの質問の後には追加のインシデント固有の質問が続きます。
 
 Organizations are strongly encouraged to adapt these questions and scenarios for use in their own incident response exercises.48
-組織において、これらの質問とシナリオを、独自のインシデント対応演習で使用するよう強く推奨します。
+組織において、これらの質問とシナリオを、独自のインシデントハンドリング演習で使用するよう強く推奨します。
 
 48
 For additional information on exercises, see NIST SP 800-84, Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities, which is available at http://csrc.nist.gov/publications/PubsSPs.html#800-84.  
