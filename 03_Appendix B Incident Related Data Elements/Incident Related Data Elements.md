@@ -24,7 +24,7 @@ Each organization should create its own list of elements based on several factor
 ### B.1 Basic Data Elements  
 ### B.1 基本データ要素
 
- Contact Information for the Incident Reporter and Handler  
+■ Contact Information for the Incident Reporter and Handler  
 ■ インシデントレポーター・ハンドラーの連絡先  
  – Name  名前  
  – Role  役割  
@@ -36,7 +36,7 @@ Each organization should create its own list of elements based on several factor
 
 <br/>
 
- Incident Details  
+■ Incident Details  
 ■ インシデントの詳細  
  – Status change date/timestamps (including time zone): when the incident started, when the incident was discovered/detected, when the incident was reported, when the incident was resolved/ended, etc.  
  － 状態変化の日付/タイムスタンプ（タイムゾーンを含む）：インシデントが開始されたとき、インシデントが発見/検出されたとき、インシデントが報告されたとき、インシデントが解決/終了したとき、など  
@@ -45,53 +45,53 @@ Each organization should create its own list of elements based on several factor
  – Current status of the incident (e.g., ongoing attack)  
  － 事件の現在の状況（進行中の攻撃など  
  – Source/cause of the incident (if known), including hostnames and IP addresses  
- - ホスト名とIPアドレスを含む、インシデントの発生源/原因(既知の場合)  
+ ー ホスト名とIPアドレスを含む、インシデントの発生源/原因(既知の場合)  
  – Description of the incident (e.g., how it was detected, what occurred)  
-  - インシデントの説明（例：どのようにして検出されたか、何が起こったか  
+  ー インシデントの説明（例：どのようにして検出されたか、何が起こったか  
  – Description of affected resources (e.g., networks, hosts, applications, data), including systems’ hostnames, IP addresses, and function  
-  - システムのホスト名、IP アドレス、機能を含む、影響を受けるリソース（ネットワーク、ホスト、アプリケーション、データなど）の説明   
+  ー システムのホスト名、IP アドレス、機能を含む、影響を受けるリソース（ネットワーク、ホスト、アプリケーション、データなど）の説明   
  – If known, incident category, vectors of attack associated with the incident, and indicators related to the incident (traffic patterns, registry keys, etc.)   
-  - 既知の場合は、インシデントのカテゴリー、インシデントに関連する攻撃のベクトル、およびインシデントに関連する指標（トラフィックパターン、レジストリキーなど  
+  ー 既知の場合は、インシデントのカテゴリー、インシデントに関連する攻撃のベクトル、およびインシデントに関連する指標（トラフィックパターン、レジストリキーなど  
  – Prioritization factors (functional impact, information impact, recoverability, etc.)  
-  - 優先順位付けの要因（機能的な影響、情報への影響、復旧可能性など  
+  ー 優先順位付けの要因（機能的な影響、情報への影響、復旧可能性など  
  – Mitigating factors (e.g., stolen laptop containing sensitive data was using full disk encryption)  
-  - 緩和要因（例：機密データを含む盗まれたノートパソコンが完全なディスク暗号化を使用していたなど  
+  ー 緩和要因（例：機密データを含む盗まれたノートパソコンが完全なディスク暗号化を使用していたなど  
  – Response actions performed (e.g., shut off host, disconnected host from network)  
-  - 実行されたレスポンスアクション（例：ホストのシャットオフ、ネットワークからのホストの切断 
+  ー 実行されたレスポンスアクション（例：ホストのシャットオフ、ネットワークからのホストの切断  
  – Other organizations contacted (e.g., software vendor)  
-  - 連絡を取った他の組織（例：ソフトウェアベンダー  
+  ー 連絡を取った他の組織（例：ソフトウェアベンダー  
  
- General Comments  総評  
+■ General Comments  総評  
 
 
 ### B.2 Incident Handler Data Elements  
 ### B.2 インシデントハンドラのデータ要素 
 
- Current Status of the Incident Response  
+■ Current Status of the Incident Response  
 ■ インシデント対応の現状  
 
- Summary of the Incident  
+■ Summary of the Incident  
 ■ 事件の概要  
 
- Incident Handling Actions  
-■ インシデント対応アクション
+■ Incident Handling Actions  
+■ インシデント対応アクション  
  – Log of actions taken by all handlers  
- - すべてのハンドラーが実行したアクションのログ 
+ ー すべてのハンドラーが実行したアクションのログ  
  – Contact information for all involved parties  
- - 関係者の連絡先
+ ー 関係者の連絡先
  – List of evidence gathered  
- - 集められた証拠の一覧 
+ ー 集められた証拠の一覧 
 
- Incident Handler Comments  
+■ Incident Handler Comments  
 ■ インシデントハンドラのコメント  
 
- Cause of the Incident (e.g., misconfigured application, unpatched host)  
+■ Cause of the Incident (e.g., misconfigured application, unpatched host)  
 ■ インシデントの原因（アプリケーションの設定ミス、パッチが適用されていないホストなど  
 
- Cost of the Incident  
+■ Cost of the Incident  
 ■ インシデントの費用  
 
- Business Impact of the Incident※  
+■ Business Impact of the Incident※  
 ■ インシデントのビジネスへの影響※
 
 ※The business impact of the incident could either be a description of the incident’s effect (e.g., accounting department unable to perform tasks for two days) or an impact category based on the cost (e.g., a “major” incident has a cost of over $100,000).  

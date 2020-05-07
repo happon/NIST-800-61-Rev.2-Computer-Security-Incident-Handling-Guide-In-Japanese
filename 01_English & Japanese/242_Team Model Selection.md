@@ -41,7 +41,7 @@ The help desk members can be trained to perform the initial investigation and da
 ■ **従業員の士気**  
 
 Incident response work is very stressful, as are the on-call responsibilities of most team members.  
-インシデントレスポンスの仕事は、ほとんどのチームメンバーのオンコール※の責任と同様に、非常にストレスの多い仕事です。  
+インシデント対応の仕事は、ほとんどのチームメンバーのオンコール※の責任と同様に、非常にストレスの多い仕事です。  
 （訳者注※：呼ばれたらすぐ対応すること）
 
 This combination makes it easy for incident response team members to become overly stressed.  

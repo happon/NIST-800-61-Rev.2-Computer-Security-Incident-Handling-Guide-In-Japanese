@@ -1,5 +1,5 @@
 ### Incident Response Team Services
-### インシデントレスポンスチームサービス
+### インシデント対応チームサービス
 
 The main focus of an incident response team is performing incident response, but it is fairly rare for a team to perform incident response only.  
  インシデント・レスポンス・チームの主な焦点はインシデント・レスポンスの実行ですが、インシデント・レスポンス**のみ**を実行するチームはほとんどありません。 
@@ -14,7 +14,7 @@ The following are examples of other services a team might offer:
  インシデント・レスポンス・チームは、第一に侵入検知の責任を負うことが多いです。  
 
  The team generally benefits because it should be poised to analyze incidents more quickly and accurately, based on the knowledge it gains of intrusion detection technologies.   
- 侵入検知技術に関する知識に基づいて、より迅速かつ正確にインシデントを分析できる体制を整えておくことができるということは、インシデントレスポンスチームの持つ一般的なメリットです。
+ 侵入検知技術に関する知識に基づいて、より迅速かつ正確にインシデントを分析できる体制を整えておくことができるということは、インシデント対応チームの持つ一般的なメリットです。
 
 ■ **Advisory Distribution.**  
 ■ **アドバイザリの配布**  

@@ -2,7 +2,7 @@
 ### チームモデル
 
 Possible structures for an incident response team include the following:  
-インシデントレスポンスチームの構成には、以下のようなものがあります。 
+インシデント対応チームの構成には、以下のようなものがあります。 
 
 ■ **Central Incident Response Team**  
 ■ **中央インシデント対応チーム**
