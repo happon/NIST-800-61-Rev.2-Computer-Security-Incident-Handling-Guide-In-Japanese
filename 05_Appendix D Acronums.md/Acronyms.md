@@ -119,55 +119,76 @@ Interagency Report
 Internet Relay Chat  
 インターネットリレーチャット
 
-ISAC  Information Sharing and Analysis Center  
+**ISAC**
+Information Sharing and Analysis Center  
+セキュリティ情報共有組織
 
+**ISP**
+Internet Service Provider  
+インターネットサービスプロバイダ  
 
-ISP   Internet Service Provider  
+**IT**   
+Information Technology  
+情報技術
 
+**ITL**  
+Information Technology Laboratory  
+情報技術研究所
 
-IT   Information Technology  
+**MAC**  
+Media Access Control  
+媒体アクセス制御
 
+**MOU**  
+Memorandum of Understanding  
+基本合意書、了解覚書
 
-ITL  Information Technology Laboratory  
+**MSSP**  
+Managed Security Services Provider  
+マネージドセキュリティサービスプロバイダ
 
+**NAT**  
+Network Address Translation  
+ネットワークアドレス変換
 
-MAC  Media Access Control  
+**NDA**  
+Non-Disclosure Agreement  
+秘密保持契約、秘密保持契約書
 
+**NIST**  
+National Institute of Standards and Technology  
+アメリカ国立標準技術研究所
 
-MOU  Memorandum of Understanding  
+**NSRL**  
+National Software Reference Library  
+ナショナルソフトウェアリファレンスライブラリ  
+NISTのプロジェクトで、法執行機関やコンピュータ・フォレンジック調査に関与する他の組織が使用する既知のソフトウェア、ファイルプロファイル、ファイル署名のリポジトリを維持・提供している。
 
+**NTP**  
+Network Time Protocol  
+ネットワークタイムプロトコル
 
-MSSP  Managed Security Services Provider  
+**NVD**  
+National Vulnerability Database  
+脆弱性情報データベース
 
+**OIG**  
+Office of Inspector General  
+監察総監室
+OIG は、全米の事業所における監査・調査・評価を通して、事業とマネジメントの問題点を長官及び議会の両方に対して報告し、改善を勧告している。  
 
-NAT  Network Address Translation  
+**OMB**  
+Office of Management and Budget  
+アメリカ合衆国行政管理予算局
 
-
-NDA  Non-Disclosure Agreement  
-
-
-NIST  National Institute of Standards and Technology  
-
-
-NSRL  National Software Reference Library  
-
-
-NTP  Network Time Protocol  
-
-
-NVD  National Vulnerability Database  
-
-
-OIG  Office of Inspector General  
-
-
-OMB  Office of Management and Budget  
-
-
-OS   Operating System  
+**OS**  
+Operating System  
 オペレーティングシステム
 
-PII   Personally Identifiable Information  
+**PII**  
+Personally Identifiable Information  
+個人情報、個人を特定できる情報
 
-
-PIN  Personal Identification Number
+**PIN**  
+Personal Identification Number
+個人識別番号
