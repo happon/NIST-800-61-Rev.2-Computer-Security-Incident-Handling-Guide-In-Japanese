@@ -1,22 +1,27 @@
 ### Appendix E Resources
+### 付録E　情報源
 
 The lists below provide examples of resources that may be helpful in establishing and maintaining an incident response capability.
+以下のリストは、インシデント対応能力の確立と維持に役立つ情報源の一例です。  
 
 #### Incident Response Organizations
+#### インシデント対応組織
 
-|Organization|URL|
+|Organization<br/>組　織|URL|
 |-|-|
-|Anti-Phishing Working Group (APWG)| http://www.antiphishing.org/ |
-| Computer Crime and Intellectual Property Section (CCIPS), U.S. Department of Justice | http://www.cybercrime.gov/ |
-| CERT® Coordination Center, Carnegie Mellon University (CERT®/CC) | http://www.cert.org/|
-|  European Network and Information Security Agency (ENISA)| http://www.enisa.europa.eu/activities/cert|
-|  Forum of Incident Response and Security Teams (FIRST) |http://www.first.org/|
-|  Government Forum of Incident Response and Security Teams (GFIRST)| http://www.us-cert.gov/federal/gfirst.html |
-| High Technology Crime Investigation Association (HTCIA)| http://www.htcia.org/ |
-| InfraGard| http://www.infragard.net/ |
-| Internet Storm Center (ISC)| http://isc.sans.edu/|
-|  National Council of ISACs| http://www.isaccouncil.org/|
-|  United States Computer Emergency Response Team (US-CERT)| http://www.us-cert.gov/  |
+|Anti-Phishing Working Group (APWG)<br/>フィッシング対策実務者グループ| http://www.antiphishing.org/ |
+| Computer Crime and Intellectual Property Section (CCIPS), U.S. Department of Justice<br/>アメリカ合衆国司法省コンピュータ犯罪および知的財産担当課 | http://www.cybercrime.gov/ |
+| CERT® Coordination Center, Carnegie Mellon University (CERT®/CC)<br/>カーネギーメロン大学CERT®コーディネーションセンター | http://www.cert.org/|
+|  European Network and Information Security Agency (ENISA)<br/>欧州ネットワーク・情報セキュリティ機関| http://www.enisa.europa.eu/activities/cert|
+|  Forum of Incident Response and Security Teams (FIRST)<br/>インシデントレスポンス・セキュリティチームフォーラム※ |http://www.first.org/|
+|  Government Forum of Incident Response and Security Teams (GFIRST)<br/>インシデントレスポンス・セキュリティチーム政府フォーラム※| http://www.us-cert.gov/federal/gfirst.html |
+| High Technology Crime Investigation Association (HTCIA)<br/>ハイテクノロジー犯罪捜査協会※| http://www.htcia.org/ |
+| InfraGard<br/>インフラガード※| http://www.infragard.net/ |
+| Internet Storm Center (ISC)<br/>インターネットストームセンター※| http://isc.sans.edu/|
+|  National Council of ISACs<br/>※| http://www.isaccouncil.org/|
+|  United States Computer Emergency Response Team (US-CERT)<br/>米コンピュータ緊急事態対策チーム| http://www.us-cert.gov/  |
+
+※和名不明
 
 #### NIST Publications 
 
