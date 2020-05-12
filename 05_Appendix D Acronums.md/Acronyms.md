@@ -73,7 +73,7 @@ Federal Information Processing Standards
 
 **FIRST**  
 Forum of Incident Response and Security Teams  
-インシデントレスポンス・セキュリティチームフォーラム
+インシデントレスポンス・セキュリティチームフォーラム※
 
 **FISMA**  
 Federal Information Security Management Act  
@@ -85,7 +85,7 @@ General Accountability Office
 
 **GFIRST**  
 Government Forum of Incident Response and Security Teams  
-インシデントレスポンス・セキュリティチーム政府フォーラム 
+インシデントレスポンス・セキュリティチーム政府フォーラム※
 
 **GRS**  
 General Records Schedule  
@@ -191,4 +191,6 @@ Personally Identifiable Information
 
 **PIN**  
 Personal Identification Number
-個人識別番号
+個人識別番号  
+
+※和名不明
