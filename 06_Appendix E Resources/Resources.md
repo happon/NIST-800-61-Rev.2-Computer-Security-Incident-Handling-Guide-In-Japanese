@@ -23,19 +23,25 @@ The lists below provide examples of resources that may be helpful in establishin
 
 ※和名不明
 
-#### NIST Publications 
+<br/>
 
-| Resource Name |URL|
+#### NIST Publications 
+#### NIST出版物
+
+| Resource Name<br/>情報源名 |URL|
 |-|-|
-|NIST SP 800-53 Revision 3, Recommended Security Controls for Federal Information Systems and Organizations |http://csrc.nist.gov/publications/PubsSPs.html#800-53   |
-| NIST SP 800-83, Guide to Malware Incident Prevention and Handling | http://csrc.nist.gov/publications/PubsSPs.html#800-83 |
-|NIST SP 800-84, Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities |http://csrc.nist.gov/publications/PubsSPs.html#800-84 |
-|NIST SP 800-86, Guide to Integrating Forensic Techniques into Incident Response | http://csrc.nist.gov/publications/PubsSPs.html#800-86 |  
-|NIST SP 800-92, Guide to Computer Security Log Management |http://csrc.nist.gov/publications/PubsSPs.html#800-92 |
-| NIST SP 800-94, Guide to Intrusion Detection and Prevention Systems (IDPS) | http://csrc.nist.gov/publications/PubsSPs.html#800-94 |
-| NIST SP 800-115, Technical Guide to Information Security Testing and Assessment | http://csrc.nist.gov/publications/PubsSPs.html#800-115 | 
-|NIST SP 800-128, Guide for Security-Focused Configuration Management of Information Systems |http://csrc.nist.gov/publications/PubsSPs.html#800-128  |
- 
+|NIST SP 800-53 Revision 3, Recommended Security Controls for Federal Information Systems and Organizations<br/>連邦政府情報システムおよび連邦組織のためのセキュリティ管理策とプライバシー管理策 |http://csrc.nist.gov/publications/PubsSPs.html#800-53   |
+| NIST SP 800-83, Guide to Malware Incident Prevention and Handling<br/>マルウェアによるインシデントの防止と対応のためのガイド | http://csrc.nist.gov/publications/PubsSPs.html#800-83 |
+|NIST SP 800-84, Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities<br/>IT計画およびIT対応能力のためのテスト、トレーニング、演習プログラムのガイド |http://csrc.nist.gov/publications/PubsSPs.html#800-84 |
+|NIST SP 800-86, Guide to Integrating Forensic Techniques into Incident Response<br/>媒体のサニタイズに関するガイドライン | http://csrc.nist.gov/publications/PubsSPs.html#800-86 |  
+|NIST SP 800-92, Guide to Computer Security Log Management<br/>コンピュータセキュリティログ管理ガイド |http://csrc.nist.gov/publications/PubsSPs.html#800-92 |
+| NIST SP 800-94, Guide to Intrusion Detection and Prevention Systems (IDPS)<br/>侵入検知および侵入防止システム（IDPS）に関するガイド | http://csrc.nist.gov/publications/PubsSPs.html#800-94 |
+| NIST SP 800-115, Technical Guide to Information Security Testing and Assessment<br/>情報セキュリティのテスト・評価のための技術的ガイド※ | http://csrc.nist.gov/publications/PubsSPs.html#800-115 | 
+|NIST SP 800-128, Guide for Security-Focused Configuration Management of Information Systems<br/>情報システムにおけるセキュリティを焦点とした設定・管理ガイド※ |http://csrc.nist.gov/publications/PubsSPs.html#800-128  |
+※筆者訳
+
+<br/>
+
 #### Data Exchange Specifications Applicable to Incident Handling 
 
 |Title|Description | Addional Information |
