@@ -4,6 +4,8 @@
 The lists below provide examples of resources that may be helpful in establishing and maintaining an incident response capability.
 以下のリストは、インシデント対応能力の確立と維持に役立つ情報源の一例です。  
 
+<br/>
+
 #### Incident Response Organizations
 #### インシデント対応組織
 
@@ -38,33 +40,33 @@ The lists below provide examples of resources that may be helpful in establishin
 | NIST SP 800-94, Guide to Intrusion Detection and Prevention Systems (IDPS)<br/>侵入検知および侵入防止システム（IDPS）に関するガイド | http://csrc.nist.gov/publications/PubsSPs.html#800-94 |
 | NIST SP 800-115, Technical Guide to Information Security Testing and Assessment<br/>情報セキュリティのテスト・評価のための技術的ガイド※ | http://csrc.nist.gov/publications/PubsSPs.html#800-115 | 
 |NIST SP 800-128, Guide for Security-Focused Configuration Management of Information Systems<br/>情報システムにおけるセキュリティを焦点とした設定・管理ガイド※ |http://csrc.nist.gov/publications/PubsSPs.html#800-128  |
-※筆者訳
+※筆者訳　他はIPAによる
 
 <br/>
 
 #### Data Exchange Specifications Applicable to Incident Handling 
+#### インシデントハンドリングに適用されるデータ交換仕様
 
-|Title|Description | Addional Information |
+|Title<br/>題名|Description<br/> 説明| Addional Information<br/> 追加情報|
 |-|-|-|
-|AI |Asset Identification|  http://csrc.nist.gov/publications/PubsNISTIRs.html#NISTIR-7693|
-|  ARF|  Asset Results Format|  http://csrc.nist.gov/publications/PubsNISTIRs.html#NISTIR-7694  |
-|CAPEC|  Common Attack Pattern Enumeration and Classification|  http://capec.mitre.org/|
-|  CCE|  Common Configuration Enumeration|  http://cce.mitre.org/|
-|  CEE|  Common Event Expression|  http://cee.mitre.org/  |
-|CPE|  Common Platform Enumeration|  http://cpe.mitre.org/|
-|  CVE|  Common Vulnerabilities and Exposures|  http://cve.mitre.org/|
-|  CVSS|  Common Vulnerability Scoring System|  http://www.first.org/cvss/cvss-guide  |
-|CWE  |Common Weakness Enumeration  |http://cwe.mitre.org/  |
-|CybOX| Cyber Observable eXpression| http://cybox.mitre.org/|
-|  MAEC|  Malware Attribute Enumeration and Characterization | http://maec.mitre.org/|
-|  OCIL|  Open Checklist Interactive Language|  http://csrc.nist.gov/publications/PubsNISTIRs.html#NISTIR-7692|
-|  OVAL|  Open Vulnerability Assessment Language|  http://oval.mitre.org/  |
-|RFC 4765|  Intrusion Detection Message Exchange Format (IDMEF)| http://www.ietf.org/rfc/rfc4765.txt  |
-|RFC 5070 | Incident Object Description Exchange Format (IODEF)| http://www.ietf.org/rfc/rfc5070.txt  |
-|RFC 5901|  Extensions to the IODEF for Reporting Phishing | http://www.ietf.org/rfc/rfc5901.txt|
-|  RFC 5941|  Sharing Transaction Fraud Data|  http://www.ietf.org/rfc/rfc5941.txt  |
-|RFC 6545 |Real-time Inter-network Defense (RID)| http://www.ietf.org/rfc/rfc6545.txt  |
-|RFC 6546| Transport of Real-time Inter-network Defense (RID) Messages over HTTP/TLS| http://www.ietf.org/rfc/rfc6546.txt |
-| SCAP| Security Content Automation Protocol |http://csrc.nist.gov/publications/PubsSPs.html#SP-800126-Rev.%202|
-|  XCCDF|  Extensible Configuration Checklist Description Format|  http://csrc.nist.gov/publications/PubsNISTIRs.html#NISTIR-7275-r4  |
- 
+|AI |Asset Identification<br/>資産の特定※|  http://csrc.nist.gov/publications/PubsNISTIRs.html#NISTIR-7693|
+|  ARF|  Asset Results Format<br/>資産結果のフォーマット※|  http://csrc.nist.gov/publications/PubsNISTIRs.html#NISTIR-7694  |
+|CAPEC|  Common Attack Pattern Enumeration and Classification<br/>共通攻撃パターン一覧|  http://capec.mitre.org/|
+|  CCE|  Common Configuration Enumeration<br/>共通セキュリティ設定一覧|  http://cce.mitre.org/|
+|  CEE|  Common Event Expression<br/>共通イベント記述|  http://cee.mitre.org/  |
+|CPE|  Common Platform Enumeration<br/>共通プラットフォーム一覧|  http://cpe.mitre.org/|
+|  CVE|  Common Vulnerabilities and Exposures<br/>共通脆弱性識別子|  http://cve.mitre.org/|
+|  CVSS|  Common Vulnerability Scoring System<br/>共通脆弱性評価システム|  http://www.first.org/cvss/cvss-guide  |
+|CWE  |Common Weakness Enumeration<br/> 共通脆弱性タイプ一覧 |http://cwe.mitre.org/  |
+|CybOX| Cyber Observable eXpression<br/>サイバー攻撃観測記述形式| http://cybox.mitre.org/| 
+|  MAEC|  Malware Attribute Enumeration and Characterization<br/>マルウェア特徴属性一覧 | http://maec.mitre.org/|
+|  OCIL|  Open Checklist Interactive Language<br/>対話型チェックリスト記述言語|  http://csrc.nist.gov/publications/PubsNISTIRs.html#NISTIR-7692|
+|  OVAL|  Open Vulnerability Assessment Language<br/>セキュリティ検査言語|  http://oval.mitre.org/  |
+|RFC 4765|  Intrusion Detection Message Exchange Format (IDMEF)<br/>侵入検知メッセージ交換フォーマット| http://www.ietf.org/rfc/rfc4765.txt  |
+|RFC 5070 | Incident Object Description Exchange Format (IODEF)<br/>インシデントオブジェクト記述法と交換フォーマット| http://www.ietf.org/rfc/rfc5070.txt  |
+|RFC 5901|  Extensions to the IODEF for Reporting Phishing<br/>フィッシング報告用のIODEF文書クラス拡張 | http://www.ietf.org/rfc/rfc5901.txt|
+|  RFC 5941|  Sharing Transaction Fraud Data<br/> 取引詐欺のデータの共有|  http://www.ietf.org/rfc/rfc5941.txt  |
+|RFC 6545 |Real-time Inter-network Defense (RID)<br/>| http://www.ietf.org/rfc/rfc6545.txt  |
+|RFC 6546| Transport of Real-time Inter-network Defense (RID) Messages over HTTP/TLS<br/>リアルタイムのネットワーク間防衛の交通HTTP / TLS経由（RID）のメッセージ| http://www.ietf.org/rfc/rfc6546.txt |
+| SCAP| Security Content Automation Protocol<br/>セキュリティ設定共通化手順 |http://csrc.nist.gov/publications/PubsSPs.html#SP-800126-Rev.%202|
+|  XCCDF|  Extensible Configuration Checklist Description Format<br/>セキュリティ設定チェックリスト記述形式|  http://csrc.nist.gov/publications/PubsNISTIRs.html#NISTIR-7275-r4  |
