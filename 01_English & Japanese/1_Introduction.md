@@ -1,6 +1,6 @@
-# 1. Introduction「序章」
+# 1. Introduction 序 章
 
-### 1.1 Authority「権限」
+### 1.1 Authority 権 限
 
 The National Institute of Standards and Technology (NIST) developed this document in furtherance of its statutory responsibilities under the Federal Information Security Management Act (FISMA) of 2002, Public Law 107-347.  
 国立標準技術研究所（NIST）は、2002 年の連邦情報セキュリティ管理法（FISMA）（公法 107-347）に基づく法的責任を推進するために、この文書を作成しました。  
@@ -49,31 +49,31 @@ The remainder of this document is organized into the following sections and appe
 本書の残りの部分は、以下のセクションと付録で構成されています。  
 
 ■ Section 2 discusses the need for incident response, outlines possible incident response team structures, and highlights other groups within an organization that may participate in incident handling.  
-□ セクション2では、インシデント対応の必要性について議論し、可能なインシデント対応チームの構造を概説し、インシデントハンドリングに参加する可能性のある組織内の他のグループを強調しています。  
+■ セクション2では、インシデント対応の必要性について議論し、可能なインシデント対応チームの構造を概説し、インシデントハンドリングに参加する可能性のある組織内の他のグループを強調しています。  
 
 ■ Section 3 reviews the basic incident handling steps and provides advice for performing incident handling more effectively, particularly incident detection and analysis.  
-□ セクション3では、基本的なインシデント対応のステップをレビューし、インシデント対応をより効果的に行うための アドバイス、特にインシデントの検出と分析を提供しています。  
+■ セクション3では、基本的なインシデント対応のステップをレビューし、インシデント対応をより効果的に行うための アドバイス、特にインシデントの検出と分析を提供しています。  
 
 ■ Section 4 examines the need for incident response coordination and information sharing.   
-□ セクション4では、インシデント対応の調整と情報共有の必要性を検討しています。  
+■ セクション4では、インシデント対応の調整と情報共有の必要性を検討しています。  
 
 ■ Appendix A contains incident response scenarios and questions for use in incident response tabletop discussions.  
-付録Aには、インシデント対応の卓上ディスカッションで使用するためのインシデント対応シナリオと質問が含まれています。  
+■ 付録Aには、インシデント対応の卓上ディスカッションで使用するためのインシデント対応シナリオと質問が含まれています。  
 
 ■ Appendix B provides lists of suggested data fields to collect for each incident.  
-付録Bは、各インシデントについて収集すべきデータフィールドのリストを提供しています。  
+■ 付録Bは、各インシデントについて収集すべきデータフィールドのリストを提供しています。  
 
 ■ Appendices C and D contain a glossary and acronym list, respectively.  
-付録CとDには、それぞれ用語集と頭字語のリストが含まれています。  
+■ 付録CとDには、それぞれ用語集と頭字語のリストが含まれています。  
 
 ■ Appendix E identifies resources that may be useful in planning and performing incident response.  
-付録Eは、インシデント対応の計画と実行に有用なリソースを特定しています。 
+■ 付録Eは、インシデント対応の計画と実行に有用なリソースを特定しています。 
 
 ■ Appendix F covers frequently asked questions about incident response.  
-付録Fでは、インシデント対応に関するよくある質問を取り上げています。
+■ 付録Fでは、インシデント対応に関するよくある質問を取り上げています。
 
 ■ Appendix G lists the major steps to follow when handling a computer security incident-related crisis.  
-付録 G には、コンピュータ・セキュリティ・インシデント関連の危機に対処する際に従うべき主な手順が記載されています。  
+■ 付録 G には、コンピュータ・セキュリティ・インシデント関連の危機に対処する際に従うべき主な手順が記載されています。  
 
 ■ Appendix H contains a change log listing significant changes since the previous revision.  
-付録 H には、前回の改訂以降の重要な変更点をリストアップした変更ログが含まれています。 
+■ 付録 H には、前回の改訂以降の重要な変更点をリストアップした変更ログが含まれています。 
