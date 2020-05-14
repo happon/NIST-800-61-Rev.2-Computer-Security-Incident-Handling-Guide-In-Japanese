@@ -1,10 +1,10 @@
-### Authority:「権限」  
+### Authority:権 限  
 
 This publication has been developed by NIST to further its statutory responsibilities under the Federal Information Security Management Act (FISMA), Public Law (P.L.) 107-347.  
 本書は、連邦情報セキュリティ管理法（FISMA）公法（P.L.）107-347に基づく NIST の法的責任を強化するために、NIST が作成したものです。  
 
 NIST is responsible for developing information security standards and guidelines, including minimum requirements for Federal information systems, but such standards and guidelines shall not apply to national security systems without the express approval of appropriate Federal officials exercising policy authority over such systems.  
-NIST は、連邦政府の情報システムに対する最低限の要件を含む情報セキュリティの標準とガイドラインを策定する責任があるが、このような標準とガイドラインは、国家安全保障システムに対して政策権限を行使する連邦政府の適切な職員の明示的な承認なしには、国家安全保障システムに適用されてはならない。  
+NIST は、連邦政府の情報システムに対する最低限の要件を含む情報セキュリティの標準とガイドラインを策定する責任があるが、このような標準とガイドラインは、国家安全保障システムに対して政策権限を行使する連邦政府の適切な職員の明示的な承認なしには、国家安全保障システムに適用されてはなりません。  
 
 This guideline is consistent with the requirements of the Office of Management and Budget(OMB) Circular A-130, Section 8b(3), Securing Agency Information Systems, as analyzed in Circular A130, Appendix IV: Analysis of Key Sections.  
 本ガイドラインは、管理予算局(OMB)の Circular A-130, Section 8b(3)「機関情報システムの保護」の要求事項と一致しており、Circular A130, Appendix IV: Analysis of Key Sections で分析されています。  
@@ -13,7 +13,7 @@ Supplemental information is provided in Circular A-130,Appendix III, Security of
 補足情報は、Circular A-130,Appendix III, Security of Federal Automated Information Resourcesに記載されています。
 
 Nothing in this publication should be taken to contradict the standards and guidelines made mandatory and binding on Federal agencies by the Secretary of Commerce under statutory authority.  
-本書のいかなる内容も、法令上の権限の下で商務省長官が連邦機関に対して強制的かつ拘束力のある基準およびガイドラインを作成したことに反するものであってはならない。  
+本書のいかなる内容も、法令上の権限の下で商務省長官が連邦機関に対して強制的かつ拘束力のある基準およびガイドラインを作成したことに反するものであってはなりません。  
 
 Nor should these guidelines be interpreted as altering or superseding the existing authorities of the Secretary of Commerce, Director of the OMB, or any other Federal official.   
 また、これらのガイドラインは、商務長官、OMB長官、またはその他の連邦政府職員の既存の権限を変更したり、それに取って代わるものとして解釈されるべきではありません。  
@@ -22,7 +22,7 @@ This publication may be used by nongovernmental organizations on a voluntary bas
 この出版物は、非政府組織が任意で使用することができ、米国では著作権の対象とはなりません。  
 
 Attribution would, however, be appreciated by NIST.  
-しかし、帰属表示は、NISTによって評価されるだろう。  
+しかし、帰属表示は、NISTによって認識されます。  
 
 
 
