@@ -1,4 +1,4 @@
-### Abstract「抄録」
+### Abstract: 抄 録
 Computer security incident response has become an important component of information technology (IT) programs.  
 コンピュータセキュリティのインシデント対応は、情報技術（IT）プログラムの重要な要素となっています。  
 
@@ -15,7 +15,7 @@ The guidelines can be followed independently of particular hardware platforms, o
 このガイドラインは、特定のハードウェアプラットフォーム、オペレーテ ィングシステム、プロトコル、またはアプリケーションに依存せずに使用することができます。   
 
 
-### Keywords
+### Keywords キーワード
 computer security incident;  
 コンピュータセキュリティインシデント  
 
