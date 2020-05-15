@@ -1,5 +1,5 @@
 # 2. Organizing a Computer Security Incident Response Capability 
-# 2. コンピュータセキュリティのインシデント対応力の整理  
+# 2. コンピュータセキュリティのインシデント対応力の組織化  
 
 Organizing an effective computer security incident response capability (CSIRC) involves several major decisions and actions.  
 効果的なコンピュータ・セキュリティ・インシデント対応能力（CSIRC）を組織化するには、いくつかの主要な決定と行動が必要です。  
