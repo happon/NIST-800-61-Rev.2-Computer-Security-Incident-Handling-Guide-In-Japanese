@@ -12,7 +12,7 @@ This publication provides guidelines for incident handling, particularly for ana
 本書は、特にインシデント関連データを分析し、各インシデントへの適切な対応を決定するためのインシデント対応のガイドラインを提供します。  
 
 The guidelines can be followed independently of particular hardware platforms, operating systems, protocols, or applications.  
-このガイドラインは、特定のハードウェアプラットフォーム、オペレーテ ィングシステム、プロトコル、またはアプリケーションに依存せずに使用することができます。   
+このガイドラインは、特定のハードウェアプラットフォーム、オペレーティングシステム、プロトコル、またはアプリケーションに依存せずに使用することができます。   
 
 
 ### Keywords キーワード
