@@ -46,5 +46,7 @@ The incident response program structure should also be discussed within the plan
 Section 2.4.1 discusses the types of structures.  
 セクション2.4.1では、構造の種類について議論します。  
 
+<br/>
+
 Once an organization develops a plan and gains management approval, the organization should implement the plan and review it at least annually to ensure the organization is following the roadmap for maturing the capability and fulfilling their goals for incident response.  
 組織が計画を策定し、経営陣の承認を得たら、組織は計画を実施し、能力を成熟させ、インシデント対応の目標を達成するためのロードマップに沿っていることを確認するために、少なくとも年1回は計画を見直すべきです。  
