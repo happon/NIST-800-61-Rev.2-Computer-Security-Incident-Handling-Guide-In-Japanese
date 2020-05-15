@@ -1,4 +1,5 @@
-### 2.1 Events and Incidents 「イベントとインシデント」  
+### 2.1 Events and Incidents 
+### 2.1 イベントとインシデント  
 
 An event is any observable occurrence in a system or network.  
 イベントとは、システムやネットワークで発生する観察可能な事象のことです。  
