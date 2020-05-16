@@ -15,7 +15,7 @@ The following actions are recommended for preparing these designated contacts an
 これらの指定された連絡先を準備するためには、以下の行動が推奨され、また、メディアと連絡を取り合う可能性のある他の人の準備についても考慮すべきです。  
 
 ■ Conduct training sessions on interacting with the media regarding incidents, which should include the importance of not revealing sensitive information, such as technical details of countermeasures that could assist other attackers, and the positive aspects of communicating important information to the public fully and effectively.  
-■ これには、他の攻撃者を支援する可能性のある対策の技術的詳細などの機密情報を明かさないことの重要性や、重要な情報を十分かつ効果的に公衆に伝えることの肯定的な側面が含まれるべきです。 
+■ インシデントに関するメディアとの対話に関する研修を実施ます。そしてこれには、他の攻撃者を支援する可能性のある対策の技術的詳細などの機密情報を明かさないことの重要性や、重要な情報を十分かつ効果的に公衆に伝えることの肯定的な側面が含まれるべきです。 
 
 ■ Establish procedures to brief media contacts on the issues and sensitivities regarding a particular incident before discussing it with the media.  
 ■ 特定の事件についてメディアと議論する前に、メディア関係者に問題点やセンシティブ情報について説明する手順を確立します。  
