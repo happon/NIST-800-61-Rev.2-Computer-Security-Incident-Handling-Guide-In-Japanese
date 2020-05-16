@@ -16,11 +16,13 @@ Law enforcement agencies in other countries may also be involved, such as for at
 The incident response team should become acquainted with its various law enforcement representatives before an incident occurs to discuss conditions under which incidents should be reported to them, how the reporting should be performed, what evidence should be collected, and how it should be collected.  
 インシデント対応チームは、インシデントが発生する前に、様々な法執行機関の代表者と懇意になり、インシデントが彼らに報告されるべき条件、報告がどのように行われるべきか、どのような証拠が収集されるべきか、どのように収集されるべきかを話し合うべきです。  
 
+<br/>
+
 Law enforcement should be contacted through designated individuals in a manner consistent with the requirements of the law and the organization’s procedures.  
 法執行機関は、法律および組織の手順の要件と一致する方法で、指定された個人を通じて連絡を取るべきです。  
 
 Many organizations prefer to appoint one incident response team member as the primary POC with law enforcement.  
-多くの組織は、法執行機関との主要な POC として、1 人のインシデント対応チームメンバーを任命することが多いです。   
+多くの組織は、法執行機関との主要なPOCとして、1人のインシデント対応チームメンバーを任命することが多いです。   
 
 This person should be familiar with the reporting procedures for all relevant law enforcement agencies and well prepared to recommend which agency, if any, should be contacted.  
 この人物は、すべての関連する法執行機関の報告手順に精通しており、もしあれば、どの機関に連絡すべきかをアドバイザリできるように十分な準備をしておくべきです。  
