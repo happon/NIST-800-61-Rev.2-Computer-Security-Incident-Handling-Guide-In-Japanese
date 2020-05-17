@@ -24,7 +24,7 @@ Organizations should create a policy that states who is designated to report inc
 組織は、誰がインシデントを報告するために指定されているか、およびインシデントがどのように報告され るべきかを明記した方針を作成すべきです。  
 
 Requirements, categories, and timeframes for reporting incidents to US-CERT are on the US-CERT website.  
-US-CERT に事故を報告するための要件、カテゴリー、および時間枠は、US-CERT のウェブサイトに掲載されています。  
+US-CERTに事故を報告するための要件、カテゴリー、および時間枠は、US-CERTのウェブサイトに掲載されています。  
 
 All Federal agencies must ensure that their incident response procedures adhere to US-CERT’s reporting requirements and that the procedures are followed properly.  
 すべての連邦機関は、その事故対応手順が US-CERT の報告要件に準拠していること、およびその手順が適切に守られていることを確認しなければなりません。  
@@ -33,10 +33,10 @@ All organizations are encouraged to report incidents to their appropriate CSIRTs
 すべての組織は、適切な CSIRT にインシデントを報告することが推奨されます。  
 
 If an organization does not have its own CSIRT to contact, it can report incidents to other organizations, including Information Sharing and Analysis Centers (ISACs).  
-組織に連絡先のある CSIRT がない場合は、情報共有・分析センター（ISAC）などの他の組織にインシデントを報告することができます。  
+組織に連絡先のある CSIRTがない場合は、情報共有・分析センター（ISAC）などの他の組織にインシデントを報告することができます。  
 
 One of the functions of these industry-specific private sector groups is to share important computer security-related information among their members.  
-これらの業界に特化した民間セクターのグループの機能の 1 つは、メンバー間でコンピュータセキュリ ティ関連の重要な情報を共有することです。  
+これらの業界に特化した民間セクターのグループの機能の 1 つは、メンバー間でコンピュータセキュリティ関連の重要な情報を共有することです。  
 
 Several ISACs have been formed for industry sectors such as Communications, Electric Sector, Financial Services, Information Technology, and Research and Education.  
-ISAC は、通信、電気部門、金融サービス、情報技術、研究・教育などの産業部門向けにいくつか結成されています。  
+ISACは、通信、電気部門、金融サービス、情報技術、研究・教育などの産業部門向けにいくつか結成されています。  
