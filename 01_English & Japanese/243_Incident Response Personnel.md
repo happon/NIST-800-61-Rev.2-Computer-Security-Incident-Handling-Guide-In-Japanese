@@ -2,7 +2,7 @@
 ### 2.4.3 インシデント対応要員  
 
 A single employee, with one or more designated alternates, should be in charge of incident response.  
-インシデント対応の責任者は、1 人の従業員と 1 人以上の指定された補欠の従業員でなければなりません。  
+インシデント対応の責任者は、1人の従業員と 1人以上の指定された補欠の従業員でなければなりません。  
 
 In a fully outsourced model, this person oversees and evaluates the outsourcer’s work.  
 完全に外部委託されたモデルでは、この人は外部委託企業の仕事を監督し、評価します。  
