@@ -1,5 +1,5 @@
-### Team Models
-### チームモデル
+### 2.4.1 Team Models
+### 2.4.1 チームモデル
 
 Possible structures for an incident response team include the following:  
 インシデント対応チームの構成には、以下のようなものがあります。 
@@ -20,7 +20,7 @@ The organization has multiple incident response teams, each responsible for a pa
 組織には複数のインシデント対応チームがあり、それぞれが組織の特定の論理的または物理的セグメントを担当します。  
 
 This model is effective for large organizations (e.g., one team per division) and for organizations with major computing resources at distant locations (e.g., one team per geographic region, one team per major facility).  
-このモデルは、大規模な組織（例：1部門につき1チーム）や、離れた場所に主要なコンピューティング リソースを持つ組織（例：地理的な地域につき1チーム、主要な施設につき1チーム）に有効です。  
+このモデルは、大規模な組織（例：1部門につき1チーム）や、離れた場所に主要なコンピューティングリソースを持つ組織（例：地理的な地域につき1チーム、主要な施設につき1チーム）に有効です。  
 
 However, the teams should be part of a single coordinated entity so that the incident response process is consistent across the organization and information is shared among teams.  
 しかし、インシデント対応プロセスが組織全体で一貫しており、情報がチーム間で共有されるように、チームは単一の調整された組織の一部でなければなりません。  
@@ -32,7 +32,7 @@ This is particularly important because multiple teams may see components of the 
 ■ **調整チーム**
 
 An incident response team provides advice to other teams without having authority over those teams—for example, a departmentwide team may assist individual agencies’ teams.  
-インシデント対応チームは、他のチームに対する権限を持たずに、他のチームにアドバイスを提供する。  
+インシデント対応チームは、他のチームに対する権限を持たずに、他のチームにアドバイスを提供します。  
 
 This model can be thought of as a CSIRT for CSIRTs.  
 このモデルは、CSIRT のための CSIRT と考えることができる。  
@@ -40,7 +40,6 @@ This model can be thought of as a CSIRT for CSIRTs.
 Because the focus of this document is central and distributed CSIRTs, the coordinating team model is not addressed in detail in this document.16  
 本文書では、中央および分散型 CSIRT に焦点を当てているので、調整チームモデルについては、本文書では詳細には触れていません。  
 
-<br/>
 <br/>
 
 Incident response teams can also use any of three staffing models:  
@@ -56,7 +55,7 @@ The organization performs all of its incident response work, with limited techni
 ■ **部分的な外部委託**
 
 The organization outsources portions of its incident response work.  
-組織は、インシデント対応業務の一部を外部に委託している。  
+組織は、インシデント対応業務の一部を外部に委託しています。  
 
 Section 2.4.2 discusses the major factors that should be considered with outsourcing.  
 アウトソーシングを検討する際に考慮すべき主な要因については2.4.2項で論じています。  
