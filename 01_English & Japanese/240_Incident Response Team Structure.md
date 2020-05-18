@@ -1,5 +1,5 @@
-### Incident Response Team Structure
-### インシデント対応チームの構成
+### 2.4 Incident Response Team Structure
+### 2.4 インシデント対応チームの構成
 
 An incident response team should be available for anyone who discovers or suspects that an incident involving the organization has occurred.  
 組織が関与するインシデントが発生したことを発見したり、その疑いがある場合には、インシデント対応チームを利用できるようにしなければなりません。  
