@@ -28,7 +28,7 @@ Automated methods should be used whenever appropriate to disseminate information
 情報発信には、必要に応じて自動化された方法を用いるべきです。  
  
 for example, the National Vulnerability Database (NVD) provides information via XML and RSS feeds when new vulnerabilities are added to it.  
-例えば、米国脆弱性データベース（NVD）では、新たな脆弱性が追加された際に、XML や RSS フィードで情報を提供しています。※2
+例えば、米国脆弱性データベース（NVD）では、新たな脆弱性が追加された際に、XML や RSS フィードで情報を提供しています。※2  
  
 Advisories are often most necessary when new threats are emerging, such as a high-profile social or political event (e.g., celebrity wedding) that attackers are likely to leverage in their social engineering.  
 アドバイザリは、攻撃者がソーシャルエンジニアリングで利用する可能性の高い、注目度の高い社会的・政治的イベント（例：有名人の結婚式）など、新たな脅威が出現した場合に最も必要とされることが多いです。
