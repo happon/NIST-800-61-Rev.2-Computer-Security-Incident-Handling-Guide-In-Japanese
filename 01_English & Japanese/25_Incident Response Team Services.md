@@ -44,10 +44,10 @@ Only one group within the organization should distribute computer security advis
 ■ **Education and Awareness.**  
 ■ **教育と意識向上**  
 
- Education and awareness are resource multipliers—the more the users and technical staff know about detecting, reporting, and responding to incidents, the less drain there should be on the incident response team.  
- 教育と啓発は、リソースを倍増させるものであり、ユーザや技術スタッフがインシデントの検出、報告、および対応に関す る知識があればあるほど、インシデント対応チームの負担を軽減することができます。 
+Education and awareness are resource multipliers—the more the users and technical staff know about detecting, reporting, and responding to incidents, the less drain there should be on the incident response team.  
+教育と啓発は、リソースを倍増させるものであり、ユーザや技術スタッフがインシデントの検出、報告、および対応に関す る知識があればあるほど、インシデント対応チームの負担を軽減することができます。 
  
- This information can be communicated through many means: workshops, websites, newsletters, posters, and even stickers on monitors and laptops.  
+This information can be communicated through many means: workshops, websites, newsletters, posters, and even stickers on monitors and laptops.  
 この情報は、ワークショップ、ウェブサイト、ニュースレター、ポスター、モニターやラップトップに貼るステッカーなど、さまざまな方法で伝えることができます。
 
 ■ **Information Sharing.**  
