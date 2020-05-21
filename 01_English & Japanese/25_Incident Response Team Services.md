@@ -17,7 +17,7 @@ The team generally benefits because it should be poised to analyze incidents mor
 侵入検知技術に関する知識に基づいて、より迅速かつ正確にインシデントを分析できる体制を整えておくことができるということは、インシデント対応チームの持つ一般的なメリットです。
 
 ※See NIST SP 800-94, Guide to Intrusion Detection and Prevention Systems (IDPS) for more information on IDPS technologies. It is available at http://csrc.nist.gov/publications/PubsSPs.html#800-94.  
-IDPS 技術の詳細については、NIST SP 800-94, Guide to Intrusion Detection and Prevention Systems (IDPS) を参照してください。これは http://csrc.nist.gov/publications/PubsSPs.html#800-94 で入手可能です。  
+※ IDPS 技術の詳細については、NIST SP 800-94, Guide to Intrusion Detection and Prevention Systems (IDPS) を参照してください。これは http://csrc.nist.gov/publications/PubsSPs.html#800-94 で入手可能です。  
 
 
 ■ **Advisory Distribution.**  
@@ -39,7 +39,7 @@ Only one group within the organization should distribute computer security advis
 重複した作業や矛盾した情報を避けるために、組織内の1つのグループのみがコンピュータセキュリティアドバイザリを配布すべきです。
 
 ※1 Teams should word advisories so that they do not blame any person or organization for security issues. Teams should meet with legal advisors to discuss the possible need for a disclaimer in advisories, stating that the team and organization has no liability in regard to the accuracy of the advisory. This is most pertinent when advisories may be sent to contractors, vendors, and other nonemployees who are users of the organization’s computing resources.  
-チームは、セキュリティ上の問題について、いかなる個人や組織を非難することのないように、アドバイザリを言葉で表現すべきです。チームは、アドバイザリの正確性に関してチームと組織は一切の責任を負わないことを明記した免責事項をアドバイザリに記載する必要があるかどうかについて、法務アドバイザーに相談すべきです。これは、組織のコンピューティングリソースの利用者である請負業者、ベンダー、その他の非雇用者にアドバイザリが送信される場合に最も適切です。  
+※1 チームは、セキュリティ上の問題について、いかなる個人や組織を非難することのないように、アドバイザリを言葉で表現すべきです。チームは、アドバイザリの正確性に関してチームと組織は一切の責任を負わないことを明記した免責事項をアドバイザリに記載する必要があるかどうかについて、法務アドバイザーに相談すべきです。これは、組織のコンピューティングリソースの利用者である請負業者、ベンダー、その他の非雇用者にアドバイザリが送信される場合に最も適切です。  
 
 ※2 http://nvd.nist.gov/  
 
