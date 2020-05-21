@@ -16,23 +16,23 @@ FISMA では、連邦政府機関がインシデント対応能力を確立す�
 ■ **Create an incident response policy.**  
 ■ **インシデント対応ポリシーを作成する。**  
 
- The incident response policy is the foundation of the incident response program.  
- インシデント対応ポリシーは、インシデント対応プログラムの基礎となるものです。
+The incident response policy is the foundation of the incident response program.  
+インシデント対応ポリシーは、インシデント対応プログラムの基礎となるものです。
  
- It defines which events are considered incidents, establishes the organizational structure for incident response, defines roles and responsibilities, and lists the requirements for reporting incidents, among other items.  
- インシデント対応ポリシーは、インシデント対応プログラムの基礎となるもので、どのような事象がインシデントとみなされるかを定義し、インシデント対応のための組織構造を確立し、役割と責任を定義し、インシデントを報告するための要件などを列挙しています。
+It defines which events are considered incidents, establishes the organizational structure for incident response, defines roles and responsibilities, and lists the requirements for reporting incidents, among other items.  
+インシデント対応ポリシーは、インシデント対応プログラムの基礎となるもので、どのような事象がインシデントとみなされるかを定義し、インシデント対応のための組織構造を確立し、役割と責任を定義し、インシデントを報告するための要件などを列挙しています。
 
 ■ **Develop an incident response plan based on the incident response policy.**  
 ■ **インシデント対応方針に基づいてインシデント対応計画を作成する。**  
 
- The incident response plan provides a roadmap for implementing an incident response program based on the organization’s policy.  
- インシデント対応計画は、組織の方針に基づいてインシデント対応プログラムを実施するためのロードマップを提供します。
+The incident response plan provides a roadmap for implementing an incident response program based on the organization’s policy.  
+インシデント対応計画は、組織の方針に基づいてインシデント対応プログラムを実施するためのロードマップを提供します。
  
- The plan indicates both short- and long-term goals for the program, including metrics for measuring the program.  
- この計画は、プログラムを測定するための指標を含め、プログラムの短期目標と長期目標の両方を示します。 
+The plan indicates both short- and long-term goals for the program, including metrics for measuring the program.  
+この計画は、プログラムを測定するための指標を含め、プログラムの短期目標と長期目標の両方を示します。 
  
- The incident response plan should also indicate how often incident handlers should be trained and the requirements for incident handlers.  
- また、インシデント対応計画は、インシデント・ハンドラーがどのくらいの頻度で訓練されるべきか、およびインシデント・ハンドラーの要件を示す必要があります。
+The incident response plan should also indicate how often incident handlers should be trained and the requirements for incident handlers.  
+また、インシデント対応計画は、インシデント・ハンドラーがどのくらいの頻度で訓練されるべきか、およびインシデント・ハンドラーの要件を示す必要があります。
 
 ■ **Develop incident response procedures.**  
 ■ **インシデント対応手順書を作成する。**  
