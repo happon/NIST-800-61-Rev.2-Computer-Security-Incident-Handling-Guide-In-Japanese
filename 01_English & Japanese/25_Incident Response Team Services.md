@@ -16,7 +16,9 @@ The first tier of an incident response team often assumes responsibility for int
 The team generally benefits because it should be poised to analyze incidents more quickly and accurately, based on the knowledge it gains of intrusion detection technologies.   
 侵入検知技術に関する知識に基づいて、より迅速かつ正確にインシデントを分析できる体制を整えておくことができるということは、インシデント対応チームの持つ一般的なメリットです。
 
-※See NIST SP 800-94, Guide to Intrusion Detection and Prevention Systems (IDPS) for more information on IDPS technologies. It is available at http://csrc.nist.gov/publications/PubsSPs.html#800-94.
+※See NIST SP 800-94, Guide to Intrusion Detection and Prevention Systems (IDPS) for more information on IDPS technologies. It is available at http://csrc.nist.gov/publications/PubsSPs.html#800-94.  
+IDPS 技術の詳細については、NIST SP 800-94, Guide to Intrusion Detection and Prevention Systems (IDPS) を参照してください。これは http://csrc.nist.gov/publications/PubsSPs.html#800-94 で入手可能です。  
+
 
 ■ **Advisory Distribution.**  
 ■ **アドバイザリの配布**  
