@@ -14,7 +14,7 @@ An organization should have multiple (separate and different) communication and 
 組織は、1つのメカニズムが故障した場合に備えて、複数の（別々の、異なる）通信および調整メカニズムを持つべきです。 
 
 #### Incident Handler Communications and Facilities:  
-#### インシデントハンドラーの通信と設備について  
+#### インシデントハンドラーの通信と設備  
 
 ■ **Contact information** for team members and others within and outside the organization (primary and backup contacts), such as law enforcement and other incident response teams;  
 ■ チームメンバー、および法執行機関やその他のインシデント対応チームなど、組織内外のその他の人（プライマリーコンタクトおよびバックアップコンタクト）の**連絡先情報**
@@ -24,13 +24,13 @@ information may include phone numbers, email addresses, public encryption keys (
 
 
 ■ **On-call information** for other teams within the organization, including escalation information  
-エスカレーション情報を含む組織内の他チームの**オンコール情報**
+■ エスカレーション情報を含む組織内の他チームの**オンコール情報**
 
 ■ **Incident reporting mechanisms,** such as phone numbers, email addresses, online forms, and secure instant messaging systems that users can use to report suspected incidents; at least one mechanism should permit people to report incidents anonymously   
 ■ 電話番号、電子メールアドレス、オンラインフォーム、ユーザーが疑わしいインシデントを報告するために使用できる安全なインスタントメッセージングシステムなどの**インシデント報告メカニズム**。
 
 ■ **Issue tracking system** for tracking incident information, status, etc.  
-インシデント情報やステータスなどを追跡するための、**問題追跡システム**
+■ インシデント情報やステータスなどを追跡するための、**問題追跡システム**
 
 ■ **Smartphones** to be carried by team members for off-hour support and onsite communications  
 ■ 時間外のサポートや現場でのコミュニケーションのために、チームメンバーが携帯する**スマートフォン**
@@ -41,9 +41,8 @@ information may include phone numbers, email addresses, public encryption keys (
 ■ **War room** for central communication and coordination; if a permanent war room is not necessary or practical, the team should create a procedure for procuring a temporary war room when needed  
 ■ 連絡調整のための**作戦室**。常設の作戦室が必要ない場合や現実的でない場合は、チームは必要に応じて一時的な戦闘室を調達するための手順を作成すべきです。 
 
-■ **Secure storage facility** for securing  
-■ evidence and other sensitive materials  
-証拠品などの機密性の高いものを確保するための**安全な保管手段**  
+■ **Secure storage facility** for securing evidence and other sensitive materials   
+■ 証拠品などの機密性の高いものを確保するための**安全な保管手段**  
 
 #### Incident Analysis Hardware and Software:  
 #### インシデント分析のハードウェアとソフトウェア
@@ -51,7 +50,7 @@ information may include phone numbers, email addresses, public encryption keys (
 ■ **Digital forensic workstations21 and/or backup** devices to create disk images, preserve log files, and save other relevant incident data  
 ■ ディスクイメージを作成し、ログファイルを保存し、その他の関連するインシデントデータを保存するための**デジタル・フォレンジック・ ワークステーション※１ および/またはバックアップ装置**  
 ※１ A digital forensic workstation is specially designed to assist incident handlers in acquiring and analyzing data.These workstations typically contain a set of removable hard drives that can be used for evidence storage. 
-デジタル・フォレンジック・ワークステーションは、インシデント・ハンドラーがデータを取得して分析するのを支援するために特別に設計されています。これらのワークステーションには、通常、証拠保管に使用できるリムーバブルハードドライブのセットが含まれています。  
+※１ デジタル・フォレンジック・ワークステーションは、インシデント・ハンドラーがデータを取得して分析するのを支援するために特別に設計されています。これらのワークステーションには、通常、証拠保管に使用できるリムーバブルハードドライブのセットが含まれています。  
 
 ■ **Laptops** for activities such as analyzing data, sniffing packets, and writing reports  
 ■ データ分析、パケットの盗聴、レポート作成などの活動に使用する**ノートパソコン**
@@ -100,7 +99,7 @@ information may include phone numbers, email addresses, public encryption keys (
 #### インシデント軽減ソフトウェア  
 
 ■ Access to images of clean OS and application installations for restoration and recovery purposes  
-復元やリカバリーのためのクリーンなOSやアプリケーションのインストールイメージへのアクセス
+■ 復元やリカバリーのためのクリーンなOSやアプリケーションのインストールイメージへのアクセス
 
 <br/>
 
@@ -141,5 +140,11 @@ In addition to an investigative laptop, each incident handler should also have a
 
 <br/>
 
-Exercises involving simulated incidents can also be very useful for preparing staff for incident handling; see NIST SP 800-84 for more information on exercises23 and Appendix A for sample exercise scenarios.  
-模擬インシデントを含む演習も、インシデントハンドリングのためのスタッフの準備に非常に有用です。
+Exercises involving simulated incidents can also be very useful for preparing staff for incident handling;   
+模擬インシデントを含む演習も、インシデントハンドリングのためのスタッフの準備に非常に有用です。 
+
+see NIST SP 800-84 for more information on exercises※ and Appendix A for sample exercise scenarios.  
+演習※の詳細についてはNIST SP 800-84を、演習シナリオのサンプルについては付録Aを参照してください。
+
+※ Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities, http://csrc.nist.gov/publications/PubsSPs.html#800-84
+※ IT計画およびIT対応能力のためのテスト、トレーニング、演習プログラムのガイド http://csrc.nist.gov/publications/PubsSPs.html#800-84  

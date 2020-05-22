@@ -1,5 +1,5 @@
 # Handling an Incident 
-# インシデントの処理
+# インシデントのハンドリング
 
 The incident response process has several phases.  
 インシデント対応プロセスにはいくつかの段階があります。 
@@ -11,7 +11,7 @@ During preparation, the organization also attempts to limit the number of incide
 準備期間中、組織は、また、リスク評価の結果に基づいて一連の管理策を選択して実施することで、発生するインシデントの数を制限しようします。
 
 However, residual risk will inevitably persist after controls are implemented.  
-しかし、対策を実施した後も、残留リスクは確実に存在します。
+しかし対策を実施した後も、残留リスクは確実に存在します。
 
 Detection of security breaches is thus necessary to alert the organization whenever incidents occur.  
 そのため、インシデントが発生した際に組織に注意を喚起するためには、セキュリティ侵害を検知することが必要です。 
