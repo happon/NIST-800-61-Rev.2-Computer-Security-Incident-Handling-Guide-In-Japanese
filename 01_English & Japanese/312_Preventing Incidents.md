@@ -25,19 +25,19 @@ the team can play a key role in risk assessment and training by identifying gaps
 インシデント対応チームは、ギャップを特定することで、リスク評価と訓練において重要な役割を果たすことができます。
 
 Other documents already provide advice on general security concepts and operating system and application-specific guidelines.※  
-他の文書では、一般的なセキュリティの概念や、オペレーティングシステムやアプリケーションに特化したガイドラインについてのアドバイスがすでに提供されています。　
-
-※http://csrc.nist.gov/publications/PubsSPs.html provides links to the NIST Special Publications on computer security, which include documents on operating system and application security baselines.   
-http://csrc.nist.gov/publications/PubsSPs.html は、コンピュータセキュリティに関する NIST の特別出版物へのリンクを提供しています。
+他の文書では、一般的なセキュリティの概念や、オペレーティングシステムやアプリケーションに特化したガイドラインについてのアドバイスがすでに提供されています※。　
 
 The following text, however, provides a brief overview of some of the main recommended practices for securing networks, systems, and applications:  
 しかし、以下に、ネットワーク、システム、およびアプリケーションのセキュリティを確保するために推奨されている主な実践方法の概要について簡単に説明します。  
 
+※ http://csrc.nist.gov/publications/PubsSPs.html provides links to the NIST Special Publications on computer security, which include documents on operating system and application security baselines.   
+※ http://csrc.nist.gov/publications/PubsSPs.html は、コンピュータセキュリティに関する NIST の特別出版物へのリンクを提供しています。
+
 ■ **Risk Assessments.**  
 ■ **リスク評価**  
 
-Periodic risk assessments of systems and applications should determine what risks are posed by combinations of threats and vulnerabilities.25  
-システムとアプリケーションの定期的なリスク評価は、脅威と脆弱性の組み合わせによってどのようなリスクが引き起こされているかを判断するべきです25  
+Periodic risk assessments of systems and applications should determine what risks are posed by combinations of threats and vulnerabilities.※１  
+システムとアプリケーションの定期的なリスク評価は、脅威と脆弱性の組み合わせによってどのようなリスクが引き起こされているかを判断するべきです※１。  
 
 This should include understanding the applicable threats, including organization-specific threats.  
 これには、組織固有の脅威を含め、適用可能な脅威を理解することが含まれます。 
@@ -45,8 +45,14 @@ This should include understanding the applicable threats, including organization
 Each risk should be prioritized, and the risks can be mitigated, transferred, or accepted until a reasonable overall level of risk is reached.  
 それぞれのリスクには優先順位をつけ、リスクの全体的な合理的なレベルに達するまで、リスクを軽減、移転、受容することができます。 
 
-Another benefit of conducting risk assessments regularly is that critical resources are identified, allowing staff to emphasize monitoring and response activities for those resources.26  
-定期的にリスクアセスメントを実施するもう一つの利点は、重要な資源が特定され、スタッフはそれらの資源に対する監視と対応活動に重点を置くことができるという点です26。 
+Another benefit of conducting risk assessments regularly is that critical resources are identified, allowing staff to emphasize monitoring and response activities for those resources.※２  
+定期的にリスクアセスメントを実施するもう一つの利点は、重要な資源が特定され、スタッフはそれらの資源に対する監視と対応活動に重点を置くことができるという点です※２。 
+
+※１ Guidelines on risk assessment are available in NIST SP 800-30, Guide for Conducting Risk Assessments, at http://csrc.nist.gov/publications/PubsSPs.html#800-30-Rev1.  
+※１ リスク評価に関するガイドラインは、NIST SP 800-30, リスクアセスメントの実施の手引きhttp://csrc.nist.gov/publications/PubsSPs.html#800-30-Rev1 に掲載されています。  
+
+※２ Information on identifying critical resources is discussed in FIPS 199, Standards for Security Categorization of Federal Information and Information Systems, at http://csrc.nist.gov/publications/PubsFIPS.html.  
+※２ クリティカルなリソースの特定に関する情報は、FIPS 199「連邦情報および情報システムのセキュリティ分類基準」（http://csrc.nist.gov/publications/PubsFIPS.html）で議論されています。  
 
 ■ **Host Security.**  
 ■ **ホストセキュリティ**  
@@ -60,11 +66,21 @@ In addition to keeping each host properly patched, hosts should be configured to
 Hosts should have auditing enabled and should log significant security-related events.  
 監査を有効にし、セキュリティ関連の重要なイベントをログに記録しなければなりません。 
 
-The security of hosts and their configurations should be continuously monitored.27  
-ホストとその設定のセキュリティを継続的に監視する必要があります。 
+The security of hosts and their configurations should be continuously monitored.※３  
+ホストとその設定のセキュリティを継続的に監視する必要があります※３。 
 
-Many organizations use Security Content Automation Protocol (SCAP)28 expressed operating system and application configuration checklists to assist in securing hosts consistently and effectively.29  
-多くの組織は、一貫して効果的にホストのセキュリティを確保するために、Security Content Automation Protocol (SCAP)28 で表現されたオペレーティングシステムとアプリケーションの設定チェックリストを使用しています。
+Many organizations use Security Content Automation Protocol (SCAP)※４ expressed operating system and application configuration checklists to assist in securing hosts consistently and effectively.※５  
+多くの組織は、一貫して効果的にホストのセキュリティを確保するために、Security Content Automation Protocol (SCAP)※４ で表現されたオペレーティングシステムとアプリケーションの設定チェックリストを使用しています※５。
+
+※３　For more information on continuous monitoring, see NIST SP 800-137, Information Security Continuous Monitoring for Federal Information Systems and Organizations (http://csrc.nist.gov/publications/PubsSPs.html#800-137).  
+※３　継続的監視の詳細については、NIST SP 800-137 「連邦政府の情報システムと組織のための情報セキュリティの継続的な監視」(http://csrc.nist.gov/publications/PubsSPs.html#800-137)を参照してください。   
+
+※４　More information on SCAP is available from NIST SP 800-117 Revision 1, Guide to Adopting and Using the Security Content Automation Protocol (SCAP) Version 1.2 (http://csrc.nist.gov/publications/PubsSPs.html#800-117).   
+※４　SCAP の詳細については、NIST SP 800-117 Revision 1, 「セキュリティ・コンテンツ・オートメーション・プロトコル(SCAP)の採用と使用の手引き」Version 1.2 (http://csrc.nist.gov/publications/PubsSPs.html#800-117) を参照してください。
+
+※５　NIST hosts a security checklists repository at http://checklists.nist.gov/.  
+※５　NIST はセキュリティチェックリストのリポジトリを http://checklists.nist.gov/ で公開しています。  　
+
 
 ■ **Network Security.**  
 ■ **ネットワークセキュリティ**
@@ -85,7 +101,7 @@ Malware protection should be deployed at the host level (e.g., server and workst
 マルウェア対策は、ホストレベル（サーバやワークステーションのオペレーテ ィングシステムなど）、アプリケーションサーバレベル（電子メールサーバ、ウェブプロキシなど）、アプリケーションクライアントレベル（電子メールクライアント、インスタントメッセージングクライアントなど）で展開する必要があります。
 
 ■ **User Awareness and Training.**  
-■ **ユーザーの意識向上とトレーニング
+■ **ユーザーの意識向上とトレーニング**
 
 Users should be made aware of policies and procedures regarding appropriate use of networks, systems, and applications.  
 ネットワーク、システムおよびアプリケーションの適切な使用に関するポリシー・手順をユーザーに周知すべきです。 

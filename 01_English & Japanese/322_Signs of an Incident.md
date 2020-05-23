@@ -19,18 +19,12 @@ Incidents may also be detected through manual means, such as problems reported b
 Some incidents have overt signs that can be easily detected, whereas others are almost impossible to detect.  
 インシデントの中には、簡単に検出できる明白な兆候があるものもあれば、ほとんど検出できないものもあります。 
 
-<br/>
-
 ■ The volume of potential signs of incidents is typically high—for example, it is not uncommon for an organization to receive thousands or even millions of intrusion detection sensor alerts per day. (See Section 3.2.4 for information on analyzing such alerts.)   
-■ インシデントの潜在的な兆候の量は一般的に多く、例えば、組織が一日に何千、何百万もの侵入検知センサーのアラートを受信することも珍しくありません。（このようなアラートの分析に関する情報については、セクション 3.2.4 を参照）  
 
-<br/>
+■ インシデントの潜在的な兆候の量は一般的に多く、例えば、組織が一日に何千、何百万もの侵入検知センサーのアラートを受信することも珍しくありません。（このようなアラートの分析に関する情報については、セクション 3.2.4 を参照）  
 
 ■ Deep, specialized technical knowledge and extensive experience are necessary for proper and efficient analysis of incident-related data.  
 ■ インシデント関連データを適切かつ効率的に分析するためには、深く専門的な技術知識と豊富な経験が必要です。
-
-<br/>
-<br/>
 
 Signs of an incident fall into one of two categories: precursors and indicators.  
 インシデントの兆候は、「前兆」と「兆候」という2つのカテゴリーのどちらかに分類されます。 
@@ -71,23 +65,23 @@ Too many types of indicators exist to exhaustively list them, but some examples 
 兆候の種類が多すぎてリストアップしきれませんが、以下にいくつかの例を挙げます。 
 
 ■ A network intrusion detection sensor alerts when a buffer overflow attempt occurs against a database server.  
-ネットワーク侵入検知センサによるデータベースサーバに対してバッファオーバーフロー発生の警告 
+■ ネットワーク侵入検知センサによるデータベースサーバに対してバッファオーバーフロー発生の警告 
 
 ■ Antivirus software alerts when it detects that a host is infected with malware.  
-アンチウイルスソフトによるホストのマルウェア感染検出の警告
+■ アンチウイルスソフトによるホストのマルウェア感染検出の警告
 
 ■ A system administrator sees a filename with unusual characters.  
-システム管理者によるファイル名に異常な文字が含まれていることへの警告 
+■ システム管理者によるファイル名に異常な文字が含まれていることへの警告 
 
 ■ A host records an auditing configuration change in its log.  
-ホストのログに、監査設定の変更が記録される。  
+■ ホストのログに、監査設定の変更が記録される。  
    
 
 ■ An application logs multiple failed login attempts from an unfamiliar remote system.  
-アプリケーションによる見慣れないリモートシステムからの複数ログイン失敗をログに記録
+■ アプリケーションによる見慣れないリモートシステムからの複数ログイン失敗をログに記録される。
 
 ■ An email administrator sees a large number of bounced emails with suspicious content.  
-電子メール管理者が、不審な内容の電子メールが大量の配信エラー（バウンスメール）を見つける。 
+■ 電子メール管理者が、不審な内容の電子メールが大量の配信エラー（バウンスメール）を見つける。 
 
 ■ A network administrator notices an unusual deviation from typical network traffic flows.  
-ネットワーク管理者が、典型的なネットワークトラフィックフローからの異常な逸脱に気づく。 
+■ ネットワーク管理者が、典型的なネットワークトラフィックフローからの異常な逸脱に気づく。 

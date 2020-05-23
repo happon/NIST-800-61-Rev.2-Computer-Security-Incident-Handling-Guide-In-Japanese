@@ -18,41 +18,33 @@ rather, they simply list common methods of attack, which can be used as a basis 
 
 
 ■ **External/Removable Media:**  
-■ **外部／リムーバブルメディア**
-
+■ **外部／リムーバブルメディア**  
 An attack executed from removable media or a peripheral device—for example, malicious code spreading onto a system from an infected USB flash drive.  
 リムーバブルメディアや周辺機器（例えば、感染したUSBフラッシュドライブからシステムに拡散する悪意のあるコードなど）から実行される攻撃。 
 
 ■ **Attrition:**  
-■ **消耗**
-
+■ **消耗**  
 An attack that employs brute force methods to compromise, degrade, or destroy systems, networks, or services (e.g., a DDoS intended to impair or deny access to a service or application;  a brute force attack against an authentication mechanism, such as passwords, CAPTCHAS, or digital signatures).  
 システム、ネットワーク、またはサービスを危殆化、劣化、または破壊するために、ブルートフォースの手法を用いた攻撃 (例: サービスやアプリケーションへのアクセスを妨害または拒否することを目的とした DDoS、パスワード、CAPTCHAS、デジタル署名などの認証メカニズムに対するブルートフォース攻撃)。 
 
 
 ■ **Web:**  
 ■ **ウェブ**  
-
 An attack executed from a website or web-based application—for example, a cross-site scripting attack used to steal credentials or a redirect to a site that exploits a browser vulnerability and installs malware.  
 WebサイトやWebベースのアプリケーションから実行される攻撃。例えば、資格情報を盗むために使用されるクロスサイトスクリプティング攻撃や、ブラウザの脆弱性を突いてマルウェアをインストールするサイトへのリダイレクトなどが挙げられます。 
 
 ■ **Email:**  
-■ **Eメール**
-
-
+■ **Eメール**  
 An attack executed via an email message or attachment—for example, exploit code disguised as an attached document or a link to a malicious website in the body of an email message.  
 メールメッセージや添付ファイルを介して実行される攻撃。例えば、添付文書を装ったエクスプロイトコードや、メールメッセージの本文にある悪意のあるウェブサイトへのリンクなどが挙げられます。
 
 ■ **Impersonation:**  
-■ **なりすまし**
-
-
+■ **なりすまし**  
 An attack involving replacement of something benign with something malicious— for example, spoofing, man in the middle attacks, rogue wireless access points, and SQL injection attacks all involve impersonation.  
 善良なものを悪意のあるものに置き換える攻撃。例えば、なりすまし、中間者攻撃、不正な無線アクセスポイント、SQLインジェクション攻撃などは、すべてなりすましを伴います。
 
 ■ **Improper Usage:**  
-■ **不適切な使用**
-
+■ **不適切な使用**  
 Any incident resulting from violation of an organization’s acceptable usage policies by an authorized user, excluding the above categories;  
 認可されたユーザーによる組織の許容される利用ポリシーの違反に起因するすべてのインシデント（上記のカテゴリーを除く）。 
 
@@ -61,13 +53,11 @@ for example, a user installs file sharing software, leading to the loss of sensi
 
 ■ **Loss or Theft of Equipment:**  
 ■ **機器の紛失または盗難**  
-
 The loss or theft of a computing device or media used by the organization, such as a laptop, smartphone, or authentication token.  
 ノートパソコン、スマートフォン、認証トークンなど、組織が使用しているコンピューティングデバイスやメディアの紛失や盗難。
 
 ■ **Other:**  
-■ **その他**
-
+■ **その他**  
 An attack that does not fit into any of the other categories.  
 上のどのカテゴリーにも当てはまらない攻撃。
 
