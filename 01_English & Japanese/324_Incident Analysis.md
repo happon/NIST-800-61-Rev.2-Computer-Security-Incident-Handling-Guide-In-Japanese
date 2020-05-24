@@ -1,4 +1,5 @@
 ### 3.2.4 Incident Analysis
+### 3.2.4 インシデント分析
 
 Incident detection and analysis would be easy if every precursor or indicator were guaranteed to be accurate;  
 すべての前兆や兆候が正確であることが保証されていれば、インシデントの検出や分析は簡単です。  
@@ -17,6 +18,8 @@ Making matters worse, the total number of indicators may be thousands or million
 
 Finding the real security incidents that occurred out of all the indicators can be a daunting task.  
 すべての兆候の中から実際に発生したセキュリティインシデントを見つけるのは、大変な作業になります。  
+
+<br/>
 
 Even if an indicator is accurate, it does not necessarily mean that an incident has occurred.  
 また、兆候が正確であったとしても、必ずしもインシデントが発生したとは限りません。   
@@ -38,6 +41,8 @@ In many instances, a situation should be handled the same way regardless of whet
 
 For example, if an organization is losing Internet connectivity every 12 hours and no one knows the cause, the staff would want to resolve the problem just as quickly and would use the same resources to diagnose the problem, regardless of its cause.  
 例えば、ある組織でインターネット接続が12時間ごとに失われ、誰も原因がわからない場合、スタッフは同じように迅速に問題を解決したいと考え、原因に関係なく同じリソースを使って問題を診断することになるでしょう。  
+
+<br/>
 
 Some incidents are easy to detect, such as an obviously defaced web page.  
 インシデントの中には、明らかに改ざんされたウェブページなど、検出しやすいものもあります。  
@@ -100,15 +105,14 @@ Conducting frequent log reviews should keep the knowledge fresh, and the analyst
 頻繁にログのレビューを行うことで、知識を新鮮なものに保つことができ、分析者は時間の経過とともに傾向や変化に気づくことができるようになります。 
 
 The reviews also give the analyst an indication of the reliability of each source.  
-また、レビューにより、各ソースの信頼度の指標も得ることができる。
+また、レビューにより、各ソースの信頼度の指標も得ることができます。
 
 （以下はrev.1日本語オリジナル）
-ログをレビューし、興味のあるエントリーを調査することは、事件を処理する準備にもなる。事件の処理では、これらのスキルが必要になる。　　
+ログをレビューし、興味のあるエントリーを調査することは、事件を処理する準備にもなります。事件の処理では、これらのスキルが必要になります。　　
 （ここまで）  
 
 ■ **Create a Log Retention Policy.**  
-■ **ログ保持ポリシーの作成**
-
+■ **ログ保持ポリシーの作成**  
 Information regarding an incident may be recorded in several places, such as firewall, IDPS, and application logs.  
 インシデントに関する情報は、ファイアウォール、IDPS、アプリケーション ログなど、いくつかの場所に記録される可能性があります。
 
@@ -122,8 +126,7 @@ The length of time to maintain log data is dependent on several factors, includi
 ログデータの保持期間は、組織のデータ保持ポリシーやデータ量など、いくつかの要因に依存します。ログに関する追加の推奨事項については、NIST SP 800-92「Guide to Computer Security Log Management」を参照してください。
 
 ■ **Perform Event Correlation.**  
-■ **イベント相関処理の実施** 
-
+■ **イベント相関処理の実施**  
 Evidence of an incident may be captured in several logs that each contain different types of data—a firewall log may have the source IP address that was used, whereas an application log may contain a username.  
 インシデントの証拠は、異なるタイプのデータを含む複数のログに記録されることがあります。ファイアウォールログには使用されたソースIPアドレスが記録され、アプリケーションログにはユーザー名が記録されることがあります。
 
@@ -137,9 +140,7 @@ Correlating events among multiple indicator sources can be invaluable in validat
 複数の兆候ソース間のイベントを相関させることは、特定のインシデントが発生したかどうかを検証する上で非常に重要です。
 
 ■ **Keep All Host Clocks Synchronized.**  
-■ **すべてのホストのクロックを同期**
-
-
+■ **すべてのホストのクロックを同期**  
 Protocols such as the Network Time Protocol (NTP) synchronize clocks among hosts.35  
 NTP（Network Time Protocol）などのプロトコルは、ホスト間のクロックを同期させます。 
 
@@ -151,7 +152,6 @@ From an evidentiary standpoint, it is preferable to have consistent timestamps i
 
 ■ **Maintain and Use a Knowledge Base of Information.**  
 ■ **情報のナレッジベースの維持・使用**  
-
 The knowledge base should include information that handlers need for referencing quickly during incident analysis.  
 ナレッジベースには、ハンドラーがインシデント分析時に素早く参照するために必要な情報が含まれている必要があります。 
 
@@ -162,8 +162,7 @@ The knowledge base should also contain a variety of information, including expla
 また、ナレッジベースには、IDPSアラート、オペレーティングシステムのログエントリ、アプリケーションのエラーコードなどの前兆や兆候の重要性や妥当性の説明など、さまざまな情報が含まれていることが望ましいです。 
 
 ■ **Use Internet Search Engines for Research.**  
-■ **イベントの相関関係処理の実施**
-
+■ **イベントの相関関係処理の実施**  
 Internet search engines can help analysts find information on unusual activity.  
 インターネット検索エンジンは、アナリストが、異常なアクティビティに関する情報を見つけるのに役立ちます。 
 
@@ -177,8 +176,7 @@ Note that separate workstations should be used for research to minimize the risk
 これらの検索を行うことによる組織へのリスクを最小限に抑えるために、調査には別のワークステーションを使用すべきであることに注意してください。 
 
 ■ **Run Packet Sniffers to Collect Additional Data.**  
-■ **パケットスニファを実行して追加データを収集**
-
+■ **パケットスニファを実行して追加データを収集**  
 Sometimes the indicators do not record enough detail to permit the handler to understand what is occurring.  
 インジケータは、ハンドラーが何が起こっているのかを理解するのに十分な詳細を記録していないことがあります。
 
@@ -192,8 +190,7 @@ Because of privacy concerns, some organizations may require incident handlers to
 プライバシーの問題があるため、組織によっては、パケットスニッファーを使用する前にインシデントハンドラーに要求して許可を得ることが必要とする場合があります。
 
 ■ **Filter the Data.**  
-■ **データのフィルタリング**
-
+■ **データのフィルタリング**  
 There is simply not enough time to review and analyze all the indicators;  
 すべての兆候を確認して分析するには、シンプルに十分な時間はありません。
 
@@ -210,8 +207,7 @@ however, this approach carries substantial risk because new malicious activity m
 しかしこの方法では、新たな悪意のある活動が、選択した兆候カテゴリのいずれかも該当しない可能性があるため、大きなリスクを伴います。
 
 ■ **Seek Assistance from Others.**  
-■ **他社の支援を求める**
-
+■ **他社の支援を求める**  
 Occasionally, the team will be unable to determine the full cause and nature of an incident.  
 時として、チームはインシデントの完全な原因と性質を判断できないことがあります。 
 
