@@ -11,7 +11,6 @@ A logbook is an effective and simple medium for this,※37 but laptops,audio rec
 Documenting system events, conversations, and observed changes in files can lead to a more efficient, more systematic, and less errorprone handling of the problem.  
 システムイベント、会話、および観察されたファイルの変更を文書化することは、より効率的かつ体系的で、エラーの発生しにくい問題処理につながります。  
 
- 
 Every step taken from the time the incident was detected to its final resolution should be documented and timestamped.  
 インシデントが検出されてから最終的な解決に至るまでのすべてのステップは、文書化され、タイムスタンプが付けられていなければなりません。
 

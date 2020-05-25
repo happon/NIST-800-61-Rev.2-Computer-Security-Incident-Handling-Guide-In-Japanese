@@ -61,6 +61,8 @@ The primary consideration in holding such meetings is ensuring that the right pe
 Not only is it important to invite people who have been involved in the incident that is being analyzed, but also it is wise to consider who should be invited for the purpose of facilitating future cooperation.  
 分析対象となる事件に関わった人を招くことが重要であるだけでなく、今後の協力関係を円滑にするためにも、誰を招くべきかを考えておくことが賢明です。  
 
+<br/>
+
 The success of such meetings also depends on the agenda.  
 このような会議が成功するかどうかは、議題にもよります。  
 
@@ -75,6 +77,8 @@ Having one or more moderators who are skilled in group facilitation can yield a 
 
 Finally, it is also important to document the major points of agreement and action items and to communicate them to parties who could not attend the meeting.  
 最後に、合意の主なポイントと行動項目を文書化し、会議に出席できなかった当事者に伝えることも重要です。 
+
+<br/>
 
 Lessons learned meetings provide other benefits.  
 教訓を学んだ会議は他の利点を提供します。  
@@ -91,6 +95,8 @@ Post-mortem analysis of the way an incident was handled will often reveal a miss
 Because of the changing nature of information technology and changes in personnel, the incident response team should review all related documentation and procedures for handling incidents at designated intervals.  
 情報技術の性質の変化や人員の変化のため、インシデント対応チームは、指定された間隔で、インシデントを処理するためのすべての関連文書と手順を見直すべきです。  
 
+<br/>
+
 Another important post-incident activity is creating a follow-up report for each incident, which can be quite valuable for future use.  
 もう一つの重要なインシデント後の活動は、各インシデントのフォローアップ報告書を作成することです。  
 
@@ -104,8 +110,7 @@ This estimate may become the basis for subsequent prosecution activity by entiti
 この推定値は、米国司法長官室のような組織によるその後の起訴活動の基礎となる可能性があります。   
 
 Follow-up reports should be kept for a period of time as specified in record retention policies.45  
-フォローアップ報告書は、記録保持方針に規定されているように、一定期間保存されるべきです※。  
+フォローアップ報告書は、記録保持方針に規定されているように、一定期間保存されるべきです※１。  
 
-※
-General Records Schedule (GRS) 24, Information Technology Operations and Management Records, specifies that “computer security incident handling, reporting and follow-up records” should be destroyed “3 years after all necessary follow-up actions have been completed.” GRS 24 is available from the National Archives and Records Administration at http://www.archives.gov/records-mgmt/grs/grs24.html.  
-一般記録スケジュール（GRS）24「情報技術の運用管理記録」では、"コンピュータセキュリティインシデントの処理、報告、およびフォローアップ記録 "は、"必要なすべてのフォローアップ措置が完了してから3年後に破棄されるべきである "と規定されています。GRS 24 は、国立公文書館記録局（http://www.archives.gov/records-mgmt/grs/grs24.html）から入手可能です。
+※１ General Records Schedule (GRS) 24, Information Technology Operations and Management Records, specifies that “computer security incident handling, reporting and follow-up records” should be destroyed “3 years after all necessary follow-up actions have been completed.” GRS 24 is available from the National Archives and Records Administration at http://www.archives.gov/records-mgmt/grs/grs24.html.  
+※１ 一般記録スケジュール（GRS）24「情報技術の運用管理記録」では、"コンピュータセキュリティインシデントの処理、報告、およびフォローアップ記録 "は、"必要なすべてのフォローアップ措置が完了してから3年後に破棄されるべきである "と規定されています。GRS 24 は、国立公文書館記録局（http://www.archives.gov/records-mgmt/grs/grs24.html）から入手可能です。

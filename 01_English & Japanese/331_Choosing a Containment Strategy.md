@@ -1,13 +1,11 @@
-### Choosing a Containment Strategy 
-### 封じ込め戦略の選択
+### 3.3.1 Choosing a Containment Strategy 
+### 3.3.1 封じ込め戦略の選択
 
 Containment is important before an incident overwhelms resources or increases damage.  
 インシデントがリソースを圧倒したり、被害が拡大したりする前に、封じ込めが重要です。  
 
 Most incidents require containment, so that is an important consideration early in the course of handling each incident.  
 ほとんどのインシデントでは封じ込めが必要であるため、各インシデントへの対応の初期段階では、封じ込めは重要な検討事項です。  
-
-<br/>
 
 Containment provides time for developing a tailored remediation strategy.  
 封じ込めを行うことで、個別に対応した修復戦略を策定する時間を確保することができます。
@@ -20,6 +18,8 @@ Such decisions are much easier to make if there are predetermined strategies and
 
 Organizations should define acceptable risks in dealing with incidents and develop strategies accordingly.  
 組織は、インシデントに対処する際の許容可能なリスクを定義し、それに応じて戦略を策定すべきです。 
+
+<br/>
 
 Containment strategies vary based on the type of incident.  
 封じ込め戦略は、インシデントの種類によって異なります。

@@ -1,15 +1,14 @@
 ### 3.3.2 Evidence Gathering and Handling
 ### 3.3.2 証拠の収集と処理
 
-Although the primary reason for gathering evidence during an incident is to resolve the incident, it may also be needed for legal proceedings.42  
-インシデント中に証拠を収集する主な理由は、インシデントを解決することですが、法的手続きのために必要な場合もあります。42  
+Although the primary reason for gathering evidence during an incident is to resolve the incident, it may also be needed for legal proceedings.※１  
+インシデント中に証拠を収集する主な理由は、インシデントを解決することですが、法的手続きのために必要な場合もあります※１。  
 
-In such cases, it is important to clearly document how all evidence, including compromised systems, has been preserved.43  
-そのような場合には、漏洩したシステムを含むすべての証拠がどのように保存されたかを明確に文書化することが重要です。43
+In such cases, it is important to clearly document how all evidence, including compromised systems, has been preserved.※２  
+そのような場合には、漏洩したシステムを含むすべての証拠がどのように保存されたかを明確に文書化することが重要です※２。
 
-Evidence should be collected according to procedures that meet all applicable laws and regulations that have been developed from previous discussions with legal staff and appropriate law enforcement agencies so that any evidence can be admissible in court.44  
-
-証拠は、あらゆる証拠が法廷で認められるように、法務担当者や適切な法執行機関との以前の話し合いで策定された、 適用されるすべての法規制を満たす手順にしたがって収集されるべきです。
+Evidence should be collected according to procedures that meet all applicable laws and regulations that have been developed from previous discussions with legal staff and appropriate law enforcement agencies so that any evidence can be admissible in court.※３  
+証拠は、あらゆる証拠が法廷で認められるように、法務担当者や適切な法執行機関との以前の話し合いで策定された、 適用されるすべての法規制を満たす手順にしたがって収集されるべきです。※３  
 
 In addition, evidence should be accounted for at all times; whenever evidence is transferred from person to person, chain of custody forms should detail the transfer and include each party’s signature.  
 さらに、証拠は常に説明されるべきである。証拠が人から人へ移されるときはいつでも、書類・証拠受け渡し記録は移された内容を詳述し、 各当事者の署名を含めるべきです。  
@@ -49,3 +48,15 @@ Users and system administrators should be made aware of the steps that they shou
 
 See NIST SP 800-86, Guide to Integrating Forensic Techniques into Incident Response, for additional information on preserving evidence.  
 証拠保全に関する追加情報については、NIST SP 800-86『Guide to Integrating Forensic Techniques into Incident Response』を参照してください。  
+
+<br/>
+
+※１ NIST SP 800-86, Guide to Integrating Forensic Techniques into Incident Response, provides detailed information on establishing a forensic capability. It focuses on forensic techniques for PCs, but much of the material is applicable to other systems. The document can be found at http://csrc.nist.gov/publications/PubsSPs.html#800-86.  
+※１ NIST SP 800-86「インシデント対応へのフォレンジック技法の統合に関するガイド」は、フォレンジック能力の確立に関する詳細な情報を提供しています。PC のフォレンジック技術に焦点を当てていますが、資料の多くは他のシステムにも適用可能です。この文書は http://csrc.nist.gov/publications/PubsSPs.html#800-86 でご覧いただけます。  
+
+
+※２ Evidence gathering and handling is not typically performed for every incident that occurs—for example, most malware incidents do not merit evidence acquisition. In many organizations, digital forensics is not needed for most incidents.  
+※２ 証拠の収集と処理は、通常、発生したすべてのインシデントに対して行われるわけではありません（例えば、ほとんどのマルウェアのインシデントでは、証拠を収集する必要はありません）。多くの組織では、ほとんどのインシデントに対してデジタルフォレンジックは必要ありません。  
+
+※３ Searching and Seizing Computers and Obtaining Electronic Evidence in Criminal Investigations, from the Computer Crime and Intellectual Property Section (CCIPS) of the Department of Justice, provides legal guidance on evidence gathering. The document is available at http://www.cybercrime.gov/ssmanual/index.html.  
+※３ 司法省コンピュータ犯罪・知的財産課（CCIPS）の「犯罪捜査におけるコンピュータの捜索・押収と電子証拠の入手」は、証拠収集に関する法的ガイダンスを提供しています。この文書は http://www.cybercrime.gov/ssmanual/index.html で入手可能です。

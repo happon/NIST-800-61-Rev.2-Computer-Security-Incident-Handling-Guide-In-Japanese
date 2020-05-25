@@ -10,9 +10,9 @@ Incidents should not be handled on a first-come, first-served basis as a result 
 Instead, handling should be prioritized based on the relevant factors, such as the following:  
 その代わり、以下のような関連する要因に基づいて優先的に処理を行うべきです。
 
-■ Functional Impact of the Incident.  
-■ インシデントの機能的影響
 
+■ **Functional Impact of the Incident.**  
+■ **インシデントの機能的影響**  
 Incidents targeting IT systems typically impact the business functionality that those systems provide, resulting in some type of negative impact to the users of those systems.  
 IT システムを標的としたインシデントは、通常、それらのシステムが提供するビジネス機能に影響を与え、その結果、それらのシステムのユーザに何らかのネガティブな影響を与えます。 
 
@@ -22,9 +22,8 @@ Incident handlers should consider how the incident will impact the existing func
 Incident handlers should consider not only the current functional impact of the incident, but also the likely future functional impact of the incident if it is not immediately contained.  
 インシデント・ハンドラーは、インシデントの現在の機能的な影響だけでなく、インシデントがすぐに収束しない場合には、インシデントの将来的な機能的な影響も考慮する必要があります。 
 
-■ Information Impact of the Incident.  
-■ インシデントによる情報への影響
-
+■ **Information Impact of the Incident.**  
+■ **インシデントによる情報への影響**  
 Incidents may affect the confidentiality, integrity, and availability of the organization’s information.  
 インシデントは、組織の情報の機密性、完全性、および可用性に影響を与える可能性があります。 
 
@@ -37,9 +36,8 @@ Incident handlers should consider how this information exfiltration will impact 
 An incident that results in the exfiltration of sensitive information may also affect other organizations if any of the data pertained to a partner organization.  
 機密情報の流出につながるインシデントは、データのいずれかがパートナー組織に関係している場合、他の組織にも影響を及ぼす可能性があります。 
 
-■ Recoverability from the Incident.  
-■ インシデントからの復旧性
-
+■ **Recoverability from the Incident.**  
+■ **インシデントからの復旧性**  
 The size of the incident and the type of resources it affects will determine the amount of time and resources that must be spent on recovering from that incident.  
 インシデントの規模と影響を受けるリソースの種類によって、インシデントからの復旧に費やさなければならない時間とリソースの量が決まります。
 
@@ -123,7 +121,7 @@ Table 3-4 shows examples of recoverability effort categories that reflect the le
 表 3-4 は、インシデントからの復旧に必要なリソースのレベルと種類を反映した復旧作業カテゴリの例を示しています。  
 
 Table 3-4. Recoverability Effort Categories  
-復旧作業カテゴリ
+表 3-4 復旧作業カテゴリ
 |category<br/>カテゴリー|Definition 定義|
 |-|-|
 |Regular<br/>通常|Time to recovery is predictable with existing resources <br/>復旧までの時間は、既存のリソースで予測可能|
