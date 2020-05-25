@@ -2,10 +2,10 @@
 ### 2.3.4.2 法の執行
 
 One reason that many security-related incidents do not result in convictions is that some organizations do not properly contact law enforcement.  
-セキュリティ関連の事件の多くが有罪判決に至らない理由の一つは、一部の組織が法執行機関に適切に連絡していないことにあります。  
+セキュリティ関連のインシデントの多くが有罪判決に至らない理由の一つは、一部の組織が法執行機関に適切に連絡していないことにあります。  
 
 Several levels of law enforcement are available to investigate incidents:  
-事件の調査には、いくつかのレベルの法執行機関が利用可能です。  
+インシデントの調査には、いくつかのレベルの法執行機関が利用可能です。  
 
 for example, within the United States, Federal investigatory agencies (e.g., the Federal Bureau of Investigation [FBI] and the U.S. Secret Service), district attorney offices, state law enforcement, and local (e.g., county) law enforcement.  
 例えば、米国内では、連邦捜査機関（連邦捜査局（FBI）や米国シークレットサービスなど）、地方検事局、州法執行機関、地方（郡など）法執行機関などがあります。  

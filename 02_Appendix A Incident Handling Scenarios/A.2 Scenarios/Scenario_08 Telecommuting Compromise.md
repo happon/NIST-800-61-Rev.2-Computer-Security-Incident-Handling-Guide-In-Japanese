@@ -23,7 +23,7 @@ The following are additional questions for this scenario:
 ユーザーが知らないうちに、そのIDが複数の外部IPアドレスからVPN接続を開始するために使用されていた場合、このインシデントの処理はどのように異なるでしょうか?
 
 4. Suppose that the identified user’s computer had become compromised by a game containing a Trojan horse that was downloaded by a family member.How would this affect the team’s analysis of the incident? How would this affect evidence gathering and handling? What should the team do in terms of eradicating the incident from the user’s computer?  
-特定されたユーザーのコンピュータが、家族のメンバーによってダウンロードされたトロイの木馬を含むゲームによって危険にさらされていたとします。これは、証拠の収集と処理にどのような影響を与えますか？ユーザーのコンピュータから事件を根絶するという点で、チームは何をすべきでしょうか?   
+特定されたユーザーのコンピュータが、家族のメンバーによってダウンロードされたトロイの木馬を含むゲームによって危険にさらされていたとします。これは、証拠の収集と処理にどのような影響を与えますか？ユーザーのコンピュータからインシデントを根絶するという点で、チームは何をすべきでしょうか?   
 
 5. Suppose that the user installed antivirus software and determined that the Trojan horse had included a keystroke logger. How would this affect the handling of the incident? How would this affect the handling of the incident if the user were a system administrator? How would this affect the handling of the incident if the user were a high-ranking executive in the organization?  
-ユーザーがウイルス対策ソフトをインストールし、トロイの木馬にキーストロークロガーが含まれていたと判断したとします。このことは、事件の処理にどのような影響を与えますか? ユーザーがシステム管理者であった場合、このことは事件の処理にどのような影響を与えますか? ユーザーが組織内の高位幹部であった場合、このことは事件の処理にどのような影響を与えるでしょうか?
+ユーザーがウイルス対策ソフトをインストールし、トロイの木馬にキーストロークロガーが含まれていたと判断したとします。このことは、インシデントの処理にどのような影響を与えますか? ユーザーがシステム管理者であった場合、このことはインシデントの処理にどのような影響を与えますか? ユーザーが組織内の高位幹部であった場合、このことはインシデントの処理にどのような影響を与えるでしょうか?

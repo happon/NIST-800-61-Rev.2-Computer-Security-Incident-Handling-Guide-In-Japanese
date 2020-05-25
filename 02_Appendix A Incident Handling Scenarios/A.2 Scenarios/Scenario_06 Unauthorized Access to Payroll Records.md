@@ -20,13 +20,13 @@ The following are additional questions for this scenario:
 どのようにして、どのようなアクションが実行されたかを判断するのでしょうか? 
 
 2. How would the handling of this incident differ if the payroll administrator had recognized the person leaving her office as a former payroll department employee?  
-給与管理者が、退社した人物を元給与計算部門の従業員と認識していた場合、この事件の処理はどのように違っていたのでしょうか？ 
+給与管理者が、退社した人物を元給与計算部門の従業員と認識していた場合、このインシデントの処理はどのように違っていたのでしょうか？ 
 
 3. How would the handling of this incident differ if the team had reason to believe that the person was a current employee?  
-その人物が現役の従業員であると信じるに足る理由があった場合、この事件の処理はどのように異なるでしょうか？
+その人物が現役の従業員であると信じるに足る理由があった場合、このインシデントの処理はどのように異なるでしょうか？
 
 4. How would the handling of this incident differ if the physical security team determined that the person had used social engineering techniques to gain physical access to the building?  
-フィジカルセキュリティ・チームが、その人物がソーシャル・エンジニアリング技術を使って建物に物理的にアクセスしたと判断した場合、この事件の処理はどのように異なるでしょうか? 
+フィジカルセキュリティ・チームが、その人物がソーシャル・エンジニアリング技術を使って建物に物理的にアクセスしたと判断した場合、このインシデントの処理はどのように異なるでしょうか? 
 
 5. How would the handling of this incident differ if logs from the previous week showed an unusually large number of failed remote login attempts using the payroll administrator’s user ID?  
 前週のログに、給与管理者のユーザーIDを使用したリモートログインの試みに異常に多くの失敗があった場合、このインシデントの処理はどのように異なるのでしょうか?  

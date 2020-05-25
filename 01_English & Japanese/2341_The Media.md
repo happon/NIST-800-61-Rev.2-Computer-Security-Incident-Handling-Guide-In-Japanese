@@ -6,7 +6,7 @@ The incident handling team should establish media communications procedures that
 
 ※７
 For example, an organization may want members of its public affairs office and legal department to participate in all incident discussions with the media.  
-例えば、ある組織は、広報室や法務部のメンバーに、マスコミとのすべての事件の議論に参加してほしいと思うかもしれません。  
+例えば、ある組織は、広報室や法務部のメンバーに、マスコミとのすべてのインシデントの議論に参加してほしいと思うかもしれません。  
 
 For discussing incidents with the media, organizations often find it beneficial to designate a single point of contact (POC) and at least one backup contact.  
 メディアとインシデントについて議論するためには、組織は多くの場合、単一の連絡先（POC）と少なくとも 1 つの予備連絡先を指定することが有益であると考えます。  
@@ -18,10 +18,10 @@ The following actions are recommended for preparing these designated contacts an
 ■ インシデントに関するメディアとの対話に関する研修を実施ます。そしてこれには、他の攻撃者を支援する可能性のある対策の技術的詳細などの機密情報を明かさないことの重要性や、重要な情報を十分かつ効果的に公衆に伝えることの肯定的な側面が含まれるべきです。 
 
 ■ Establish procedures to brief media contacts on the issues and sensitivities regarding a particular incident before discussing it with the media.  
-■ 特定の事件についてメディアと議論する前に、メディア関係者に問題点やセンシティブ情報について説明する手順を確立します。  
+■ 特定のインシデントについてメディアと議論する前に、メディア関係者に問題点やセンシティブ情報について説明する手順を確立します。  
 
 ■ Maintain a statement of the current status of the incident so that communications with the media are consistent and up-to-date.  
-■ メディアとのコミュニケーションが一貫して最新のものとなるように、事件の現在の状況についての声明を維持します。  
+■ メディアとのコミュニケーションが一貫して最新のものとなるように、インシデントの現在の状況についての声明を維持します。  
 
 ■ Remind all staff of the general procedures for handling media inquiries.  
 ■ メディアからの問い合わせに対応するための一般的な手順を全職員に周知します。  

@@ -59,10 +59,10 @@ The team should comply with existing organization policy on interacting with the
 チームは、メディアやその他の外部関係者との対話に関する既存の組織の方針を遵守すべきです。
 
 ■ **Provide pertinent information on incidents to the appropriate organization.**  
-■ **事件に関する関連情報を適切な組織に提供する。**  
+■ **インシデントに関する関連情報を適切な組織に提供する。**  
 
 Federal civilian agencies are required to report incidents to US-CERT;  
-連邦民間機関は、US-CERT に事故を報告することが義務付けられています。
+連邦民間機関は、US-CERT にインシデントを報告することが義務付けられています。
 
 other organizations can contact US-CERT and/or their ISAC.  
 その他の組織は、US-CERT および／またはその組織の ISAC に連絡することができます。

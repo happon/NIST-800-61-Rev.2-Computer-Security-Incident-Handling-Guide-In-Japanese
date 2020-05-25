@@ -24,10 +24,10 @@ Organizations should create a policy that states who is designated to report inc
 組織は、誰がインシデントを報告するために指定されているか、およびインシデントがどのように報告され るべきかを明記した方針を作成すべきです。  
 
 Requirements, categories, and timeframes for reporting incidents to US-CERT are on the US-CERT website.  
-US-CERTに事故を報告するための要件、カテゴリー、および時間枠は、US-CERTのウェブサイトに掲載されています。  
+US-CERTにインシデントを報告するための要件、カテゴリー、および時間枠は、US-CERTのウェブサイトに掲載されています。  
 
 All Federal agencies must ensure that their incident response procedures adhere to US-CERT’s reporting requirements and that the procedures are followed properly.  
-すべての連邦機関は、その事故対応手順が US-CERT の報告要件に準拠していること、およびその手順が適切に守られていることを確認しなければなりません。  
+すべての連邦機関は、そのインシデント対応手順が US-CERT の報告要件に準拠していること、およびその手順が適切に守られていることを確認しなければなりません。  
 
 All organizations are encouraged to report incidents to their appropriate CSIRTs.  
 すべての組織は、適切な CSIRT にインシデントを報告することが推奨されます。  

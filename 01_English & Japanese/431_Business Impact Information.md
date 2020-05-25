@@ -11,7 +11,7 @@ Coordinating response teams may need this impact information to make decisions r
 連携対応チームは、報告組織に提供すべき支援の程度に関する意思決定を行うために、この影響情報を必要とする場合があります。
 
 A coordinating team may also use this information to make decisions relative to how a specific incident will affect other organizations in the community they represent.  
-また、連携チームは、特定の事件が自分たちが代表するコミュニティの他の組織にどのような影響を与えるかを決定するために、この情報を使用することもあります。
+また、連携チームは、特定のインシデントが自分たちが代表するコミュニティの他の組織にどのような影響を与えるかを決定するために、この情報を使用することもあります。
 
 <br/>
 

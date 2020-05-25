@@ -23,13 +23,13 @@ Table 3-5. Incident Handling Checklist
 |&emsp;1.1|&emsp;&emsp;Analyze the precursors and indicators<br/>&emsp;&emsp;前兆と兆候を分析する|
 |&emsp;1.2|&emsp;&emsp; Look for correlating information<br/>&emsp;&emsp;関連する情報を探す|
 |&emsp;1.3|&emsp;&emsp;Perform research (e.g., search engines, knowledge base) <br/>&emsp;&emsp;調査の実施（検索エンジン、ナレッジデータベースなど）|
-|&emsp;1.4|&emsp;&emsp;As soon as the handler believes an incident has occurred, begin documenting  the investigation and gathering evidence<br/>&emsp;&emsp;ハンドラーは、事件が発生したと確信したらすぐに調査の文書化と証拠の収集を開始|
+|&emsp;1.4|&emsp;&emsp;As soon as the handler believes an incident has occurred, begin documenting  the investigation and gathering evidence<br/>&emsp;&emsp;ハンドラーは、インシデントが発生したと確信したらすぐに調査の文書化と証拠の収集を開始|
 |2.&emsp;&emsp;|Prioritize handling the incident based on the relevant factors (functional impact, information impact, recoverability effort, etc.) <br/>関連する要因（機能的影響、情報的影響、復旧努力など）に基づいて、インシデントへの対応に優先順位をつける。|
 |3.&emsp;&emsp;|Report the incident to the appropriate internal personnel and external organizations<br/>社内の適切な担当者および外部組織に報告する。|
 || Containment, Eradication, and Recovery<br/>封じ込め、根絶、復旧|
 |4.&emsp;&emsp;|Acquire, preserve, secure, and document evidence<br/>証拠の取得、保存、確保、文書化|
-|5.&emsp;&emsp;|Contain the incident <br/>事件の封じ込め|
-|6.&emsp;&emsp;|Eradicate the incident <br/>事件の根絶|
+|5.&emsp;&emsp;|Contain the incident <br/>インシデントの封じ込め|
+|6.&emsp;&emsp;|Eradicate the incident <br/>インシデントの根絶|
 |&emsp;6.1|&emsp;&emsp; Identify and mitigate all vulnerabilities that were exploited <br/> &emsp;&emsp;悪用されたすべての脆弱性を特定し、軽減する|
 |&emsp;6.2|&emsp;&emsp; Remove malware, inappropriate materials, and other components<br/>&emsp;&emsp;マルウェアや不適切な素材などを除去する|
 |&emsp;6.3|&emsp;&emsp; If more affected hosts are discovered (e.g., new malware infections), repeat  the Detection and Analysis steps (1.1, 1.2) to identify all other affected hosts, then  contain (5) and eradicate (6) the incident for them<br/> &emsp;&emsp;より多くの影響を受けるホストが発見された場合(新しいマルウェア感染など)、検出と分析のステップ(1.1, 1.2)を繰り返して、他の影響を受けるすべてのホストを特定し、(5)のインシデントを封じ込め、(6)のインシデントを根絶してください。|

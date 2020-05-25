@@ -73,7 +73,7 @@ However, some incidents may not have smooth recovery paths and may need to be qu
 -例えば、攻撃者がギガバイトの機密データを流出させて公開するようなインシデントが発生した場合、データはすでに公開されているため、簡単に復旧することはできません。 
 
 in this case the team may transfer part of the responsibility for handling the data exfiltration incident to a more strategic-level team that develops strategy for preventing future breaches and creates an outreach plan for alerting those individuals or organizations whose data was exfiltrated.  
-この場合、チームは、データ流出事件への対応の責任の一部をより戦略的レベルのチームに移すことができます。 
+この場合、チームは、データ流出インシデントへの対応の責任の一部をより戦略的レベルのチームに移すことができます。 
 
 The team should prioritize the response to each incident based on its estimate of the business impact caused by the incident and the estimated efforts required to recover from the incident.  
 チームは、インシデントによって引き起こされたビジネスへの影響の推定値と、インシデントからの復旧に必要な推定努力に基づいて、各インシデントへの対応に優先順位をつけるべきです。 

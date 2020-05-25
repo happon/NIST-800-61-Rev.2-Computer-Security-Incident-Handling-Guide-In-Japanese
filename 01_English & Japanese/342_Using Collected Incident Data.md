@@ -31,6 +31,8 @@ Furthermore, organizations that are required to report incident information will
 See Section 4 for additional information on sharing incident data with other organizations.  
 他の組織とのインシデントデータの共有に関する追加情報については、セクション4を参照してください。  
 
+<br/>
+
 Organizations should focus on collecting data that is actionable, rather than collecting data simply because it is available.  
 組織は、単にデータが入手可能だからといってデータを収集するのではなく、実行可能なデータを収集することに焦点を当てるべきです。  
 
@@ -46,29 +48,32 @@ Organizations should decide what incident data to collect based on reporting req
 Possible metrics for incident-related data include:  
 インシデント関連データの測定基準としては、以下のようなものが考えられます。   
 
-■ Number of Incidents Handled.46  
-■ 対応したインシデントの数  
+■ **Number of Incidents Handled.**※１  
+■ **対応したインシデントの数**  
 
- Handling more incidents is not necessarily better—for example, the number of incidents handled may decrease because of better network and host security controls, not because of negligence by the incident response team.  
- 例えば、対応したインシデント数は、インシデント対応チームの過失ではなく、ネットワークやホストのセキュリ ティ管理が改善されたために減少する場合があります。  
+Handling more incidents is not necessarily better—for example, the number of incidents handled may decrease because of better network and host security controls, not because of negligence by the incident response team.  
+例えば、対応したインシデント数は、インシデント対応チームの過失ではなく、ネットワークやホストのセキュリ ティ管理が改善されたために減少する場合があります。  
  
- The number of incidents handled is best taken as a measure of the relative amount of work that the incident response team had to perform, not as a measure of the quality of the team, unless it is considered in the context of other measures that collectively give an indication of work quality.  
- 処理されたインシデント数は、インシデント対応チームが実行しなければならなかった作業の相対的な量を測るものであって、チームの品質を測るものではないと考えるのが最善です。  
+The number of incidents handled is best taken as a measure of the relative amount of work that the incident response team had to perform, not as a measure of the quality of the team, unless it is considered in the context of other measures that collectively give an indication of work quality.  
+処理されたインシデント数は、インシデント対応チームが実行しなければならなかった作業の相対的な量を測るものであって、チームの品質を測るものではないと考えるのが最善です。  
  
- It is more effective to produce separate incident counts for each incident category.  
- 各インシデントカテゴリごとに別々のインシデントカウントを作成する方がより効果的です。  
+It is more effective to produce separate incident counts for each incident category.  
+各インシデントカテゴリごとに別々のインシデントカウントを作成する方がより効果的です。  
  
- Subcategories also can be used to provide more information.  
- また、より多くの情報を提供するためにサブカテゴリーを使用することもできます。
+Subcategories also can be used to provide more information.  
+また、より多くの情報を提供するためにサブカテゴリーを使用することもできます。
  
- For example, a growing number of incidents performed by insiders could prompt stronger policy provisions concerning background investigations for personnel and misuse of computing resources and stronger security controls on internal networks (e.g., deploying intrusion detection software to more internal networks and hosts).   
- 例えば、インサイダーによって実行されるインシデントの数が増加していることから、人員の身元調査やコンピューティングリソースの不正使用に関するポリシーの規定を強化したり、内部ネットワークのセキュリティ管理を強化したりすることができます（例えば、より多くの内部ネットワークやホストに侵入検知ソフトウェアを配備するなど）。  
+For example, a growing number of incidents performed by insiders could prompt stronger policy provisions concerning background investigations for personnel and misuse of computing resources and stronger security controls on internal networks (e.g., deploying intrusion detection software to more internal networks and hosts).   
+例えば、インサイダーによって実行されるインシデントの数が増加していることから、人員の身元調査やコンピューティングリソースの不正使用に関するポリシーの規定を強化したり、内部ネットワークのセキュリティ管理を強化したりすることができます（例えば、より多くの内部ネットワークやホストに侵入検知ソフトウェアを配備するなど）。  
 
-■ Time Per Incident.  
-■ インシデントあたりの時間
+※１ Metrics such as the number of incidents handled are generally not of value in a comparison of multiple organizations because each organization is likely to have defined key terms differently. For example, most organizations define “incident” in terms of their own policies and practices, and what one organization considers a single incident may be considered multiple incidents by others. More specific metrics, such as the number of port scans, are also of little value in organizational comparisons. For example, it is highly unlikely that different security systems, such as network intrusion detection sensors, would all use the same criteria in labeling activity as a port scan.  
+※１ 扱われたインシデントの数などの指標は、一般的に、複数の組織を比較する際には価値がありません。例えば、ほとんどの組織では、「インシデント」を独自のポリシーと実践の観点から定義しており、ある組織では単一のインシデントと見なしていたものが、他の組織では複数のインシデントと見なしている場合があります。また、ポートスキャンの数など、より具体的な指標も、組織の比較においてはほとんど価値がありません。例えば、ネットワーク侵入検知センサーなどの異なるセキュリティシステムが、ポートスキャンとしての活動をラベル付けする際に、すべて同じ基準を使用する可能性は非常に低いと考えられます。  
+
+■ **Time Per Incident.**  
+■ **インシデントあたりの時間**
  
- For each incident, time can be measured in several ways:  
- 各インシデントについて、時間はいくつかの方法で測定することができます。  
+For each incident, time can be measured in several ways:  
+各インシデントについて、時間はいくつかの方法で測定することができます。  
  
  - Total amount of labor spent working on the incident  
  - インシデントの作業に費やされた労働力の総量  
@@ -82,8 +87,8 @@ Possible metrics for incident-related data include:
  - How long it took to report the incident to management and, if necessary, appropriate external entities (e.g., US-CERT).  
  - 管理者への報告、および必要に応じて適切な外部団体（US-CERT など）への報告にどのくらいの期間を要したか。  
 
-■ Objective Assessment of Each Incident.  
-■ 各インシデントの客観的な評価  
+■ **Objective Assessment of Each Incident.**  
+■ **各インシデントの客観的な評価**  
 
  The response to an incident that has been resolved can be analyzed to determine how effective it was.  
  解決したインシデントへの対応を分析することで、それがどれだけ効果的であったかを判断することができます。  
@@ -113,17 +118,17 @@ Possible metrics for incident-related data include:
  - 最初の影響評価と最終的な影響評価との差の測定（3.2.6項参照
  
  - Identifying which measures, if any, could have prevented the incident.  
- - どのような対策があれば、事故を防ぐことができたかを特定すること。  
+ - どのような対策があれば、インシデントを防ぐことができたかを特定すること。  
 
 
-■ Subjective Assessment of Each Incident.  
-■ 各インシデントの主観的評価  
+■ **Subjective Assessment of Each Incident.**  
+■ **各インシデントの主観的評価**  
 
  Incident response team members may be asked to assess their own performance, as well as that of other team members and of the entire team.  
  インシデント対応チームのメンバーは、自分のパフォーマンスだけでなく、他のチームメンバーやチーム全体のパフォーマンスの評価を求められることがあります。  
  
  Another valuable source of input is the owner of a resource that was attacked, in order to determine if the owner thinks the incident was handled efficiently and if the outcome was satisfactory.  
- もう一つの貴重な情報源は、攻撃を受けたリソースの所有者であり、その所有者がインシデントが効率的に処理されたと考えているかどうか、またその結果が満足のいくものであったかどうかを判断するためである。  
+ もう一つの貴重な情報源は、攻撃を受けたリソースの所有者であり、その所有者がインシデントが効率的に処理されたと考えているかどうか、またその結果が満足のいくものであったかどうかを判断するためです。  
 
 <br/>
 

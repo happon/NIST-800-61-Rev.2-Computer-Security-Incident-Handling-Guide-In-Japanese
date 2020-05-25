@@ -43,7 +43,7 @@ Each organization should create its own list of elements based on several factor
  – Physical location of the incident (e.g., city, state)  
  － インシデントの物理的な場所（例：市、州  
  – Current status of the incident (e.g., ongoing attack)  
- － 事件の現在の状況（進行中の攻撃など  
+ － インシデントの現在の状況（進行中の攻撃など  
  – Source/cause of the incident (if known), including hostnames and IP addresses  
  ー ホスト名とIPアドレスを含む、インシデントの発生源/原因(既知の場合)  
  – Description of the incident (e.g., how it was detected, what occurred)  
@@ -71,7 +71,7 @@ Each organization should create its own list of elements based on several factor
 ■ インシデント対応の現状  
 
 ■ Summary of the Incident  
-■ 事件の概要  
+■ インシデントの概要  
 
 ■ Incident Handling Actions  
 ■ インシデント対応アクション  

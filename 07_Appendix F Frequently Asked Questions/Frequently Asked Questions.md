@@ -188,7 +188,7 @@ Organizations are encouraged to customize this FAQ and make it available to thei
  ある人物は、インシデントと外部関係者に関する組織の方針に従って、メディアの質問に答えることができます。
  
  If the person is not qualified to represent the organization in terms of discussing the incident, the person should make no comment regarding the incident,other than to refer the caller to the organization’s public affairs office.  
- また、その人が組織を代表して事件を語る資格がない場合には、その人は事件に関するコメントをしてはならず、通報者を組織の広報室に紹介する以外は、事件に関するコメントをしてはなりません。
+ また、その人が組織を代表してインシデントを語る資格がない場合には、その人はインシデントに関するコメントをしてはならず、通報者を組織の広報室に紹介する以外は、インシデントに関するコメントをしてはなりません。
  
  This will allow the public affairs office to provide accurate and consistent information to the media and the public.  
  これにより、広報室はメディアや一般市民に正確で一貫性のある情報を提供することができます。

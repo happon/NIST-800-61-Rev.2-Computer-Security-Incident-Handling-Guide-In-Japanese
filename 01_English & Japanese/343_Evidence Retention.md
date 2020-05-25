@@ -10,8 +10,8 @@ Most organizations choose to retain all evidence for months or years after the i
 The following factors should be considered during the policy creation:  
 方針を作成する際には、以下の要因を考慮すべきです。  
 
-■ Prosecution.  
-■ 起訴  
+■ **Prosecution.**  
+■ **起訴**  
 
 If it is possible that the attacker will be prosecuted, evidence may need to be retained until all legal actions have been completed.  
 攻撃者が起訴される可能性がある場合、すべての法的措置が完了するまで証拠を保持する必要がある場合があります。  
@@ -25,8 +25,8 @@ Furthermore, evidence that seems insignificant now may become more important in 
 For example, if an attacker is able to use knowledge gathered in one attack to perform a more severe attack later, evidence from the first attack may be key to explaining how the second attack was accomplished.  
 例えば、攻撃者が 1 回の攻撃で収集した情報を使って、後になってより深刻な攻撃を行うことができた場合、最初の攻撃の証拠が、2 回目の攻撃がどのようにして行われたかを説明する鍵となる可能性があります。  
 
-■ Data Retention.  
-■ データの保持  
+■ **Data Retention.**  
+■ **データの保持**  
 
  Most organizations have data retention policies that state how long certain types of data may be kept.  
  ほとんどの組織は、特定の種類のデータをどのくらいの期間保存するかを規定したデータ保持ポリシーがあります。  
@@ -40,8 +40,8 @@ For example, if an attacker is able to use knowledge gathered in one attack to p
  As discussed in Section 3.4.2, General Records Schedule (GRS) 24 specifies that incident handling records should be kept for three years.  
  セクション3.4.2で議論されているように、一般記録スケジュール(GRS)24では、インシデント処理記録は3年間保存されるべきであると規定されています。  
 
-■ Cost.  
-■ コスト  
+■ **Cost.**  
+■ **コスト**  
 
  Original hardware (e.g., hard drives, compromised systems) that is stored as evidence, as well as hard drives and removable media that are used to hold disk images, are generally individually inexpensive.  
  証拠として保管されるオリジナルのハードウェア（例えば、ハードドライブ、漏洩したシステム）、及びディスクイメージを保持するために使用されるハードドライブやリムーバブルメディアは、一般的に個々に安価ではありますが、  

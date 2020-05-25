@@ -32,10 +32,10 @@ The exact reporting requirements vary among organizations, but parties that are 
 ■ 人事（メールでのハラスメントなど、従業員が関わる案件の場合  
 
 ■ Public affairs (for incidents that may generate publicity)  
-■ 広報（宣伝の可能性がある事件の場合  
+■ 広報（宣伝の可能性があるインシデントの場合  
 
 ■ Legal department (for incidents with potential legal ramifications)  
-■ 法務部（法的に影響を及ぼす可能性のある事件の場合  
+■ 法務部（法的に影響を及ぼす可能性のあるインシデントの場合  
 
 ■ US-CERT (required for Federal agencies and systems operated on behalf of the Federal government; see Section 2.3.4.3)  
 ■ US-CERT（連邦政府に代わって運営される連邦政府機関およびシステムに必要  

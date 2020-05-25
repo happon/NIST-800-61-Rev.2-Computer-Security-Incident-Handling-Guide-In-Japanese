@@ -17,7 +17,7 @@ This meeting provides a chance to achieve closure with respect to an incident by
 この会議では、何が発生したのか、何が介入のために行われたのか、介入がどの程度うまくいったのかを見直すことで、インシデントに関してクローズする機会を提供します。   
 
 The meeting should be held within several days of the end of the incident.  
-会議は、事故終了後数日以内に開催されるべきです。  
+会議は、インシデント終了後数日以内に開催されるべきです。  
 
 Questions to be answered in the meeting include:  
 会議で回答すべき質問には、以下のようなものがあります。 
@@ -26,7 +26,7 @@ Questions to be answered in the meeting include:
 ■ 正確に何が、どのようなタイミングで起こったのか？
 
 ■ How well did staff and management perform in dealing with the incident? Were the documented procedures followed? Were they adequate?   
-■ スタッフと管理者は、事件に対処する上でどの程度うまくいったか？文書化された手順は守られていたか？それらは適切だったか？  
+■ スタッフと管理者は、インシデントに対処する上でどの程度うまくいったか？文書化された手順は守られていたか？それらは適切だったか？  
 
 ■ What information was needed sooner?   
 ■ どのような情報がもっと早く必要だったか？  
@@ -35,13 +35,13 @@ Questions to be answered in the meeting include:
 ■ 復旧を阻害するような措置や行動が取られていなかったか？  
 
 ■ What would the staff and management do differently the next time a similar incident occurs?   
-■ 次回同様の事故が発生した場合、スタッフと管理者は何か違ったことをするだろうか？  
+■ 次回同様のインシデントが発生した場合、スタッフと管理者は何か違ったことをするだろうか？  
 
 ■ How could information sharing with other organizations have been improved?  
 ■ 他の組織との情報共有はどのように改善されたか？ 
 
 ■ What corrective actions can prevent similar incidents in the future?   
-■ どのような是正措置を取れば、将来、同様の事故を防ぐことができるか？ 
+■ どのような是正措置を取れば、将来、同様のインシデントを防ぐことができるか？ 
 
 ■ What precursors or indicators should be watched for in the future to detect similar incidents?    
 ■ 同様のインシデントを検出するために、将来的にどのような前兆や兆候に注意すべきか？
@@ -59,7 +59,7 @@ The primary consideration in holding such meetings is ensuring that the right pe
 このような会議を開催する際に最も重要なことは、適切な人材を確保することです。  
 
 Not only is it important to invite people who have been involved in the incident that is being analyzed, but also it is wise to consider who should be invited for the purpose of facilitating future cooperation.  
-分析対象となる事件に関わった人を招くことが重要であるだけでなく、今後の協力関係を円滑にするためにも、誰を招くべきかを考えておくことが賢明です。  
+分析対象となるインシデントに関わった人を招くことが重要であるだけでなく、今後の協力関係を円滑にするためにも、誰を招くべきかを考えておくことが賢明です。  
 
 <br/>
 
