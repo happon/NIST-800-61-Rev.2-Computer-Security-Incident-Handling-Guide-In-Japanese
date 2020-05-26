@@ -25,9 +25,8 @@ Each question is followed by a reference to the related section(s) of the docume
 After the questions are scenarios, each of which is followed by additional incident-specific questions.  
 質問の後にはシナリオがあり、それぞれの質問の後には追加のインシデント固有の質問が続きます。
 
-Organizations are strongly encouraged to adapt these questions and scenarios for use in their own incident response exercises.48
+Organizations are strongly encouraged to adapt these questions and scenarios for use in their own incident response exercises.※
 組織において、これらの質問とシナリオを、独自のインシデントハンドリング演習で使用するよう強く推奨します。
 
-48
-For additional information on exercises, see NIST SP 800-84, Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities, which is available at http://csrc.nist.gov/publications/PubsSPs.html#800-84.  
+※ For additional information on exercises, see NIST SP 800-84, Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities, which is available at http://csrc.nist.gov/publications/PubsSPs.html#800-84.  
 演習の詳細については、http://csrc.nist.gov/publications/PubsSPs.html#800-84 にある NIST SP 800-84, Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities を参照してください。

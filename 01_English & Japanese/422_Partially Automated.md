@@ -22,10 +22,7 @@ Once the organization understands the types of information they will share, it i
 組織が共有する情報の種類を理解したら、この情報を取り込むための形式的で機械処理可能なモデルを構築する必要があります。
 
 Wherever possible, an organization should use existing data exchange standards for representing the information they need to share.※  
-可能な限り、組織は共有する必要のある情報を表現するために、既存のデータ交換標準を使用すべきです。 
-
-※According to the National Technology Transfer and Advancement Act (NTTAA), “all Federal agencies and departments shall use technical standards that are developed or adopted by voluntary consensus standards bodies”. See http://standards.gov/nttaa.cfm for more details.  
-National Technology Transfer and Advancement Act (NTTAA)によると、「すべての連邦政府機関および省庁は、自主的なコンセンサス基準機関によって開発または採択された技術基準を使用しなければならない」とされています。詳細は http://standards.gov/nttaa.cfm を参照のこと。
+可能な限り、組織は共有する必要のある情報を表現するために、既存のデータ交換標準を使用すべきです※。   
 
 The organization should work with its partner organizations when deciding on the data exchange models to ensure that the standards selected are compatible with the partner organization’s incident response systems.  
 組織は、データ交換モデルを決定する際、パートナー組織と協力して、選択した標準がパートナー組織のインシデント対応システムと互換性があることを確認すべきです。 
@@ -45,4 +42,7 @@ These transport mechanisms include, at a minimum, the transport protocol for exc
 これらのトランスポートメカニズムには、少なくとも、情報を交換するためのトランスポートプロトコル、情報リソースと通信するためのアーキテクチャモデル、および特定の組織で情報リソースにアクセスするための適用可能なポートとドメイン名が含まれます。 
 
 For example, a group of partner organizations may decide to exchange incident information using a Representational State Transfer (REST) architecture to exchange IODEF/Real-Time Inter-Network Defense (RID) data over Hypertext Transfer Protocol Secure (HTTPS) on port 4590 of a specific domain name within each organization’s DMZ.  
-例えば、パートナー組織のグループは、各組織のDMZ内の特定のドメイン名のポート 4590 のハイパーテキスト転送プロトコルセキュア（HTTPS）を介して IODEF/Real-Time Inter-Network Defense（RID）データを交換するために、REST（Representational State Transfer）アーキテクチャを使用してインシデント情報を交換することを決定することができます。
+例えば、パートナー組織のグループは、各組織のDMZ内の特定のドメイン名のポート 4590 のハイパーテキスト転送プロトコルセキュア（HTTPS）を介して IODEF/Real-Time Inter-Network Defense（RID）データを交換するために、REST（Representational State Transfer）アーキテクチャを使用してインシデント情報を交換することを決定することができます。  
+
+※ According to the National Technology Transfer and Advancement Act (NTTAA), “all Federal agencies and departments shall use technical standards that are developed or adopted by voluntary consensus standards bodies”. See http://standards.gov/nttaa.cfm for more details.  
+※ National Technology Transfer and Advancement Act (NTTAA)によると、「すべての連邦政府機関および省庁は、自主的なコンセンサス基準機関によって開発または採択された技術基準を使用しなければならない」とされています。詳細は http://standards.gov/nttaa.cfm を参照のこと。

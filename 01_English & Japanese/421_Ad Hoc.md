@@ -1,8 +1,6 @@
 ### 4.2.1 Ad Hoc
 ### 4.2.1 アドホック※
 
-※「特定の目的の」「その場限りの」という意味のラテン語
-
 Most incident information sharing has traditionally occurred through ad hoc methods, such as email, instant messaging clients, and phone.  
 ほとんどのインシデント情報の共有は、従来、電子メール、インスタントメッセージングクライアント、電話などのアドホックな方法で行われてきました。 
 
@@ -30,4 +28,6 @@ Because of the lack of standardization, they tend to require manual intervention
 標準化されていないため、手動での介入が必要となり、部分的に自動化された方法よりも処理にリソースがかかる傾向があります。
 
 Whenever possible an organization should attempt to formalize its information sharing strategies through formal agreements with partner organizations and technical mechanisms that will help to partially automate the sharing of information.  
-可能な限り、組織は、パートナー組織との正式な合意や、情報共有の部分的な自動化に役立つ技術的なメカニズムを通じて、情報共有戦略を正式なものにすることを試みるべきです。
+可能な限り、組織は、パートナー組織との正式な合意や、情報共有の部分的な自動化に役立つ技術的なメカニズムを通じて、情報共有戦略を正式なものにすることを試みるべきです。  
+
+※「特定の目的の」「その場限りの」という意味のラテン語

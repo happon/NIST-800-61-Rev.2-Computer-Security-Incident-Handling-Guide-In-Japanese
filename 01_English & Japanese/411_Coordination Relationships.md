@@ -2,15 +2,19 @@
 ### 4.1.1 連携の関係
 
 An incident response team within an organization may participate in different types of coordination arrangements, depending on the type of organization with which it is coordinating.  
-
+組織内のインシデント対応チームは、調整する組織の種類に応じて、さまざまなタイプの調整に参加することができます。  
 
 For example, the team members responsible for the technical details of incident response may coordinate with operational colleagues at partner organizations to share strategies for mitigating an attack spanning multiple organizations.  
-
+例えば、インシデント対応の技術的詳細を担当するチームメンバーは、複数の組織にまたがる攻撃を緩和するための戦略を共有するために、 パートナー組織の運用上の同種の部署と調整することができます。  
 
 Alternatively, during the same incident, the incident response team manager may coordinate with ISACs to satisfy necessary reporting requirements and seek advice and additional resources for successfully responding to the incident.  
-
+あるいは、同じインシデントの間に、インシデント対応チームマネージャーは、必要な報告要件を満たすために ISAC と調整し、インシデントへの対応を成功させるためのアドバイスや追加のリソースを求めることができます。  
 
 Table 4-1 provides some examples of coordination relationships that may exist when collaborating with outside organizations.  
+表 4-1 は、外部組織との連携時に存在する可能性のある連携関係の例をいくつか示しています。  
+
+Table 4-1. Coordination Relationships  
+表 4-1 連　携  
 
 |Category<br/>カテゴリー|Definition<br/>定義|Information Shared<br/>情報共有|
 |-|-|-|
@@ -22,7 +26,7 @@ Organizations may find it challenging to build the relationships needed for coor
 組織は、連携に必要な人間関係を構築することが難しいと感じるかもしれません。 
 
 Good places to start building a community include the industry sector that the organization belongs to and the geographic region where the organization operates.  
-コミュニティの構築を始めるには、組織が属する業界や、組織が活動している地理的な地域が適しています。
+コミュニティの構築は、組織が属する業界や、組織が活動している地理的な地域から始めるのが適しています。
 
 An organization’s incident response team can try to form relationships with other teams (at the team-to-team level) within its own industry sector and region, or join established bodies within the industry sector that already facilitate information sharing.  
 組織のインシデント対応チームは、自分の属する業界や地域内の他のチームと（チーム間のレベルで）関係を築こうとしたり、すでに情報共有を促進している業界内の確立された組織に参加したりすることができます。 

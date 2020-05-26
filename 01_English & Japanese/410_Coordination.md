@@ -5,7 +5,7 @@ As discussed in Section 2.3.4, an organization may need to interact with several
 セクション2.3.4で議論されているように、組織は、インシデント対応活動を実施する過程で、いくつかのタイプの外部組織と相互作用する必要があるかもしれません。
 
 Examples of these organizations include other incident response teams, law enforcement agencies, Internet service providers, and constituents and customers.  
-これらの組織の例としては、他のインシデント対応チーム、法執行機関、インターネットサービスプロバイダ、および構成員や顧客が挙げられます。
+これらの組織の例としては、他のインシデント対応チーム、法執行機関、インターネットサービスプロバイダ、構成員及び顧客が挙げられます。
 
 An organization’s incident response team should plan its incident coordination with those parties before incidents occur to ensure that all parties know their roles and that effective lines of communication are established.  
 組織のインシデント対応チームは、インシデントが発生する前に、これらの関係者とのインシデント連携を計画し、すべての関係者がそれぞれの役割を理解し、効果的なコミュニケーションラインを確立する必要があります。 
