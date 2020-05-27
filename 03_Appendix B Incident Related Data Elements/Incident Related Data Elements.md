@@ -32,7 +32,7 @@ Each organization should create its own list of elements based on several factor
  － 組織単位（例：代理店、部署、部署、チーム）と所属  
  – Email address  メールアドレス  
  – Phone number  電話番号  
- – Location (e.g., mailing address, office room number)  所在地（住所、事務所の部屋番号など  
+ – Location (e.g., mailing address, office room number)  所在地（住所、事務所の部屋番号など）  
 
 <br/>
 
@@ -41,28 +41,27 @@ Each organization should create its own list of elements based on several factor
  – Status change date/timestamps (including time zone): when the incident started, when the incident was discovered/detected, when the incident was reported, when the incident was resolved/ended, etc.  
  － 状態変化の日付/タイムスタンプ（タイムゾーンを含む）：インシデントが開始されたとき、インシデントが発見/検出されたとき、インシデントが報告されたとき、インシデントが解決/終了したとき、など  
  – Physical location of the incident (e.g., city, state)  
- － インシデントの物理的な場所（例：市、州  
+ － インシデントの物理的な場所（例：市、州）  
  – Current status of the incident (e.g., ongoing attack)  
- － インシデントの現在の状況（進行中の攻撃など  
+ － インシデントの現在の状況（進行中の攻撃など）  
  – Source/cause of the incident (if known), including hostnames and IP addresses  
  ー ホスト名とIPアドレスを含む、インシデントの発生源/原因(既知の場合)  
  – Description of the incident (e.g., how it was detected, what occurred)  
-  ー インシデントの説明（例：どのようにして検出されたか、何が起こったか  
+  ー インシデントの説明（例：どのようにして検出されたか、何が起こったか）  
  – Description of affected resources (e.g., networks, hosts, applications, data), including systems’ hostnames, IP addresses, and function  
   ー システムのホスト名、IP アドレス、機能を含む、影響を受けるリソース（ネットワーク、ホスト、アプリケーション、データなど）の説明   
  – If known, incident category, vectors of attack associated with the incident, and indicators related to the incident (traffic patterns, registry keys, etc.)   
-  ー 既知の場合は、インシデントのカテゴリー、インシデントに関連する攻撃のベクトル、およびインシデントに関連する指標（トラフィックパターン、レジストリキーなど  
+  ー 既知の場合は、インシデントのカテゴリー、インシデントに関連する攻撃のベクトル、およびインシデントに関連する指標（トラフィックパターン、レジストリキーなど）  
  – Prioritization factors (functional impact, information impact, recoverability, etc.)  
-  ー 優先順位付けの要因（機能的な影響、情報への影響、復旧可能性など  
+  ー 優先順位付けの要因（機能的な影響、情報への影響、復旧可能性など）  
  – Mitigating factors (e.g., stolen laptop containing sensitive data was using full disk encryption)  
-  ー 緩和要因（例：機密データを含む盗まれたノートパソコンが完全なディスク暗号化を使用していたなど  
+  ー 緩和要因（例：機密データを含む盗まれたノートパソコンが完全なディスク暗号化を使用していたなど）  
  – Response actions performed (e.g., shut off host, disconnected host from network)  
-  ー 実行されたレスポンスアクション（例：ホストのシャットオフ、ネットワークからのホストの切断  
+  ー 実行されたレスポンスアクション（例：ホストのシャットオフ、ネットワークからのホストの切断）  
  – Other organizations contacted (e.g., software vendor)  
-  ー 連絡を取った他の組織（例：ソフトウェアベンダー  
+  ー 連絡を取った他の組織（例：ソフトウェアベンダー）  
  
 ■ General Comments  総評  
-
 
 ### B.2 Incident Handler Data Elements  
 ### B.2 インシデントハンドラのデータ要素 
@@ -76,17 +75,17 @@ Each organization should create its own list of elements based on several factor
 ■ Incident Handling Actions  
 ■ インシデント対応アクション  
  – Log of actions taken by all handlers  
- ー すべてのハンドラーが実行したアクションのログ  
+ – すべてのハンドラーが実行したアクションのログ  
  – Contact information for all involved parties  
- ー 関係者の連絡先
+ – 関係者の連絡先
  – List of evidence gathered  
- ー 集められた証拠の一覧 
+ – 集められた証拠の一覧 
 
 ■ Incident Handler Comments  
 ■ インシデントハンドラのコメント  
 
 ■ Cause of the Incident (e.g., misconfigured application, unpatched host)  
-■ インシデントの原因（アプリケーションの設定ミス、パッチが適用されていないホストなど  
+■ インシデントの原因（アプリケーションの設定ミス、パッチが適用されていないホストなど）  
 
 ■ Cost of the Incident  
 ■ インシデントの費用  
@@ -95,4 +94,4 @@ Each organization should create its own list of elements based on several factor
 ■ インシデントのビジネスへの影響※
 
 ※The business impact of the incident could either be a description of the incident’s effect (e.g., accounting department unable to perform tasks for two days) or an impact category based on the cost (e.g., a “major” incident has a cost of over $100,000).  
-インシデントのビジネスへの影響は、インシデントの影響の説明（例えば、会計部門が2日間タスクを実行できないなど）か、コストに基づく影響のカテゴリー（例えば、「重大な」インシデントは10万ドル以上のコストがかかるなど）のいずれかである可能性があります。
+※ インシデントのビジネスへの影響は、インシデントの影響の説明（例えば、会計部門が2日間タスクを実行できないなど）か、コストに基づく影響のカテゴリー（例えば、「重大な」インシデントは10万ドル以上のコストがかかるなど）のいずれかである可能性があります。

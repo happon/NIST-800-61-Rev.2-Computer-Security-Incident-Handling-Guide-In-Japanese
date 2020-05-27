@@ -2,7 +2,7 @@
 ### 4.3 粒度の高い情報の共有
 
 Organizations need to balance the benefits of information sharing with the drawbacks of sharing sensitive information, ideally sharing the necessary information and only the necessary information with the appropriate parties.  
-組織は、情報共有の利点と機密情報を共有することの欠点のバランスをとる必要があり、理想的には、必要な情報を共有し、必要な情報のみを適切な関係者と共有する必要があります
+組織は、情報共有の利点と機密情報を共有することの欠点のバランスをとる必要があり、理想的には、必要な情報を共有し、必要な情報のみを適切な関係者と共有する必要があります。
 
 Organizations can think of their incident information as being comprised of two types of information: business impact and technical.  
 組織は、インシデント情報を、ビジネスに影響を与える情報と技術的な情報の2つのタイプで構成されていると考えることができます。

@@ -14,7 +14,7 @@ The organization has already incurred widespread infections before antivirus sig
 ワームが拡散し始めてから数時間後のウイルス対策シグネチャが利用可能になる前に、組織はすでに広範囲の感染を起こしています。  
 
 The following are additional questions for this scenario:  
-以下は、このシナリオに関する追加の質問です。  
+このシナリオに関する追加の質問は以下の通りです。  
 
 1. How would the incident response team identify all infected hosts?  
 インシデント対応チームは、感染したすべてのホストをどのようにして特定しますか?   

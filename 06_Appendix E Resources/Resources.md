@@ -4,8 +4,6 @@
 The lists below provide examples of resources that may be helpful in establishing and maintaining an incident response capability.
 以下のリストは、インシデント対応能力の確立と維持に役立つ情報源の一例です。  
 
-<br/>
-
 #### Incident Response Organizations
 #### インシデント対応組織
 

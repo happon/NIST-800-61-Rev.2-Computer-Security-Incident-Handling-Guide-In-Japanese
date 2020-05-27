@@ -26,10 +26,10 @@ The following are additional questions for this scenario:
 問題の外部IPアドレスに関して、組織は誰に連絡すべきか? 
 
 2. Suppose that after the initial containment measures were put in place, the network administrators detected that nine internal hosts were also attempting the same unusual requests to the DNS server.  
- 初期の封じ込め対策を実施した後、ネットワーク管理者が、9 台の内部ホストが DNS サーバーに同じ異常な要求を試みていることを検出したとします。  
- How would that affect the handling of this incident?  
- そのことは、このインシデントの処理にどのような影響を与えますか?  
+初期の封じ込め対策を実施した後、ネットワーク管理者が、9 台の内部ホストが DNS サーバーに同じ異常な要求を試みていることを検出したとします。  
+How would that affect the handling of this incident?  
+そのことは、このインシデントの処理にどのような影響を与えますか?  
 
 
 3. Suppose that two of the nine internal hosts disconnected from the network before their system owners were identified. How would the system owners be identified?  
- 9台の内部ホストのうち2台が、システムの所有者が特定される前にネットワークから切断されたとします。システム所有者はどのようにして特定されますか? 
+9台の内部ホストのうち2台が、システムの所有者が特定される前にネットワークから切断されたとします。システム所有者はどのようにして特定されますか? 

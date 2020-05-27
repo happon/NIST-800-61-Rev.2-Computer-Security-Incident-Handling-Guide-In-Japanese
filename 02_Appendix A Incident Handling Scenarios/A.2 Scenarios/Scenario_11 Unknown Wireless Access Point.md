@@ -24,7 +24,7 @@ He checks with his teammates and determines that this access point was not deplo
 アクセスポイントが外部の関係者（契約者など）によって一時的に組織のオフィスに配置されていた場合、このインシデントの処理はどのように異なるでしょうか？
 
 4. How would the handling of this incident differ if an intrusion detection analyst reported signs of suspicious activity involving some of the workstations on the same floor of the building?  
-.侵入検知アナリストが、ビルの同じフロアにあるいくつかのワークステーションに関係する不審な活動の兆候を報告した場合、このインシデントの処理はどのように異なるでしょうか? 
+侵入検知アナリストが、ビルの同じフロアにあるいくつかのワークステーションに関係する不審な活動の兆候を報告した場合、このインシデントの処理はどのように異なるでしょうか? 
 
 5. How would the handling of this incident differ if the access point had been removed while the team was still attempting to physically locate it?  
 チームがまだ物理的にアクセスポイントの位置を特定しようとしている間に、アクセスポイントが取り外されていた場合、このインシデントの処理はどのように異なるでしょうか?

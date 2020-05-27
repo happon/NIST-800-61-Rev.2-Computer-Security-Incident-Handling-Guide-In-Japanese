@@ -14,7 +14,7 @@ The incident response team has been asked to acquire evidence related to the inc
 インシデント対応チームは、インシデントに関連する証拠を取得し、どのような行動が行われたかを判断するように求められています。
 
 The following are additional questions for this scenario:  
-このシナリオの追加質問は以下の通りです。
+このシナリオに関する追加の質問は以下の通りです。
 
 1. How would the team determine what actions had been performed?  
 どのようにして、どのようなアクションが実行されたかを判断するのでしょうか? 

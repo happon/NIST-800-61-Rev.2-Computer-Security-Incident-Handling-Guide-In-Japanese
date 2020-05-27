@@ -11,7 +11,7 @@ The team then discusses each question and determines the most likely answer.
 その後、チームはそれぞれの質問について議論し、最も可能性の高い回答を決定します。 
 
 The goal is to determine what the team would really do and to compare that with policies, procedures, and generally recommended practices to identify discrepancies or deficiencies.  
-目標は、チームが実際に何をするかを判断し、それをポリシー、手順、および一般的に推奨されている慣行と比較して、矛盾や欠陥を特定することです。 
+ゴールは、チームが実際に何をするかを判断し、それをポリシー、手順、および一般的に推奨されている慣行と比較して、矛盾や欠陥を特定することです。 
 
 For example, the answer to one question may indicate that the response would be delayed because the team lacks a piece of software or because another team does not provide off-hours support.  
 例えば、ある質問への回答は、チームにソフトウェアがないために回答が遅れることや、他のチームが時間外のサポートを提供していないために回答が遅れることを示しているかもしれません。 
@@ -26,7 +26,7 @@ After the questions are scenarios, each of which is followed by additional incid
 質問の後にはシナリオがあり、それぞれの質問の後には追加のインシデント固有の質問が続きます。
 
 Organizations are strongly encouraged to adapt these questions and scenarios for use in their own incident response exercises.※
-組織において、これらの質問とシナリオを、独自のインシデントハンドリング演習で使用するよう強く推奨します。
+組織において、これらの質問とシナリオを、独自のインシデントハンドリング演習で使用するよう強く推奨します※。
 
 ※ For additional information on exercises, see NIST SP 800-84, Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities, which is available at http://csrc.nist.gov/publications/PubsSPs.html#800-84.  
-演習の詳細については、http://csrc.nist.gov/publications/PubsSPs.html#800-84 にある NIST SP 800-84, Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities を参照してください。
+※ 演習の詳細については、http://csrc.nist.gov/publications/PubsSPs.html#800-84 にある NIST SP 800-84, Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities を参照してください。

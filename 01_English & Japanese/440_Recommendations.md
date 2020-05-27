@@ -35,7 +35,7 @@ Organizations should not wait until an incident has been fully resolved before s
 <br/>
 
 ■ **Attempt to automate as much of the information sharing process as possible.**  
-■ **情報共有プロセスを可能な限り自動化させる。**
+■ **情報共有プロセスを可能な限り自動化させる**
 
 This makes crossorganizational coordination efficient and cost effective.  
 これにより、組織横断的な連携が、効率的かつ費用対効果の高いものになります。  
@@ -46,7 +46,7 @@ Organizations should attempt to achieve a balance of automated information shari
 <br/>
 
 ■ **Balance the benefits of information sharing with the drawbacks of sharing sensitive information.**  
-■ **情報共有の利点と、機密情報を共有することの欠点とのバランスをとる。**
+■ **情報共有の利点と、機密情報を共有することの欠点とのバランスをとる**
 
 Ideally organizations should share the necessary information and only the necessary information with the appropriate parties.  
 理想的には、組織は必要な情報を適切な関係者と共有し、必要な情報のみを共有すべきです。
@@ -60,7 +60,7 @@ When sharing information with peer and partner organizations, incident response 
 <br/>
 
 ■ **Share as much of the appropriate incident information as possible with other organizations.**  
-■ **適切なインシデント情報を可能な限り他の組織と共有する。**
+■ **適切なインシデント情報を可能な限り他の組織と共有する**
 
 Organizations should consider which types of technical information should or should not be shared with various parties.  
 組織は、どのタイプの技術情報を様々な関係者と共有すべきか、あるいは共有すべきでないかを検討すべきです。 

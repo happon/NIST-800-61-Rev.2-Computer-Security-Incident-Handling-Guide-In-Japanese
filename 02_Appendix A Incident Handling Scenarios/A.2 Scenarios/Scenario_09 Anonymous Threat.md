@@ -8,7 +8,7 @@ Based on an investigation, the physical security team believes that the threats 
 調査に基づき、フィジカルセキュリティチームは、脅威を真剣に受け止めるべきだと考え、インシデント対応チームを含む適切な内部チームに脅威を通知します。
 
 The following are additional questions for this scenario:  
-以下は、このシナリオに関する追加の質問です。 
+このシナリオに関する追加の質問は以下の通りです。
 
 1. What should the incident response team do differently, if anything, in response to the notification of the threats?  
 インシデント対応チームは、脅威の通知に対応して、何かあるとすれば、どのように異なる行動をとるべきでしょうか？

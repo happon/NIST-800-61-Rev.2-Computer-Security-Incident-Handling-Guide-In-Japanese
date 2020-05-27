@@ -11,7 +11,7 @@ When the team begins the analysis, it discovers that the activity has stopped an
 チームが分析を開始すると、アクティビティが停止しており、そのIPアドレスを使用しているホストが存在しなくなっていることがわかります。
 
 The following are additional questions for this scenario:  
-以下は、このシナリオに関する追加の質問です。 
+このシナリオに関する追加の質問は以下の通りです。
 
 1. What data sources might contain information regarding the identity of the vulnerability scanning host?  
 どのようなデータソースが脆弱性スキャンホストの身元に関する情報を含んでいる可能性がありますか?  

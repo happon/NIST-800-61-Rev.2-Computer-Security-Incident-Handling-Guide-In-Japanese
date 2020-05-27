@@ -14,7 +14,7 @@ The agent asks for the organization’s assistance, and management asks for the 
 捜査官は組織の支援を求め、経営陣はこれらの文書が正当なものであるかどうか、どのようにして漏洩した可能性があるかを判断するために必要な証拠を入手するために、インシデント対応チームの支援を求めています。  
 
 The following are additional questions for this scenario:  
-このシナリオの追加質問は以下の通りです。  
+このシナリオに関する追加の質問は以下の通りです。
 
 1. From what sources might the incident response team gather evidence?  
 インシデント対応チームは、どのような情報源から証拠を収集する可能性がありますか？ 

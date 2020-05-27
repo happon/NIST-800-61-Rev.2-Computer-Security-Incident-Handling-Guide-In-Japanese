@@ -11,7 +11,7 @@ The team reviews the intrusion detection, firewall, and VPN server logs and iden
 チームは、侵入検知、ファイアウォール、および VPN サーバーのログを確認し、セッションで認証されたユーザー ID と、そのユーザー ID に関連付けられたユーザー名を特定します。  
 
 The following are additional questions for this scenario:  
-このシナリオの追加質問は以下の通りです。 
+このシナリオに関する追加の質問は以下の通りです。
 
 1. What should the team’s next step be (e.g., calling the user at home, disabling the user ID, disconnecting the VPN session)? Why should this step be performed first? What step should be performed second?  
 チームの次のステップは何ですか? なぜこのステップを最初に実行する必要があるのでしょうか? 次に実行すべきステップは何ですか?

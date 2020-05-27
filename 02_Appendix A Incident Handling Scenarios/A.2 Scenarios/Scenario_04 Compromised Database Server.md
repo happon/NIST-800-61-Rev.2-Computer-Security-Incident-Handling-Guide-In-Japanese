@@ -14,7 +14,7 @@ The team’s investigation determines that the attacker successfully gained root
 チームの調査では、攻撃者が6週間前にサーバへのルートアクセスに成功したことが判明しました。 
 
 The following are additional questions for this scenario:  
-以下は、このシナリオに関する追加の質問です。 
+このシナリオに関する追加の質問は以下の通りです。
 
 1. What sources might the team use to determine when the compromise had occurred?  
 チームはどのような情報源を使用して、侵害がいつ発生したかを判断することができますか?  

@@ -1,5 +1,5 @@
 ### Scenario 5: Unknown Exfiltration 
-### シナリオ５：ふっめいな流出
+#### シナリオ５：不明な流出
 
 On a Sunday night, one of the organization’s network intrusion detection sensors alerts on anomalous outbound network activity involving large file transfers.  
 日曜日の夜、組織のネットワーク侵入検知センサーの1つが、大規模なファイル転送を含む異常なアウトバウンドネットワークアクティビティを警告しました。 
@@ -17,7 +17,7 @@ Analysis of the internal host containing the .RAR files shows signs of a bot ins
 .RARファイルを含む内部ホストを分析すると、ボットのインストールの兆候が見られます。
 
 The following are additional questions for this scenario:  
-以下は、このシナリオに関する追加の質問です。
+このシナリオに関する追加の質問は以下の通りです。
 
 1. How would the team determine what was most likely inside the .RAR files? Which other teams might assist the incident response team?  
 . RARファイルの内部にある可能性の高いものをチームはどのように判断するのでしょうか？他のどのチームがインシデント対応チームを支援しますか？ 
