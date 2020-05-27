@@ -23,7 +23,7 @@ Nothing in this document should be taken to contradict standards and guidelines 
 
 <br/>
 
-### 1.2 Purpose and Scope「目的と範囲」
+### 1.2 Purpose and Scope 目的と範囲  
 
 This publication seeks to assist organizations in mitigating the risks from computer security incidents by providing practical guidelines on responding to incidents effectively and efficiently.  
 本書は、インシデントへの効果的かつ効率的な対応に関する実践的なガイドラインを提供することで、コンピュータセキュリ ティインシデントによるリスクを軽減するための組織を支援することを目的としています。  
@@ -36,14 +36,14 @@ Organizations are encouraged to tailor the recommended guidelines and solutions 
 
 <br/>
 
-### 1.3 Audience「対象者」
+### 1.3 Audience 対象者 
 
 This document has been created for computer security incident response teams (CSIRTs), system and network administrators, security staff, technical support staff, chief information security officers (CISOs), chief information officers (CIOs), computer security program managers, and others who are responsible for preparing for, or responding to, security incidents.  
 この文書は、コンピュータセキュリティインシデント対応チーム（CSIRT）、システムおよびネットワーク管理者、セキュリティスタッフ、技術サポートスタッフ、最高情報セキュリティ責任者（CISO）、最高情報責任者（CIO）、コンピュータセキュリティプログラムマネージャー、その他セキュリティインシデントへの準備や対応に責任を持つ人々のために作成されました。 　
 
 <br/>
 
-### 1.4 Document Structure「文章構成」
+### 1.4 Document Structure 文章構成
 
 The remainder of this document is organized into the following sections and appendices:  
 本書の残りの部分は、以下のセクションと付録で構成されています。  
