@@ -1,5 +1,5 @@
 ### Appnedix F Frequently Asked Questions
-### 付録F　よくある質問
+### 付録F よくある質問
 
 Users, system administrators, information security staff members, and others within organizations may have questions about incident response.  
 組織内のユーザ、システム管理者、情報セキュリティ担当者などから、インシデント対応に関する質問を受けることがあります。 
