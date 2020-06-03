@@ -23,7 +23,7 @@ The team should document all contacts and communications with outside parties fo
 
 
 The following sections provide guidelines on communicating with several types of outside parties, as depicted in Figure 2-1.  
-以下のセクションでは、図 2-1 に示すように、いくつかのタイプの外部当事者との通信に関するガイドラインを示します。  
+以下のセクションでは、図 2-1 に示すように、いくつかのタイプの外部当事者とのコミュニケーションに関するガイドラインを示します。  
 
 <img src="https://github.com/happon/figureRepository/blob/master/figure2-1communications%20with%20outside%20parties.png" alt="図21" title="図2-1" width="480" height="480">
 
